@@ -1,0 +1,1564 @@
+1
+00:00:00,000 --> 00:00:08,760
+My name is Scott Galloway. I teach at NYU and it's great to be here. I have 2,700 seconds and 149 slides, so let's light this candle.
+
+2
+00:00:09,760 --> 00:00:19,200
+I haven't eaten this morning. A lot of people, so I could pass out and throw up. It'll be fine. By the way, isn't it fucking awesome to be together again?
+
+3
+00:00:22,960 --> 00:00:28,360
+Really, really is nice. And I know I'm in the right place. Thank you, LightClaw!
+
+4
+00:00:31,000 --> 00:00:44,000
+Alright, so we'll go through our predictions, then we will talk about silver linings. I naturally see the world as glass half empty, so I try to be positive and force myself to talk about some positive things.
+
+5
+00:00:44,000 --> 00:00:52,000
+And I'm going to try and wrap up with the question I get most across presentations, and that is, what is the profound opportunity coming out of COVID-19?
+
+6
+00:00:52,000 --> 00:00:57,000
+And that's a question that people have been asking for about 18 months because it kept on going.
+
+7
+00:00:57,000 --> 00:01:09,000
+Some disclosures. These are my stock holdings. Very exciting. Other disclosure, I'm not here with a message of hope, and also I am profane and vulgar.
+
+8
+00:01:09,000 --> 00:01:20,000
+It is not an act. I am generally a profane and vulgar person. So just a bit of a time warp. You know, you make plans and then God laughs.
+
+9
+00:01:20,000 --> 00:01:29,000
+This was my tweet two days before I was supposed to get on a plane for Austin, I guess three years ago now, or excuse me, two years ago.
+
+10
+00:01:29,000 --> 00:01:39,000
+And I said, I'm coming to Austin. I'm going to shake people's hands. I thought that this whole COVID-19 thing was going to be a big nothing burger.
+
+11
+00:01:39,000 --> 00:01:44,000
+And if anything, I think a lot of this teaches us humility.
+
+12
+00:01:44,000 --> 00:01:54,000
+I also said the year before here that Tesla was going to come undone. And I was 100% certain of this.
+
+13
+00:01:54,000 --> 00:02:02,000
+And if you'd listen to me and sold your stock, you'd be pretty angry right now. It didn't get cut in half.
+
+14
+00:02:02,000 --> 00:02:09,000
+It actually went up 17 fold since I made that prediction. So plans are worthless. Planning is invaluable.
+
+15
+00:02:09,000 --> 00:02:20,000
+I feel the same way about predictions. Predictions are worthless, but predicting is invaluable because it forces you to think through the notions or the logic to get you there and then look back and say what we got right, what we got wrong, and what happened.
+
+16
+00:02:20,000 --> 00:02:28,000
+So made these predictions in November. And I want you to keep this in mind because when they come true, they seem less interesting because there's been a series of events that have led up to them.
+
+17
+00:02:28,000 --> 00:02:34,000
+But this is when we made these predictions, and that is approximately four months ago. So I'm already wrong.
+
+18
+00:02:34,000 --> 00:02:43,000
+I predicted that Francis Haugen would be Time's Person of the Year, and that was not correct. I still like to think it happened.
+
+19
+00:02:43,000 --> 00:02:53,000
+It was Elon Musk. And initially I thought that was a terrible pick. And as I think about it, it is a good pick.
+
+20
+00:02:53,000 --> 00:03:02,000
+Mr. Musk really does mark the age. Technological brilliance, incredible wealth. 70% of the EV market in the United States is controlled by Tesla.
+
+21
+00:03:02,000 --> 00:03:09,000
+There will be more Tesla sold this year in America than Mercedes. Incredible vision. There really is a lot to admire here.
+
+22
+00:03:09,000 --> 00:03:18,000
+Also, I think it marks the age in sort of a strange way, and that is someone who uses social media to prove to us that his inner child has not developed an outer man.
+
+23
+00:03:18,000 --> 00:03:27,000
+I think that insulting our elected representatives, phrased it our connective tissue, and it's just generally not good for the Commonwealth.
+
+24
+00:03:27,000 --> 00:03:36,000
+I have a bias. He has tweeted at me. I said that after this ridiculous poll about whether he should sell Twitter stock,
+
+25
+00:03:36,000 --> 00:03:44,000
+I found a SEC filing saying that he had filed to sell shares, and this was nothing but a cloud cover and sort of a head fake.
+
+26
+00:03:44,000 --> 00:03:50,000
+And he tweeted that doing the opposite of whatever that insufferable numbskull says would be a great way to invest.
+
+27
+00:03:50,000 --> 00:03:55,000
+This is not true. I am sufferable. I am 100% sufferable.
+
+28
+00:03:55,000 --> 00:04:05,000
+Next prediction, prediction, fundamentals and valuations reunite stocks and sort of the meme stock movement would come undone.
+
+29
+00:04:05,000 --> 00:04:09,000
+Again, we said this in November. I think we've gotten this right so far.
+
+30
+00:04:09,000 --> 00:04:14,000
+This is a list of companies that are lost at least two thirds of their value.
+
+31
+00:04:14,000 --> 00:04:20,000
+Think about this. Lost two thirds of their value or more, likely just in the last six months.
+
+32
+00:04:20,000 --> 00:04:26,000
+So look at this list. It's just striking what has happened in the markets.
+
+33
+00:04:26,000 --> 00:04:34,000
+And there are some fantastic companies here, again, that have lost two thirds of their value since their 52 week high.
+
+34
+00:04:34,000 --> 00:04:42,000
+So over the last 12 months, if not the last six months, there's also some bad businesses that have lost two thirds of their value
+
+35
+00:04:42,000 --> 00:04:49,000
+and are still massively overvalued, in my opinion. AMC and GameStop are shitty businesses.
+
+36
+00:04:49,000 --> 00:04:54,000
+They are not a movement. They are not a way for you to strike back at an older generation.
+
+37
+00:04:54,000 --> 00:04:59,000
+You are buying shares in a theater company and a failing retailer.
+
+38
+00:04:59,000 --> 00:05:03,000
+I think Blackberry, Hertz and Robinhood are still going to decline dramatically.
+
+39
+00:05:03,000 --> 00:05:07,000
+And I also want to acknowledge that sometimes it is darker before the dawn.
+
+40
+00:05:07,000 --> 00:05:14,000
+In my view with some of these stocks, sometimes it's darkest before it's pitch black.
+
+41
+00:05:14,000 --> 00:05:18,000
+I think it's about to get a lot worse for a lot of these firms.
+
+42
+00:05:18,000 --> 00:05:27,000
+So even at these markdown valuations, you have Tesla trading at 15 times what revenues versus BMW at 1.2,
+
+43
+00:05:27,000 --> 00:05:32,000
+AMC at 12 times revenues versus Netflix at 5.6.
+
+44
+00:05:32,000 --> 00:05:40,000
+So right now, AMC theaters is trading at twice the valuation in terms of the enterprise value to revenues as Netflix.
+
+45
+00:05:40,000 --> 00:05:46,000
+And GameStop, a struggling retailer, is trading at two and a half times what Best Buy is trading at,
+
+46
+00:05:46,000 --> 00:05:50,000
+a thriving juggernaut, very profitable retailer.
+
+47
+00:05:50,000 --> 00:05:57,000
+Lucid has nearly the market capitalization of Honda, a company that has not shipped a car yet.
+
+48
+00:05:57,000 --> 00:06:01,000
+But this isn't a car company, according to these companies.
+
+49
+00:06:01,000 --> 00:06:05,000
+They are sustaining life and enchanting future generations, changing.
+
+50
+00:06:05,000 --> 00:06:10,000
+This is where Rivian's potential lies. They are combating climate change.
+
+51
+00:06:10,000 --> 00:06:15,000
+No, they're bending steel, wrapping it around an electric motor and selling it.
+
+52
+00:06:15,000 --> 00:06:25,000
+There is a level of yoga babble and general bullshit in the marketplace that tries to detach you from your money and from fundamentals to market prices.
+
+53
+00:06:25,000 --> 00:06:31,000
+That's part of the problem with crypto is there's no benchmarks or underlying cash flows to value any of this stuff.
+
+54
+00:06:31,000 --> 00:06:36,000
+And why would you want to be valued like a company that has actual numbers that you have to deliver again?
+
+55
+00:06:36,000 --> 00:06:44,000
+So instead of talking about we're an automobile company, we're addressing a multi-trillion dollar problem called climate change.
+
+56
+00:06:44,000 --> 00:06:47,000
+This is the market cap per car sold.
+
+57
+00:06:47,000 --> 00:06:52,000
+Daimler-Benz gets about a hundred grand per car in terms of market capitalization.
+
+58
+00:06:52,000 --> 00:06:55,000
+Rivian, which has not shipped a car yet.
+
+59
+00:06:55,000 --> 00:06:57,000
+By the way, I'm on the list of Rivian, 750,000.
+
+60
+00:06:57,000 --> 00:07:05,000
+And Tesla shareholders afford the company over three million dollars per car shipped in terms of market capitalization.
+
+61
+00:07:05,000 --> 00:07:16,000
+So these multiples, in my opinion, are not sustainable, especially for companies that haven't shown an ability to ship a car that people will actually enjoy or that doesn't get recalled over and over.
+
+62
+00:07:16,000 --> 00:07:27,000
+Typically, in this part of the cycles, when we see large retail influx into the market, it kind of signals a top as evidenced by the fact that retail investors are making a disproportionately large part of the market.
+
+63
+00:07:27,000 --> 00:07:31,000
+I'm not saying that alternative investment managers or hedge fund managers are any better.
+
+64
+00:07:31,000 --> 00:07:36,000
+The best way to describe the hedge fund industry over the last 10 years would be expensive, but bad.
+
+65
+00:07:36,000 --> 00:07:41,000
+But effectively, you do see a cycle when retail investors plow into the market.
+
+66
+00:07:41,000 --> 00:07:50,000
+It usually signals a top AMC great company, except for the people who know it best, who have all been selling like crazy.
+
+67
+00:07:50,000 --> 00:07:57,000
+So, no, you should buy my stock, but I'm going to hit the sell button.
+
+68
+00:07:57,000 --> 00:08:05,000
+Is Robin Hood a growth company? Robin Hood is arguably as a function of its multiples, the most overvalued company in the financial services sector.
+
+69
+00:08:05,000 --> 00:08:11,000
+And it's no longer growing. As a matter of fact, this is a company that appears to be in decline.
+
+70
+00:08:11,000 --> 00:08:19,000
+It actually declined. It did not grow in its last quarter, but it's managed to continue scaling its losses.
+
+71
+00:08:19,000 --> 00:08:23,000
+These are its active users. This is its revenue per user.
+
+72
+00:08:23,000 --> 00:08:26,000
+I should point out I have a bias. I think they are mendacious fucks.
+
+73
+00:08:26,000 --> 00:08:30,000
+Addicting young men under the auspices of learning and investing.
+
+74
+00:08:30,000 --> 00:08:33,000
+Six out of seven gambling addicts are men.
+
+75
+00:08:33,000 --> 00:08:40,000
+The addiction with the highest rate of suicide is in fact gambling, because if you get a meth or an alcohol addiction, people intervene.
+
+76
+00:08:40,000 --> 00:08:45,000
+People don't know how far deep, how badly you have fucked up your life with gambling addiction.
+
+77
+00:08:45,000 --> 00:08:50,000
+Be clear, you are not investing. You are not learning. You are gambling, which is fine.
+
+78
+00:08:50,000 --> 00:08:55,000
+Gambling can be fun, but don't fool yourself.
+
+79
+00:08:55,000 --> 00:08:59,000
+What if Robin Hood traded like its peers? It's off two thirds.
+
+80
+00:08:59,000 --> 00:09:02,000
+I think it could go down another 90 percent.
+
+81
+00:09:02,000 --> 00:09:14,000
+Its implied valuation based on metrics from other firms that are growing and have much better businesses says that right now it's about 10x trading at 10x the market cap it should be trading at.
+
+82
+00:09:14,000 --> 00:09:23,000
+Another ridiculous business, space tourism.
+
+83
+00:09:23,000 --> 00:09:31,000
+I've never seen a company more supply and demand constrained at the same time. Never seen it.
+
+84
+00:09:31,000 --> 00:09:40,000
+And yet even with this 70 or 80 percent drawdown in its market cap, it is still trading at what is an unattainable or unsustainable multiple.
+
+85
+00:09:40,000 --> 00:09:47,000
+This is the stock performance over the last three months, and I think it's about to get worse.
+
+86
+00:09:47,000 --> 00:09:51,000
+To their credit, this was the ultimate PR move. We've never seen anything like that.
+
+87
+00:09:51,000 --> 00:09:56,000
+Everyone was watching the Virgin launch. A billion people must have launched that.
+
+88
+00:09:56,000 --> 00:10:01,000
+And based on that, they have signed up a grand total so far of 600 people.
+
+89
+00:10:01,000 --> 00:10:14,000
+This product makes no sense. People aren't interested in going one fourth thousandth of the distance that three brave people went 50 years ago when America had homes, a third of homes that didn't have indoor plumbing.
+
+90
+00:10:14,000 --> 00:10:26,000
+These are not astronauts. This is not anything resembling an achievement that we haven't achieved in a great exponentially more bravery and scientific innovation than we did 50 years ago.
+
+91
+00:10:26,000 --> 00:10:33,000
+Sally Ride raised by a minister and a high school teacher risked their lives.
+
+92
+00:10:33,000 --> 00:10:40,000
+Ph.D.'s and physics. Those are astronauts, not the sons of private equity billionaires.
+
+93
+00:10:41,000 --> 00:10:48,000
+Virgin gets three million dollars per ticket sold in terms of market capitalization, whereas Aston Martin gets two thousand dollars market cap per car sold.
+
+94
+00:10:48,000 --> 00:10:56,000
+Space exploration is not space exploration. It's space execution.
+
+95
+00:10:56,000 --> 00:11:04,000
+I'll give you this. On Mars, the view is literally will literally take your breath away.
+
+96
+00:11:04,000 --> 00:11:17,000
+Because there's no oxygen on Mars. By the way, Texas, I'm pissed off. I was promised beautiful weather. It's 58 degrees. It's minus 112 right now on Mars.
+
+97
+00:11:17,000 --> 00:11:29,000
+And it's one thing when an astronaut is killed. It's one thing when someone fixing a satellite is killed. It's another thing when Bob from accounting has spent his life savings to be incinerated on a launch pad.
+
+98
+00:11:29,000 --> 00:11:39,000
+This business, this entire sector could go to zero in a flash. Space is not hospitable.
+
+99
+00:11:39,000 --> 00:11:47,000
+It's called space because it doesn't want anything else there, much less a living organism.
+
+100
+00:11:47,000 --> 00:11:54,000
+Five hundred and fifty people have gone into space. Eleven have not returned. It's got an incredibly high morbidity rates.
+
+101
+00:11:54,000 --> 00:12:02,000
+If you want to do something much safer, try base jumping in space. No one can hear you scream. One of my favorite movies.
+
+102
+00:12:02,000 --> 00:12:13,000
+It also appears that no one can hear you sell that people who know Virgin Galactic, the best, the biggest investor and the founder have all decided that you should buy their stock, but they're going to sell.
+
+103
+00:12:13,000 --> 00:12:21,000
+And they have been selling like crazy because they know this company and know this business makes absolutely no sense.
+
+104
+00:12:21,000 --> 00:12:31,000
+I'm angry today. I'm angry prediction. I think a lux coin is going to emerge. I think we're going to put we're going to figure out a way to put scarcity on the block chain.
+
+105
+00:12:31,000 --> 00:12:48,000
+So what would happen if Chanel said anyone who owns our coin and we're only going to issue 10,000 of them gets access to any 10 products across our fashion or jewelry line at any time you get a very high EQ fashion consultant get invited to the coolest, most aspirational fashion events globally.
+
+106
+00:12:48,000 --> 00:13:00,000
+Literally the perfect gift for your fourth wife. What would that coin? What would that coin go for? Oh, and by the way, only owners of the coin have rights to the IP and visual representation in the metaverse.
+
+107
+00:13:00,000 --> 00:13:12,000
+You can have Chanel bags or the Chanel logo as your visual metaphor in the metaverse. What would that coin go for? If Chanel announced it was putting out just 10,000 of these coins. That's it.
+
+108
+00:13:12,000 --> 00:13:27,000
+I don't think it's unreasonable to think this coin would go for 100,000 $500,000. Imagine the speculation it would attract. So overnight, I believe Chanel or a mess could raise 5 to 10 billion dollars trying to monetize this scarcity.
+
+109
+00:13:27,000 --> 00:13:39,000
+Right now we signal offline with a variety of different products. We signal very much with universities. People say these are the most valuable brands in the world. That's not true. These are the most valuable brands in the world.
+
+110
+00:13:39,000 --> 00:14:00,000
+No one gives Apple $300 million to put their name on the side of a building in the Cupertino campus. What if Stanford issued a coin? 100,000 coins. You get access to lifelong learning, come to the football games, get to vote on the governance, and also anyone who owns a coin can pick someone to pursue a degree.
+
+111
+00:14:00,000 --> 00:14:13,000
+Now they have to hit minimum standards. That might sound, that just doesn't make sense. We need an admissions department. The hardest thing about Stanford is getting in. The majority of people who get in graduate. What would that coin go for? Right?
+
+112
+00:14:13,000 --> 00:14:20,000
+And the bottom line is you'd say, well, that just makes Stanford the domain of the rich. That's called Stanford.
+
+113
+00:14:20,000 --> 00:14:36,000
+There are two cohorts to get into elite universities. The children of rich people, the top 1% income earning households are 77 times more likely to get into an elite university and a small group of what I affectionately call the freakishly remarkable to distract us from the fact that it's mostly rich kids getting in.
+
+114
+00:14:36,000 --> 00:14:55,000
+So let's just be transparent about it. And Becky went to prison, not because she tried to bribe USC with $500,000. She went to prison for cheaping out. If she had offered $5 million, the president of USC would have invited her for a ribbon cutting and all her daughters would have gotten no problem.
+
+115
+00:14:55,000 --> 00:15:18,000
+What would a coin for Jackson Memorial or Mayo or Cedars or the Langone School? What if you said we have a coin cradle to grave world class health care for you and your family? That kind of that would be the ultimate gift from a grandparent to their kids, right? What would that coin go for?
+
+116
+00:15:18,000 --> 00:15:39,000
+Best health care in the world, no insurance, no payments, texting, best health care professionals in the world. All you need is this coin and your health care for your entire life is covered. By the way, I stopped buying health insurance four years ago. Why? Because I have the financial security to absorb an economic blow from a health scare.
+
+117
+00:15:40,000 --> 00:15:56,000
+I have saved in the last four years approximately $200,000 by not having health insurance for me and my family that will buy a lot of health care insurance in America is nothing but a transfer of wealth from the poor to the rich because the poor can't absorb that type of risk taking.
+
+118
+00:15:57,000 --> 00:16:19,000
+All kinds of scarcity around coins will emerge. What Coachella is doing, we're only going to see but exponentially. I would imagine South by will do it at some point. Open sea valuation doubles. I'm actually quite bullish on NFTs. We used to meet through friends in bars and restaurants and at school. Now we're all meeting online, especially post COVID.
+
+119
+00:16:19,000 --> 00:16:36,000
+So just as offline, we try and signal and say that if I have ergonomically impossible shoes that gives you the sense I have longer legs, I am more ripe for mating. If I have a Ferrari, it means your kids are less likely to be eaten by a competitor than someone driving a Mazda.
+
+120
+00:16:36,000 --> 00:16:48,000
+We signal these things so we can be more attractive to the other sex and occasionally such that we can feel closer to God. But the signaling is going to increasingly move online, which I think will drive up the value of NFTs.
+
+121
+00:16:49,000 --> 00:17:03,000
+We're going to see media companies and sports franchises absolutely skyrocket in value because what they are is they're reservoirs of NFTs and they will be able to establish entirely new forms of high margin cash flows.
+
+122
+00:17:03,000 --> 00:17:12,000
+Sports teams already recognize this about a third of a billion dollars in NFTs and tokens have been sold and they're just getting started. I wouldn't describe them as technically sophisticated.
+
+123
+00:17:13,000 --> 00:17:25,000
+I think open sea is going to be the big winner here. So far they seem to be by far and away the market share leader and I predicted that their valuation would double in the next 12 months. It's already up 33% and what is a down market.
+
+124
+00:17:26,000 --> 00:17:30,000
+So it appears as if we're getting that right. I've been saying for a while that Peloton is going to be acquired.
+
+125
+00:17:31,000 --> 00:17:34,000
+Really the obvious acquirer for Peloton would be Apple.
+
+126
+00:17:35,000 --> 00:17:41,000
+I just want to acknowledge that a video above me is like shavings of shit on a shit salad. So I apologize.
+
+127
+00:17:42,000 --> 00:17:53,000
+We predicted this in 2020. Peloton is a metaverse. It's a metaverse of rich people who have an immersive experience trying to enhance their physical fitness.
+
+128
+00:17:53,000 --> 00:18:02,000
+And so what would you pay for a metaverse that has Beyonce, President Biden and also the most influential people in the world on this thing two to four hours a week.
+
+129
+00:18:03,000 --> 00:18:12,000
+It'll go down. There's some supply chain problems, but this is an outstanding acquisition. My guess is almost everybody has called them, but insiders control the company.
+
+130
+00:18:12,000 --> 00:18:17,000
+So as a result, they don't have to sell and they probably want to wait till the stock price goes up.
+
+131
+00:18:18,000 --> 00:18:24,000
+But Apple or Amazon come in and their supply chain problems are over in an instant. This makes this company is a great company.
+
+132
+00:18:25,000 --> 00:18:31,000
+It's a metaverse on its own and it'll likely be part of a bigger infrastructure within the next 12 months.
+
+133
+00:18:32,000 --> 00:18:35,000
+I also think kind of the dark horse here might be Nike.
+
+134
+00:18:36,000 --> 00:18:40,000
+Fintech acquires media firms. So it appears this is happening.
+
+135
+00:18:41,000 --> 00:18:49,000
+And that is when you have media companies, you have what is effectively incredible, goodwill, high MPS, but you have terrible businesses focused on advertising.
+
+136
+00:18:50,000 --> 00:18:58,000
+The bottom line is, and I say this as a professor of brand strategy, advertising sucks. Advertising has become a tax that the technologically illiterate and the poor have to pay.
+
+137
+00:18:59,000 --> 00:19:01,000
+How do you know your life hasn't worked out? You're watching a lot of ads.
+
+138
+00:19:01,000 --> 00:19:11,000
+Most of us have been able to opt out of advertising, but they create tremendous goodwill and attention, which would be better monetized by a fintech firm.
+
+139
+00:19:12,000 --> 00:19:23,000
+So you're going to start to see a lot of fintech companies with their still overvalued stocks come in and buy media companies and place that goodwill and that attention on top of superior business models.
+
+140
+00:19:24,000 --> 00:19:30,000
+Yoga Babel. What is the big flowery terminology for 2022? Web 3.
+
+141
+00:19:31,000 --> 00:19:39,000
+A decentralized version of the Internet, where platforms and apps are built and owned by users courtesy of tools including blockchain, cryptocurrencies, and NFTs.
+
+142
+00:19:40,000 --> 00:19:47,000
+A decentralized Internet break away from the stranglehold of Google, Apple, and Meta and these folks that have tried to consolidate our data.
+
+143
+00:19:48,000 --> 00:19:50,000
+And there's a blockchain advantage and that is power to the people.
+
+144
+00:19:50,000 --> 00:19:56,000
+I thought this was a great, who would have known that Jack Dorsey would be so good at tweeting? I love this.
+
+145
+00:19:57,000 --> 00:20:02,000
+Basically said you don't own Web 3, the VCs and their LPs do and they'll never escape their incentives.
+
+146
+00:20:03,000 --> 00:20:10,000
+And what we see is that just the same level of inequality and centralization is happening in Web 3 as it's happened in Web 1 or Web 2.
+
+147
+00:20:11,000 --> 00:20:18,000
+And that is only 9% of accounts control 80% of NFTs, 2% of accounts control 95% of Bitcoin.
+
+148
+00:20:18,000 --> 00:20:22,000
+Someone pointed out that that's not accurate because some of those accounts are custodians.
+
+149
+00:20:23,000 --> 00:20:26,000
+So we tried to back that out at a minimum 2% on 72%.
+
+150
+00:20:27,000 --> 00:20:32,000
+Now you might say, but Scott, 1% of Americans own 90% of the stocks and you'd be right.
+
+151
+00:20:33,000 --> 00:20:35,000
+But be clear, there's no power to the people happening here.
+
+152
+00:20:36,000 --> 00:20:39,000
+There's the same inequality occurring and the same centralization.
+
+153
+00:20:40,000 --> 00:20:44,000
+In addition, middlemen are popping up or middleware and charging fees.
+
+154
+00:20:44,000 --> 00:20:47,000
+These are the fees that OpenSea commands.
+
+155
+00:20:48,000 --> 00:20:49,000
+And by the way, that means it's worth it.
+
+156
+00:20:50,000 --> 00:20:54,000
+We want a certain level of security and we want people to make the difficult easier for us.
+
+157
+00:20:55,000 --> 00:20:58,000
+Coinbase talks about freedom in almost every tweet they put out.
+
+158
+00:20:59,000 --> 00:21:02,000
+They claim there's decentralization, no central authority.
+
+159
+00:21:03,000 --> 00:21:08,000
+However, when things get real, they decide to step in and start blocking transactions, which I think is a good thing.
+
+160
+00:21:09,000 --> 00:21:12,000
+But be clear, this isn't some sort of decentralized governance.
+
+161
+00:21:12,000 --> 00:21:16,000
+At the end of the day, they will step in and make decisions on behalf of all of us.
+
+162
+00:21:17,000 --> 00:21:19,000
+Also, the notion that it's power to the people.
+
+163
+00:21:20,000 --> 00:21:23,000
+Dual class shareholder systems are basically an autocracy.
+
+164
+00:21:24,000 --> 00:21:33,000
+Instead of saying you own what you put at economic risk, you're saying maybe you own 90% of the company and I only own 10, but I want 90% of the power.
+
+165
+00:21:34,000 --> 00:21:40,000
+It's a weapon of mass entrenchment and the folks at Coinbase have done the same thing and issued themselves super voting shares.
+
+166
+00:21:40,000 --> 00:21:46,000
+So this is a re-centralization, more like an autocratic government than any sort of power to the people governance.
+
+167
+00:21:47,000 --> 00:21:52,000
+Dogecoin, the crypto market is more centralized than any financial asset class I have ever seen.
+
+168
+00:21:53,000 --> 00:22:01,000
+And that is this entire market, a $2-3 trillion market, maybe less now, is largely based on the tweets of one person.
+
+169
+00:22:02,000 --> 00:22:07,000
+Jerome Powell can't move interest rates and distress credit bonds.
+
+170
+00:22:07,000 --> 00:22:10,000
+I mean, he can a little bit, but not the way that Elon Musk can.
+
+171
+00:22:11,000 --> 00:22:15,000
+Oh, so it's a hustle. Yeah, it's a hustle.
+
+172
+00:22:16,000 --> 00:22:19,000
+I can't just say that, man. Don't fault everybody. It's a hustle.
+
+173
+00:22:20,000 --> 00:22:21,000
+To the moon!
+
+174
+00:22:22,000 --> 00:22:35,000
+Okay, so this is the price of an asset class making a huge movement based on one individual's participation or comments during Weekend Update on a comedy show.
+
+175
+00:22:35,000 --> 00:22:40,000
+That's incredible centralization of power. It's also indicative of a market that's not healthy.
+
+176
+00:22:42,000 --> 00:22:44,000
+This is Bitcoin's price.
+
+177
+00:22:45,000 --> 00:22:57,000
+Elon Musk and Tesla sold Bitcoin at a profit to plug a hole in earnings, and once they sold their Bitcoin, they decided it was bad for the environment and started criticizing it and the price responded and declined.
+
+178
+00:22:58,000 --> 00:23:00,000
+So who are our new gods?
+
+179
+00:23:00,000 --> 00:23:08,000
+There are crypto bros. They want to tell everyone we are taking back control of the evil wealth-driven ultra-rich so that they too may become ultra-rich.
+
+180
+00:23:09,000 --> 00:23:17,000
+I don't resent them. There will be some enduring technologies here, but be clear, this isn't Web 3. It's Web 2.0001.
+
+181
+00:23:18,000 --> 00:23:25,000
+By the way, when Harvard rowers who are billionaires tell you to stick it to the man, you're about to take a spear in the chest.
+
+182
+00:23:25,000 --> 00:23:33,000
+These folks are not William Wallace. They are the king's guard. This isn't power to the people.
+
+183
+00:23:34,000 --> 00:23:41,000
+This is my favorite. This is my favorite. And so far we're right. The Zuckerverse fails.
+
+184
+00:23:42,000 --> 00:23:54,000
+I could not have planned this in my wildest dreams that Mark Zuckerberg would decide that the future of Facebook was around this product that 40 to 60% of people report makes them nauseous.
+
+185
+00:23:55,000 --> 00:24:03,000
+How many people here have AirPods? How many people travel to... I'll participate.
+
+186
+00:24:04,000 --> 00:24:09,000
+How many people travel to Austin with some form of a vape or THC product? You're full of shit.
+
+187
+00:24:10,000 --> 00:24:24,000
+How many people have an Oculus here? That's shocking. So I'm learning something. I wouldn't have thought it was that many.
+
+188
+00:24:25,000 --> 00:24:33,000
+That's shocking. I wouldn't have thought it was that many. I'm learning. I still think the thing's going to fail.
+
+189
+00:24:34,000 --> 00:24:47,000
+Anyways, this is the adoption of other technology products. Really? That many people? You have an Oculus with you?
+
+190
+00:24:48,000 --> 00:24:55,000
+Oh, at home. Got it. And do you use it for... How do you use it, sir? Never mind. Never mind. Never mind. Go ahead.
+
+191
+00:24:56,000 --> 00:25:02,000
+Sitting down is going to fall. But do you use it for B2B, B2C, gaming? What do you use it for? Gaming. Thank you.
+
+192
+00:25:03,000 --> 00:25:08,000
+So the ultimate test for me on consumer adoption is last year about 70 million Crocs were sold.
+
+193
+00:25:08,000 --> 00:25:22,000
+The Oculus has seen a major uptick in sales, but I still think this product will be probably the tech hardware failure of the last decade.
+
+194
+00:25:23,000 --> 00:25:31,000
+So the good news is that I think this will fail. By the way, this is my metaverse.
+
+195
+00:25:38,000 --> 00:25:46,000
+That's what my creative team did this weekend. What did you do?
+
+196
+00:25:47,000 --> 00:25:55,000
+There already seems to be a reckoning for meta, or the company previously known as Facebook. By the way, I thought that branding was genius.
+
+197
+00:25:56,000 --> 00:26:01,000
+We don't want to talk about teen depression. We don't want to talk about weaponization of the elections. We don't want to talk about making our discourse more coarse.
+
+198
+00:26:01,000 --> 00:26:05,000
+Let's talk about the metaverse. I thought that was a brilliant brand move.
+
+199
+00:26:06,000 --> 00:26:10,000
+It's now kind of been kicked out or is no longer welcome at the Cool Girls table in the high school cafeteria.
+
+200
+00:26:11,000 --> 00:26:15,000
+Really, Facebook is no longer big tech. Nvidia now has a larger market capitalization.
+
+201
+00:26:16,000 --> 00:26:21,000
+They've done a terrible job. They've not only not diversified their revenues, their revenues have actually become less diverse.
+
+202
+00:26:22,000 --> 00:26:28,000
+So who likely will win the metaverse? Who's best positioned for these alternative realities?
+
+203
+00:26:28,000 --> 00:26:32,000
+You'd want a ubiquitous device, trust, capital, payments, and programming skills.
+
+204
+00:26:33,000 --> 00:26:37,000
+Actually, the company that is winning in the metaverse is one we don't talk about, and that is Apple.
+
+205
+00:26:38,000 --> 00:26:46,000
+The metaverse right now, or the closest thing we have to a metaverse, is the app store, where there are 750,000 immersive experiences called apps, and there are 750 new ones every day.
+
+206
+00:26:47,000 --> 00:26:55,000
+In addition, you have with Apple a central server that everyone carries around with them, or the billion wealthiest people in the world, and also a portal.
+
+207
+00:26:55,000 --> 00:27:03,000
+The majority of insight I glean about the metaverse I got with my son watching Loki, but you need to get from one universe to another.
+
+208
+00:27:04,000 --> 00:27:09,000
+You need a portal. You need something to pop up seamlessly more from one metaverse to the other.
+
+209
+00:27:10,000 --> 00:27:15,000
+And this is the ultimate portal, because most of us are wearing these even in ambient situations.
+
+210
+00:27:16,000 --> 00:27:23,000
+I find myself just walking around with these on, and these signal that you're wealthy, they signal that you're an artisan, they signal that you're part of an innovation class.
+
+211
+00:27:23,000 --> 00:27:29,000
+And they can take you into other metaverses with your central server. I think this is the metaverse.
+
+212
+00:27:30,000 --> 00:27:36,000
+In addition, this product is probably the most under-hyped product. The iPhone gets a lot of attention, as do other products.
+
+213
+00:27:37,000 --> 00:27:45,000
+If this product were a standalone company, it would be a Fortune 200 product just behind MasterCard and just ahead of Estee Lauder.
+
+214
+00:27:46,000 --> 00:27:48,000
+Think about it. This is a Fortune 200 company.
+
+215
+00:27:48,000 --> 00:27:54,000
+Competitors are responding. You see a lot of people trying to get into the space, acquisitions and patent filings.
+
+216
+00:27:55,000 --> 00:28:01,000
+But still, this is the only wearable that has really worked. No other wearable has really worked other than your iPhone.
+
+217
+00:28:02,000 --> 00:28:09,000
+And I believe wearables, I think people spend a lot of time thinking about how they feel closer to God or more attractive to potential mates.
+
+218
+00:28:10,000 --> 00:28:13,000
+And those are the only things they will put on their person and especially their face.
+
+219
+00:28:13,000 --> 00:28:19,000
+AirPods make you more attractive. So does a Rolex. I think this makes you more attractive.
+
+220
+00:28:20,000 --> 00:28:25,000
+I think this guy is a tall drink of lemonade. And I think we need much sexier elected representatives.
+
+221
+00:28:26,000 --> 00:28:28,000
+So I'm down with Beto for purely the wrong reasons.
+
+222
+00:28:29,000 --> 00:28:40,000
+We put sunglasses on our face that accentuate our cheekbones, which supposedly sends a signal to the opposite sex or the same sex that your kids are less likely to have infection.
+
+223
+00:28:40,000 --> 00:28:46,000
+I think the Oculus is the ultimate prophylactic. I think it ensures no one is going to get near you.
+
+224
+00:28:47,000 --> 00:28:53,000
+And I think it says something about you that you probably, probably like me, lost your virginity at 19.
+
+225
+00:28:54,000 --> 00:28:58,000
+Other prophylactics. Pay for dinner tonight with a Discover card.
+
+226
+00:29:00,000 --> 00:29:06,000
+Roll up in a Mazda. Talk incessantly about your magic.
+
+227
+00:29:06,000 --> 00:29:11,000
+Okay. I thought that'd be funnier. The metaverse is not going to be this.
+
+228
+00:29:12,000 --> 00:29:14,000
+He's called the Oasis.
+
+229
+00:29:16,000 --> 00:29:22,000
+I don't think it's going to be visual. I think the metaverse is going to be less like Ready Player One or The Matrix.
+
+230
+00:29:23,000 --> 00:29:25,000
+And it's going to be more like the movie Her.
+
+231
+00:29:26,000 --> 00:29:28,000
+Email from Mark Looming. What are you talking about?
+
+232
+00:29:29,000 --> 00:29:30,000
+Read email.
+
+233
+00:29:31,000 --> 00:29:33,000
+Okay, I will read email for Theodore.
+
+234
+00:29:33,000 --> 00:29:34,000
+I think it's going to be in your ears.
+
+235
+00:29:35,000 --> 00:29:41,000
+And the reason why I think it's in your ears is actually personal experience. If someone comes up to me and high fives me and says, Prof G, I know they saw a video.
+
+236
+00:29:42,000 --> 00:29:46,000
+If someone writes me a very long email, I know they've read something I've written. The medium really is the message.
+
+237
+00:29:47,000 --> 00:29:54,000
+When people come up to me and this literally happened to me about 20 minutes ago and start talking to me as if we're friends and I think, oh God, I don't remember this person.
+
+238
+00:29:55,000 --> 00:30:00,000
+It's because they listen to the podcast in their ears.
+
+239
+00:30:00,000 --> 00:30:12,000
+So there's something about having audio or a device actually in your ears that creates a level of intimacy, engagement, and I also think addiction that will drive the metaverse more than visuals.
+
+240
+00:30:13,000 --> 00:30:17,000
+Super app. The race for super app is kind of on.
+
+241
+00:30:18,000 --> 00:30:25,000
+And Google and Apple have a vested interest in ensuring a super app never emerges because they want iOS and Android effectively to be the super app.
+
+242
+00:30:25,000 --> 00:30:33,000
+But the idea is a Swiss army knife of the Internet or one interface, one user interface for all of your digital life.
+
+243
+00:30:34,000 --> 00:30:37,000
+And there's sort of above the fold here, the super apps.
+
+244
+00:30:38,000 --> 00:30:42,000
+They're typically the most valuable company in that market. And then below that fold here are the super hopefuls.
+
+245
+00:30:43,000 --> 00:30:49,000
+It trifurcates into transportation, social and payments are usually the legs of the super app stool.
+
+246
+00:30:49,000 --> 00:30:52,000
+And we see WeChat and Paytm have done a good job.
+
+247
+00:30:53,000 --> 00:31:01,000
+The reason you want a super app is that if you can capture that much attention, you your market capitalization and your stakeholder value absolutely skyrockets.
+
+248
+00:31:02,000 --> 00:31:05,000
+Big tech has recognized the power of super apps.
+
+249
+00:31:06,000 --> 00:31:11,000
+And just as a lot of firms recruit out of big tech, big tech is now recruiting out of super app companies.
+
+250
+00:31:12,000 --> 00:31:15,000
+Google has recruited 300 people out of Tencent and Alibaba.
+
+251
+00:31:15,000 --> 00:31:18,000
+Just in the last five years and about 200 of those just in the last 24 months.
+
+252
+00:31:19,000 --> 00:31:26,000
+A dark horse for this Uber could somebody is going to get into super app through either transportation or payments or social.
+
+253
+00:31:27,000 --> 00:31:29,000
+Uber is clearly trying to head this way.
+
+254
+00:31:30,000 --> 00:31:31,000
+We want to be the Amazon of transportation.
+
+255
+00:31:32,000 --> 00:31:34,000
+It is now actually a food delivery company.
+
+256
+00:31:35,000 --> 00:31:39,000
+They garnered more revenues from food delivery last year than moving people around.
+
+257
+00:31:39,000 --> 00:31:45,000
+I believe Twitter and Pinterest will be acquired because they are effectively cheap legs of the stool for a super app company.
+
+258
+00:31:46,000 --> 00:31:52,000
+If Tencent were to come in and buy Twitter, overnight it becomes the leading super app company in the United States.
+
+259
+00:31:53,000 --> 00:32:02,000
+The company that is able to establish super app status in the United States kind of overnight probably comes one of the ten if not one of the five most valuable companies in the world.
+
+260
+00:32:02,000 --> 00:32:07,000
+And these two are now fairly inexpensive ways to offer the social component of that Swiss army knife.
+
+261
+00:32:08,000 --> 00:32:13,000
+These are the companies that will likely buy either Twitter or Pinterest.
+
+262
+00:32:14,000 --> 00:32:19,000
+Keep in mind when Salesforce tried to buy Twitter four years ago, it would have been a 20 or 30 percent dilution.
+
+263
+00:32:20,000 --> 00:32:21,000
+Now it is less than 10 percent.
+
+264
+00:32:22,000 --> 00:32:23,000
+It is a very small company.
+
+265
+00:32:24,000 --> 00:32:25,000
+It is a very small company.
+
+266
+00:32:26,000 --> 00:32:27,000
+I love cities.
+
+267
+00:32:28,000 --> 00:32:29,000
+I am fascinated by migration patterns.
+
+268
+00:32:30,000 --> 00:32:31,000
+We have heard a lot about Austin.
+
+269
+00:32:32,000 --> 00:32:33,000
+How many people are moving here?
+
+270
+00:32:34,000 --> 00:32:35,000
+How many people are moving to Miami?
+
+271
+00:32:36,000 --> 00:32:38,000
+I think the city of the future if you will are the new hot spot.
+
+272
+00:32:39,000 --> 00:32:42,000
+I think the city of the future is not just a very small city.
+
+273
+00:32:43,000 --> 00:32:46,000
+You know, not as big as it was in the early eighties.
+
+274
+00:32:47,000 --> 00:32:49,000
+You know, it is not as big as it was in the early eighties.
+
+275
+00:32:50,000 --> 00:32:51,000
+But it is the city of the future.
+
+276
+00:32:52,000 --> 00:32:53,000
+It is the city of the future.
+
+277
+00:32:53,000 --> 00:32:58,200
+city of the future, if you will, or the new hot city in North America, is Mexico City.
+
+278
+00:32:58,200 --> 00:33:10,200
+Wow, I'll do that again. Mexico City. Why? It's a wonderful place to visit. I have a
+
+279
+00:33:10,200 --> 00:33:14,400
+personal affection for Mexico. I go there several times a year. It's got fantastic
+
+280
+00:33:14,400 --> 00:33:18,440
+density. Density is equal to opportunity. Opportunities around money, opportunities
+
+281
+00:33:18,440 --> 00:33:23,800
+around meaning, opportunities around art is a function of density. In addition, it's
+
+282
+00:33:23,800 --> 00:33:28,120
+attracting a lot of remote workers because of the great quality of life. And they don't
+
+283
+00:33:28,120 --> 00:33:38,120
+have their head up their ass. They have 99% vaccination rates. Hello, Texas. I think the
+
+284
+00:33:38,120 --> 00:33:42,400
+gap will continue to narrow in terms of trade. My colleague at NYU, Pankaj Jemmowat, has
+
+285
+00:33:42,400 --> 00:33:47,440
+done some great research here. Trade is a function of proximity. And that is typically
+
+286
+00:33:47,440 --> 00:33:52,200
+your biggest trading partners are the ones on your borders. And our biggest trading partner
+
+287
+00:33:52,200 --> 00:33:57,940
+is Canada. Right? It's not China. And yet we tend to think of everything in the context
+
+288
+00:33:57,940 --> 00:34:04,560
+of shipping oil from Russia. No, we get 1% or 3% of our oil from Russia representing
+
+289
+00:34:04,560 --> 00:34:10,980
+1% of their exports. Trade is a function of proximity. The market is heating up for startups
+
+290
+00:34:11,980 --> 00:34:17,700
+in Mexico. They now have more fintech startups than Brazil, the largest economy outside of
+
+291
+00:34:17,700 --> 00:34:23,380
+the U.S. and Canada. And they have some great companies that are getting a lot of attention.
+
+292
+00:34:23,380 --> 00:34:28,860
+And typically you don't hear, you didn't hear a lot of Mexican companies being bandied about
+
+293
+00:34:28,860 --> 00:34:32,540
+in kind of the innovation conferences. And increasingly we're starting to see these native
+
+294
+00:34:32,540 --> 00:34:41,740
+Mexican companies seen as sort of these really exciting unicorns. So bonus round, the biggest
+
+295
+00:34:41,740 --> 00:34:46,940
+LBO of 2022. I'm really excited about this. And I think it's, or excited about the prediction
+
+296
+00:34:46,940 --> 00:34:51,300
+because I think it's happening. And that is if you look at, we like to think that all
+
+297
+00:34:51,300 --> 00:34:56,220
+of these sanctions are going to absolutely destroy Russia. There's some truth to that.
+
+298
+00:34:56,220 --> 00:35:01,060
+But the unfortunate news is Russia has a natural hedge because as many people pointed out,
+
+299
+00:35:01,100 --> 00:35:04,740
+it's basically an economy sitting on top of a gas station. A tremendous amount of their
+
+300
+00:35:04,740 --> 00:35:11,460
+revenues come from oil and oil has skyrocketed. So they still have massive cash flows. It's
+
+301
+00:35:11,460 --> 00:35:17,800
+also a very liquid market. And that is even if we put sanctions on them, there will likely
+
+302
+00:35:17,800 --> 00:35:23,700
+always be a buyer for oil. It may get more difficult in terms of supply chain, but there's,
+
+303
+00:35:23,700 --> 00:35:28,060
+this is trying to hold water in someone's hand. They're going to be able to find buyers
+
+304
+00:35:28,060 --> 00:35:33,900
+for this. And we see tremendous cash flows, especially with the increase in oil prices.
+
+305
+00:35:33,900 --> 00:35:39,780
+So the question is, what will Putin do with this consistent source of cash flow in default
+
+306
+00:35:39,780 --> 00:35:45,740
+currencies? He'll be able to find some type of currency to buy other things. I think he's
+
+307
+00:35:45,740 --> 00:35:51,340
+going to diminish certain oligarchs and raise new ones. And that is I think the biggest LBO
+
+308
+00:35:51,340 --> 00:35:56,520
+is that Putin is about to take the 10 or 15 biggest Russian companies private and say,
+
+309
+00:35:56,520 --> 00:36:00,600
+congratulations, I'm privatizing you for 10 cents on the dollar because the crash in the
+
+310
+00:36:00,600 --> 00:36:06,680
+ruble and the crash in these stocks has taken what are some very strong firms down 90, 95%.
+
+311
+00:36:06,680 --> 00:36:12,320
+And he's just going to nationalize them. And what good oligarchs do is they reward their allies.
+
+312
+00:36:12,320 --> 00:36:17,200
+Roman Abramovich, I don't think is likely a genius business person. He just happened to be
+
+313
+00:36:17,200 --> 00:36:21,880
+Yeltsin's roommate and talked him into making Putin the head of Russia. And in exchange,
+
+314
+00:36:21,880 --> 00:36:27,040
+he was awarded with 10s of billions of dollars. I believe and at the same time, Putin came to power
+
+315
+00:36:27,040 --> 00:36:32,280
+by diminishing certain oligarchs and then ascending others. And I think that cycle is about to start
+
+316
+00:36:32,280 --> 00:36:38,120
+over. And that is he will descend or diminish certain wealth across oligarchs, say, sorry,
+
+317
+00:36:38,120 --> 00:36:42,760
+you're no longer a 10 billion, just a billion. I'm taking back your company. And then he's going to
+
+318
+00:36:42,760 --> 00:36:47,940
+reissue those companies to a new set of oligarchs. I think we're going to have the first billionaire
+
+319
+00:36:47,940 --> 00:36:53,460
+influencer come out of Western Europe or Russia, who is very pro Putin. And Putin is going to decide
+
+320
+00:36:53,460 --> 00:36:59,140
+to give this person the biggest nickel factory in Irkutsk in exchange for promoting his propaganda
+
+321
+00:36:59,140 --> 00:37:06,340
+and his lies. Okay, so let's summarize. Francis Hogan is Times Person of the Year. I got that wrong.
+
+322
+00:37:06,340 --> 00:37:12,900
+Fundamentals and valuations reunite. That appears to be happening violently. Open Sea valuation
+
+323
+00:37:12,900 --> 00:37:18,580
+doubles. We're well on our way. A lux coin emerges. Scarcity is going to move to the blockchain. I
+
+324
+00:37:18,580 --> 00:37:23,300
+think we're going to see that across a luxury brand. I've been contacted by several luxury brands who
+
+325
+00:37:23,300 --> 00:37:30,740
+are very intoxicated by the notion of coming up with 10 billion dollars overnight. Fintech acquire
+
+326
+00:37:30,740 --> 00:37:36,980
+media firms, even with the huge drawdown in Fintech valuations, they still can pick up a variety of
+
+327
+00:37:36,980 --> 00:37:42,260
+these firms, media firms for pennies on the dollar. Peloton has acquired, I've been saying this for two
+
+328
+00:37:42,260 --> 00:37:47,620
+and a half years. At some point, I think I'm going to be right. The new Yoga Babel is Web 3. The great
+
+329
+00:37:47,620 --> 00:37:52,020
+decentralization is nothing but continued re-centralization of wealth at the hands of
+
+330
+00:37:52,020 --> 00:37:58,180
+decentralized products. The business world of 2022 is super-rap. I believe the Zuckerverse, as
+
+331
+00:37:58,180 --> 00:38:05,140
+currently envisioned, will fail. The new Miami and Austin is Mexico City. And I think that Putin is
+
+332
+00:38:05,140 --> 00:38:10,500
+undertaking what will be the largest historical leverage buyout in history. Take Russian companies
+
+333
+00:38:10,500 --> 00:38:16,580
+private and then redistribute them to a new set of oligarchs who are supportive of his current agenda
+
+334
+00:38:16,580 --> 00:38:24,100
+using new technologies. I want to talk about some silver linings. Very difficult to process what has
+
+335
+00:38:24,100 --> 00:38:30,100
+happened. We have lost more people from COVID than all Americans in combat deaths combined in every
+
+336
+00:38:30,100 --> 00:38:34,820
+conflict so far. Statisticians will point out that's not apples to apples because we use we lose
+
+337
+00:38:34,820 --> 00:38:39,620
+younger people in combat and as a percentage of population. But still, this is hopefully what
+
+338
+00:38:39,620 --> 00:38:47,380
+will be seen as the seminal crisis in our lifetime. There's tremendous silver linings, a dispersion away
+
+339
+00:38:47,380 --> 00:38:55,300
+of healthcare from hospitals and doctors offices to our smartphones. 99% of the people who contracted
+
+340
+00:38:55,300 --> 00:38:58,740
+endured and developed antibodies to the novel coronavirus never entered a doctor's office,
+
+341
+00:38:58,740 --> 00:39:04,420
+much less a hospital. This represents an opportunity to push primary healthcare out to tens of millions
+
+342
+00:39:04,420 --> 00:39:10,020
+of Americans who are either intimidated or don't have the economic resources to address
+
+343
+00:39:10,020 --> 00:39:14,980
+healthcare in an offensive, health driven way and end up in the emergency room. This could be a huge
+
+344
+00:39:14,980 --> 00:39:21,060
+unlock. My industry should and hopefully will move away from a rejectionist culture where me and my
+
+345
+00:39:21,060 --> 00:39:25,940
+colleagues decide to turn away 90% of applicants, which in my view is tantamount to bragging about
+
+346
+00:39:25,940 --> 00:39:31,940
+turning away nine in 10 people who show up at a homeless shelter. We have become so drunk on our
+
+347
+00:39:31,940 --> 00:39:36,500
+own arrogance and self aggrandizement that we are no longer Americans and don't see ourselves as
+
+348
+00:39:36,500 --> 00:39:43,780
+public servants, but as a fucking Hermes bag. UBI is finally getting some form of traction and that
+
+349
+00:39:43,780 --> 00:39:48,900
+is we've decided that if we can cut child poverty in half by just cutting people checks who live
+
+350
+00:39:48,900 --> 00:39:55,140
+under a certain income line, who would have thought that we just what appears to be about three days
+
+351
+00:39:55,140 --> 00:40:00,500
+of COVID bailout funds, we could cut child poverty in half. There's tremendous unlocks. We might
+
+352
+00:40:00,500 --> 00:40:07,140
+unleash an incredible new dawn of healthcare with vaccines that could prevent tens of millions of
+
+353
+00:40:07,140 --> 00:40:13,380
+preventable deaths around the world. We're going to save billions of hours in commuting and putting
+
+354
+00:40:13,380 --> 00:40:20,500
+on makeup and putting on a pantsuit, blow drying our hair. Even if we do what Apple is suggesting
+
+355
+00:40:20,500 --> 00:40:25,860
+and only come back to the office two or three days a week, you're going to save billions of hours for
+
+356
+00:40:25,860 --> 00:40:30,420
+self care, caring for others or making more money. There's tremendous unlocks that are going to come
+
+357
+00:40:30,420 --> 00:40:36,340
+out of the novel coronavirus. For the first time we seem to have unity across the West because of
+
+358
+00:40:36,340 --> 00:40:41,460
+a foreign invader. NATO has new life. It was suffering from what was brain death trying to
+
+359
+00:40:41,460 --> 00:40:45,140
+figure out what they were supposed to do. It appears for the first time in a long time they
+
+360
+00:40:45,140 --> 00:40:51,540
+have purpose. We are seeing that the wonderful thing about capitalism is it has connective tissue
+
+361
+00:40:51,540 --> 00:40:55,700
+and that once you get really rich you want to party in St. Barts and not in Odessa and we can
+
+362
+00:40:55,700 --> 00:40:59,220
+take that shit away from you if you don't behave like a global citizen.
+
+363
+00:41:02,420 --> 00:41:12,820
+Difficult segue. I have presented to 116,000 people across 104 venues, 101 of them, 100 of them
+
+364
+00:41:12,820 --> 00:41:20,580
+remote over the last 12 months and the question I get the most is what is the profound opportunity
+
+365
+00:41:20,580 --> 00:41:26,420
+coming out of COVID? What's the big unlock coming out of COVID-19?
+
+366
+00:41:26,980 --> 00:41:31,300
+And people think I'm going to talk about investing and Web 3. I believe this is the unlock
+
+367
+00:41:31,940 --> 00:41:38,180
+and I presented to a variety of organizations. I struggle with happiness which probably doesn't
+
+368
+00:41:38,180 --> 00:41:43,060
+come as a big surprise. I have blessings of this. I have happiness of this. So I wrote a book on
+
+369
+00:41:43,060 --> 00:41:49,060
+happiness because I wanted to try and figure it out and across every major study on happiness,
+
+370
+00:41:49,940 --> 00:41:55,460
+everything distills down to one thing and that is the number of deep and meaningful relationships
+
+371
+00:41:55,460 --> 00:42:00,340
+you have. Period. Full stop. Across income, demographic and cultural groups.
+
+372
+00:42:01,140 --> 00:42:04,980
+Amongst your friends do you feel a sense of joy and camaraderie and just as importantly do you
+
+373
+00:42:04,980 --> 00:42:11,860
+know they get joy and camaraderie from you? Across work do you feel respected and admired
+
+374
+00:42:11,860 --> 00:42:16,660
+and do you respect and admire other people? And with your family or within your family do you feel
+
+375
+00:42:16,660 --> 00:42:22,660
+intense levels of support and just as importantly do you know they know they are intensely loved
+
+376
+00:42:22,660 --> 00:42:28,980
+and supported by you? So I have ended every presentation and I'm committed to having this
+
+377
+00:42:28,980 --> 00:42:34,980
+be the last slide of every presentation I've done until the pandemic goes endemic. So hopefully this
+
+378
+00:42:34,980 --> 00:42:41,220
+slide will not be up for much longer but what I encourage people to do is to recognize that the
+
+379
+00:42:41,300 --> 00:42:47,140
+opportunity is to establish or accomplish in weeks what otherwise might take years and that is the
+
+380
+00:42:47,140 --> 00:42:53,460
+repair and cementing of key relationships. People remember how you behave in a crisis.
+
+381
+00:42:55,700 --> 00:43:00,660
+We give medals and ribbons to young people who effectively demonstrate grace and courage under
+
+382
+00:43:00,660 --> 00:43:07,140
+fire when shit gets real when their life is on the line. This is how you will be remembered,
+
+383
+00:43:07,140 --> 00:43:13,940
+how you behave during a crisis. So three questions. One, is this an opportunity
+
+384
+00:43:14,660 --> 00:43:21,460
+to pivot to becoming a caregiver for somebody? Two, do you have the relationship with your
+
+385
+00:43:21,460 --> 00:43:25,860
+siblings that you want? If you've been one of the hundreds of thousands of people who had to accept
+
+386
+00:43:25,860 --> 00:43:31,060
+a call over FaceTime and say final words to a sibling, is your relationship where you want it
+
+387
+00:43:31,060 --> 00:43:36,900
+to be? And then finally, have you made the requisite investments in friendships or have
+
+388
+00:43:36,900 --> 00:43:44,260
+you let competitiveness or perceived slights or other bullshit get in the way? That is the unlock
+
+389
+00:43:44,260 --> 00:43:50,260
+is we can accomplish potentially in weeks what otherwise might take years and that is for the
+
+390
+00:43:50,260 --> 00:43:57,140
+cementing and repair of key relationships. My name is Scott Galloway at Teach at NYU and I appreciate your time.
+
+391
+00:44:01,060 --> 00:44:07,140
+Thank you.
+

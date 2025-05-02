@@ -1,0 +1,1936 @@
+1
+00:00:00,000 --> 00:00:04,480
+Thanks for having me. My name is Scott Galloway. I teach at NYU and I appreciate your time today.
+
+2
+00:00:04,480 --> 00:00:11,600
+I'm coming to you live from a small a small sandbar in the Atlantic called Nantucket. Over the course
+
+3
+00:00:11,600 --> 00:00:19,840
+of the next 35 minutes I'll be taking you through approximately 130 slides and then hopefully we'll
+
+4
+00:00:19,840 --> 00:00:28,400
+leave time for 10 minutes of Q&A. So with that let's bust right into it. So we're going to talk
+
+5
+00:00:28,400 --> 00:00:33,920
+about COVID's enduring feature as more of an accelerant than a change agent. We'll also look
+
+6
+00:00:33,920 --> 00:00:37,840
+at some of these changes through the lens of the companies I spend the most time thinking about
+
+7
+00:00:37,840 --> 00:00:44,400
+Amazon, Apple, Facebook, and Google. We'll talk about an emerging crisis among young men and some
+
+8
+00:00:44,400 --> 00:00:51,360
+predictions for 2021 and then what we believe is the profound opportunity. Some disclosures, I have
+
+9
+00:00:51,360 --> 00:00:57,200
+investment stakes or ownerships in the following private and public companies. So just in terms of
+
+10
+00:00:57,200 --> 00:01:03,600
+if I sound as if I am promoting a company I probably am but these are the firms that I have
+
+11
+00:01:03,600 --> 00:01:09,680
+economic stakes in. Okay decades and days. There's a great quote attributed to Lenin that says
+
+12
+00:01:09,680 --> 00:01:13,760
+there are decades where nothing happens and there are weeks where decades happen. I think we're in
+
+13
+00:01:14,640 --> 00:01:19,920
+the former and that is we tend to think of time as a function of these astrophysical objects
+
+14
+00:01:19,920 --> 00:01:25,760
+circling a hot plasma called the sun but as humans we register time as a function of change and it
+
+15
+00:01:25,760 --> 00:01:31,760
+seems as if time is accelerating if you will. In the U.S. to give you a scale of the crisis here
+
+16
+00:01:31,760 --> 00:01:37,440
+just in one month last April we lost more Americans than we lost in the entire Vietnam conflict
+
+17
+00:01:38,080 --> 00:01:43,040
+and the numbers get even more staggering. At one point we were losing the same number of American
+
+18
+00:01:43,040 --> 00:01:50,400
+souls we lost in the attacks of 9-11 every 17 hours in the U.S. Obviously in Brazil and in India
+
+19
+00:01:50,480 --> 00:01:56,720
+we have seen the same type of mortality rates and is arguably the greatest public health crisis in
+
+20
+00:01:56,720 --> 00:02:01,440
+the last century. There's no easy way to segue to business. I'll just segue to business.
+
+21
+00:02:02,400 --> 00:02:06,400
+There have been three big shifts in our economy our modern economy. The first is globalization
+
+22
+00:02:06,400 --> 00:02:11,520
+comparative advantage. The second digitization simply put the internet and then I think we're
+
+23
+00:02:11,520 --> 00:02:15,920
+on the precipice of a third big shift in our modern economy and that is dispersion. What do
+
+24
+00:02:15,920 --> 00:02:21,440
+we mean by dispersion? So the ability to distribute products or services from the source creator to
+
+25
+00:02:21,440 --> 00:02:26,800
+the end user the end stakeholder reshaping the supply chain such that the source creator gets
+
+26
+00:02:26,800 --> 00:02:32,720
+greater margins and the end user gets to access the product with less friction or lower cost.
+
+27
+00:02:33,440 --> 00:02:38,560
+I think of it almost as leapfrogging right whether it's Peloton leapfrogging the gym
+
+28
+00:02:39,200 --> 00:02:45,680
+whether it's Wonder Woman 1984 coming directly to your TV in your home as opposed to having to go
+
+29
+00:02:45,680 --> 00:02:52,240
+to a theater whether it's Zoom bringing us to bringing work letting you rent your human capital
+
+30
+00:02:52,240 --> 00:02:57,120
+to an organization leapfrogging an office building or whether it's what we're doing now where we can
+
+31
+00:02:57,120 --> 00:03:02,880
+leapfrog the physical infrastructure of a conference and go directly to the end consumer. We're seeing
+
+32
+00:03:02,880 --> 00:03:08,480
+this dispersion of value if you will in a reshaping of the supply chain across almost every industry
+
+33
+00:03:08,480 --> 00:03:12,800
+and I think that presents tremendous opportunities and tremendous challenges and what will probably
+
+34
+00:03:12,800 --> 00:03:17,680
+be the greatest reshuffling of stakeholder value since the introduction of the internet.
+
+35
+00:03:17,680 --> 00:03:22,080
+The biggest industry that will be most impacted by this is healthcare and that is the healthcare
+
+36
+00:03:22,080 --> 00:03:28,240
+industrial complex is being dispersed. What do I mean by that? Probably 99 plus of the people who
+
+37
+00:03:28,240 --> 00:03:32,080
+have contracted endured and developed antibodies for the novel coronavirus will have never entered
+
+38
+00:03:32,080 --> 00:03:40,000
+a hospital much less a doctor's office. The number of people who were seeing doctors virtually has
+
+39
+00:03:40,000 --> 00:03:46,320
+absolutely exploded. It was less than one percent pre-pandemic it's almost a third now of visits are
+
+40
+00:03:46,320 --> 00:03:52,480
+done virtually. That will go down once the pandemic has subsided but it's not going back to one percent.
+
+41
+00:03:52,480 --> 00:03:58,240
+We've seen a similar phenomenon in Brazil where we've seen an explosion in telehealth. We're also
+
+42
+00:03:58,240 --> 00:04:03,440
+going to see a dispersion in education and that is in my industry we've used admissions departments
+
+43
+00:04:03,440 --> 00:04:09,680
+and the physical limits of a campus to gate or constrain artificially in my view the supply
+
+44
+00:04:10,240 --> 00:04:14,400
+of seats at great universities. I think a lot of the intellectual property and certification is
+
+45
+00:04:14,400 --> 00:04:20,000
+being dispersed to remote appliances such that we can expand hopefully expand the offering and
+
+46
+00:04:20,000 --> 00:04:25,120
+education can be dispersed. In the U.S. it's a 750 billion dollar business globally it's a two
+
+47
+00:04:25,120 --> 00:04:30,880
+trillion dollar business. Why is there such a rush to disperse education? Because my industry has
+
+48
+00:04:30,880 --> 00:04:35,920
+raised prices faster than almost any other industry maybe with the exception of healthcare. Tuition in
+
+49
+00:04:35,920 --> 00:04:42,640
+the U.S. is up 1400 percent in the last 30 years. To give you a sense of just how outrageous the
+
+50
+00:04:42,640 --> 00:04:47,280
+pricing has become I teach a course called brand strategy at the NYU Stern School of Business.
+
+51
+00:04:47,280 --> 00:04:53,520
+Every student has to spend seven thousand dollars U.S. to take my course not for the year that's
+
+52
+00:04:53,520 --> 00:04:59,440
+just to take my one course. I have 280 students in my class in the fall or put another way my
+
+53
+00:04:59,440 --> 00:05:06,480
+course generates approximately 1.96 million dollars just that one course. Now think about this I have
+
+54
+00:05:06,480 --> 00:05:10,720
+returned my compensation to the school for the last 10 years so I can continue to bite the hand
+
+55
+00:05:10,720 --> 00:05:16,560
+that doesn't feed me but try and imagine another product that gets a two million dollar price tag
+
+56
+00:05:16,560 --> 00:05:22,960
+with 98 points maybe 99 points of gross margin. The only other product I could find is a product
+
+57
+00:05:22,960 --> 00:05:28,320
+called Zolgensma which is a life-saving gene therapy that is literally a knockout drug. Two
+
+58
+00:05:28,320 --> 00:05:36,000
+doses of this cures a rare genetic disease so either cure save your life or brand strategy
+
+59
+00:05:36,000 --> 00:05:41,520
+with Professor Scott Galloway. I don't think either of those is sustainable. We're going to see
+
+60
+00:05:41,520 --> 00:05:46,320
+incredible dispersion of media. We use the example of media going straight to our smartphones or our
+
+61
+00:05:46,320 --> 00:05:52,160
+speakers and skipping not only the supply chain of movie theaters but skipping the traditional
+
+62
+00:05:52,160 --> 00:05:57,520
+arbiters of what gets greenlit. You can go on YouTube now you can go on TikTok and you can garner
+
+63
+00:05:57,520 --> 00:06:03,360
+a huge following without the permission or the green light from a studio executive or an agent.
+
+64
+00:06:04,080 --> 00:06:09,040
+Theaters are obviously being massively disrupted here in the U.S. When we think about media there's
+
+65
+00:06:09,040 --> 00:06:14,800
+really only two media formats that are growing over the top streaming and video games. Every other
+
+66
+00:06:14,800 --> 00:06:20,800
+media is suffering and losing oxygen if you will. We're also seeing an incredible dispersion in
+
+67
+00:06:20,800 --> 00:06:27,440
+finance and that is where disruption is typically a disruptor if you will or a new player comes in
+
+68
+00:06:27,440 --> 00:06:30,880
+and starts focusing on a market that's been overlooked because the incumbents see them as
+
+69
+00:06:30,880 --> 00:06:36,720
+unprofitable. An example of this in Argentina would be Walla that is going after the 50 percent
+
+70
+00:06:36,720 --> 00:06:41,680
+of Argentinians that don't have a bank account. Neobank in Brazil we are seeing incredible
+
+71
+00:06:42,320 --> 00:06:47,040
+disruption where people are going after these companies have access to cheap capital,
+
+72
+00:06:47,040 --> 00:06:52,560
+leveraging smartphones, leveraging technology and building from the ground up a cohort that
+
+73
+00:06:52,560 --> 00:06:59,120
+had previously been ignored. The result is the marketplace loves these disruptors and provides
+
+74
+00:06:59,120 --> 00:07:04,320
+them with valuations greater than the incumbents. So look at this PayPal is worth dramatically more
+
+75
+00:07:04,320 --> 00:07:09,600
+than Goldman Sachs and Square will soon be worth more than Morgan Stanley. These are financial
+
+76
+00:07:09,600 --> 00:07:14,320
+institutions that took generations some even centuries to build and these disruptors are
+
+77
+00:07:14,320 --> 00:07:20,560
+already have already garnered more stakeholder value. Crypto is a dispersion of trust from
+
+78
+00:07:20,560 --> 00:07:26,960
+central banks to new assets and also a younger generation that doesn't believe the current asset
+
+79
+00:07:26,960 --> 00:07:32,000
+classes are serving them well. When we have bailouts that prop up the markets there's a
+
+80
+00:07:32,000 --> 00:07:36,080
+general feeling among people under the age of 30 that they have to create their own asset classes
+
+81
+00:07:36,080 --> 00:07:40,720
+to have the same opportunities that their parents had and you're seeing tremendous traction
+
+82
+00:07:41,360 --> 00:07:47,360
+of these asset classes and adoption across institutions and retail. In the U.S. there are
+
+83
+00:07:47,360 --> 00:07:52,560
+now just as many people of color in the investment markets as whites mostly because they have engaged
+
+84
+00:07:52,560 --> 00:07:58,640
+with new trading apps and also they're interested in cryptocurrencies. So we talk about this in the
+
+85
+00:07:58,640 --> 00:08:03,920
+context of opportunity but there's also some very serious societal concerns specifically dispersion
+
+86
+00:08:03,920 --> 00:08:10,400
+if you will is kind of the evil cousin of segregation and that is when we no longer go to the mall the
+
+87
+00:08:10,400 --> 00:08:16,800
+movie theater or even to work we interact less often with people from different races and different
+
+88
+00:08:16,800 --> 00:08:22,400
+income classes and we lose empathy when we no longer see the homeless veteran the homeless person
+
+89
+00:08:22,400 --> 00:08:26,560
+the single mother at the mall the grocery store the movie theater we have less empathy for them.
+
+90
+00:08:26,560 --> 00:08:31,920
+There's been studies showing that when a minority group grows in population if you live near them
+
+91
+00:08:31,920 --> 00:08:36,640
+you have empathy for them if you do not live near them and they are segregated you begin to resent
+
+92
+00:08:36,640 --> 00:08:42,880
+them. Let's talk a little bit about the four. We are seeing these companies now have the power
+
+93
+00:08:42,880 --> 00:08:47,840
+and I believe the influence of nation states. I believe Amazon, Apple, Facebook, and Google are
+
+94
+00:08:47,840 --> 00:08:52,960
+singularly more powerful and influential than almost any entities in the world maybe the
+
+95
+00:08:52,960 --> 00:08:57,680
+exception of China in the U.S. and if you look at their market capitalizations and I realize it's
+
+96
+00:08:57,680 --> 00:09:03,040
+apples to oranges they have a greater economic value or market capitalization than the GDP of
+
+97
+00:09:03,120 --> 00:09:08,720
+several large nations. They are also becoming so dominant that they are beginning to soak up all
+
+98
+00:09:08,720 --> 00:09:15,840
+the oxygen in the markets. Just five companies now represent a quarter of all the value of the S&P 500
+
+99
+00:09:15,840 --> 00:09:21,360
+and we're seeing tremendous increase in market capitalization. They have absolutely accelerated
+
+100
+00:09:21,360 --> 00:09:26,240
+the pandemic they have gained power they have increased their market capitalization.
+
+101
+00:09:26,960 --> 00:09:32,480
+Think about this one company Apple is worth more than the hundred biggest companies in the
+
+102
+00:09:32,480 --> 00:09:38,000
+United Kingdom combined so essentially we have one firm that is bigger than the biggest companies
+
+103
+00:09:38,560 --> 00:09:45,760
+in a large economy. Now why is this bad? Is big necessarily bad? In and among itself being big
+
+104
+00:09:45,760 --> 00:09:51,200
+isn't necessarily bad but what we've seen is when companies become this dominant the sectors therein
+
+105
+00:09:51,200 --> 00:09:57,040
+become less innovative or they stop creating new businesses and birthing new jobs. In Brazil and
+
+106
+00:09:57,040 --> 00:10:02,480
+the U.S. the primary job creators are small and medium-sized businesses and there are fewer small
+
+107
+00:10:02,480 --> 00:10:08,640
+businesses being started in these growth sectors because they are dominated by a monopoly or duopoly
+
+108
+00:10:08,640 --> 00:10:13,840
+and it is difficult for them to get funded. People don't want to fund an e-commerce company or a
+
+109
+00:10:13,840 --> 00:10:18,480
+search engine or a social media company. There's been no new social media company launched in the
+
+110
+00:10:18,480 --> 00:10:25,280
+U.S. of any real size since 2011 with Pinterest so as you can see the sectors that these monopolies
+
+111
+00:10:25,280 --> 00:10:31,840
+dominate tend to have fewer startups and begin to lose job creation whereas sectors that don't have
+
+112
+00:10:31,840 --> 00:10:37,920
+a monopoly or duopoly don't have this concentration of power tend to birth more new companies and
+
+113
+00:10:37,920 --> 00:10:44,080
+create more new jobs more new businesses more innovation and more tax revenue. Let's talk about
+
+114
+00:10:44,080 --> 00:10:51,200
+Amazon. We have seen retail have a difficult year but it is beginning to rebound. COVID-19 has been
+
+115
+00:10:51,200 --> 00:10:56,960
+an accelerant if you will for e-commerce. In the U.S. approximately 17 percent of all retail was
+
+116
+00:10:56,960 --> 00:11:02,240
+done through digital channels in March of 2020. Within eight weeks after the outbreak of COVID it
+
+117
+00:11:02,240 --> 00:11:08,960
+leapt to 27 percent. It had been growing approximately one percent a year so what you had was a
+
+118
+00:11:08,960 --> 00:11:15,600
+decade of acceleration just in about eight weeks. You've also registered the same types of acceleration
+
+119
+00:11:15,600 --> 00:11:22,160
+across mobile and e-commerce in Latin America. We've seen a dramatic catching up on e-commerce
+
+120
+00:11:22,160 --> 00:11:29,280
+and adoption of mobile especially in Brazil which seems to be accelerating even faster and we've
+
+121
+00:11:29,280 --> 00:11:34,560
+seen that Amazon however has been somewhat stunted in Brazil. I don't know if it's regulation
+
+122
+00:11:34,560 --> 00:11:40,160
+or bureaucracy in the supply chain but Amazon so far hasn't been a disruptive force in Brazil.
+
+123
+00:11:40,800 --> 00:11:45,520
+I wouldn't take that as comfort though because it does look as if Amazon is slowly but surely
+
+124
+00:11:45,520 --> 00:11:51,760
+starting to turn its sights on Amazon. In the U.S. retail has been a difficult place to work or
+
+125
+00:11:51,760 --> 00:11:57,600
+invest unless you work for a company in Seattle specifically Amazon and that is retail if you took
+
+126
+00:11:57,600 --> 00:12:02,720
+Brazil excuse me if you took Amazon out of retail ETFs they've underperformed the market
+
+127
+00:12:02,720 --> 00:12:08,240
+and almost all other sectors because essentially retail in the U.S. has kind of become a story of
+
+128
+00:12:08,240 --> 00:12:14,560
+Amazon and the seven dwarfs. Amazon is now greater or worth more than the entire CPG industry so
+
+129
+00:12:14,560 --> 00:12:19,040
+think about that the industry that's producing most of our consumer products if you take the
+
+130
+00:12:19,040 --> 00:12:24,160
+entire industry it doesn't add up to the value that Amazon has created. What is Amazon's challenge
+
+131
+00:12:24,160 --> 00:12:28,480
+moving forward? They're running into a lot of big numbers and that is if they want to maintain the
+
+132
+00:12:28,480 --> 00:12:32,480
+trajectory of their stock price they're going to have to increase their top line revenues by almost
+
+133
+00:12:32,480 --> 00:12:38,320
+a quarter of a trillion dollars. Again Amazon has to find another 250 billion dollars in top line
+
+134
+00:12:38,320 --> 00:12:45,360
+revenue to maintain its growth. What does that mean? It means all roads lead to the same industry
+
+135
+00:12:45,360 --> 00:12:51,360
+and that is healthcare. Amazon doesn't maybe want to go into healthcare but they have to. This is
+
+136
+00:12:51,360 --> 00:12:57,440
+the largest industry in the western hemisphere it is incredibly ripe for disruption and Amazon has
+
+137
+00:12:57,440 --> 00:13:03,200
+all the pieces in place to disrupt healthcare. They have a wearable that measures your body mass
+
+138
+00:13:03,200 --> 00:13:06,960
+index they know what food you order they know what products you order they know your zip code
+
+139
+00:13:06,960 --> 00:13:11,520
+whether you're in a monogamous relationship and they have the appliances to begin communicating
+
+140
+00:13:11,520 --> 00:13:17,440
+with you and also begin gathering data. It's only a matter of time before you walk in and Alexa asks
+
+141
+00:13:17,440 --> 00:13:24,000
+you if you would like insurance diagnostics or if your child has a rash you hold it up to an Alexa
+
+142
+00:13:24,000 --> 00:13:29,040
+take a picture of it and then maybe they connect you with a pediatric dermatologist. I think Amazon
+
+143
+00:13:29,040 --> 00:13:34,800
+will be the fastest growing healthcare company in the world if it isn't already. The thing about a
+
+144
+00:13:34,800 --> 00:13:39,840
+monopoly is that when they come into a sector they can just announce they're entering and they
+
+145
+00:13:40,960 --> 00:13:46,320
+begin gathering the mother's milk of business and that's access to cheap capital. So Amazon can get
+
+146
+00:13:46,320 --> 00:13:51,120
+can take billions of dollars of market capitalization out of a sector just by announcing
+
+147
+00:13:51,120 --> 00:13:55,600
+that they're going into the business. It's sort of a Jedi mind trick where they can just begin
+
+148
+00:13:56,320 --> 00:14:03,280
+choking a competitor just by thinking ill of it. Let's talk about Apple. Apple typically trades at
+
+149
+00:14:03,520 --> 00:14:10,640
+multiple of earnings somewhere between 10 and 15. It is now leapt to 37. Why? Because it has moved
+
+150
+00:14:10,640 --> 00:14:18,480
+to subscription. Almost 20% of its revenues now come from subscription. This is a moment to pause
+
+151
+00:14:18,480 --> 00:14:24,080
+and that is whatever business you're in you should be contemplating pilot projects try and move out
+
+152
+00:14:24,080 --> 00:14:30,800
+of a transactional episodic type of business model retail consulting into a more recurring
+
+153
+00:14:30,800 --> 00:14:36,160
+revenue membership subscription model similar to what Amazon did with Prime. Netflix's recurring
+
+154
+00:14:36,160 --> 00:14:41,280
+revenue I believe Disney Plus is going to be a recurring revenue bundle if you will. Why is this
+
+155
+00:14:41,280 --> 00:14:46,320
+important? When you go to a recurring revenue model you begin focusing on the relationship between
+
+156
+00:14:46,320 --> 00:14:51,600
+the consumer and the company as opposed to putting your best minds and most capital into just getting
+
+157
+00:14:51,600 --> 00:14:56,320
+more people into the store if you will. It changes the dynamic where you become more product and
+
+158
+00:14:56,400 --> 00:15:01,600
+relationship focused. In addition the marketplace tends to value recurring revenue companies at a
+
+159
+00:15:01,600 --> 00:15:06,640
+multiple of revenues as opposed to a multiple of EBITDA. So my challenge to every CEO I speak with
+
+160
+00:15:07,200 --> 00:15:12,320
+is what pilot projects can you start to start transitioning to a recurring revenue model?
+
+161
+00:15:12,880 --> 00:15:17,520
+And even if it's only 1% of your business as long as that part of your business is growing faster
+
+162
+00:15:17,520 --> 00:15:22,400
+than the core business it begins to change the mentality and the way you think about the business
+
+163
+00:15:22,400 --> 00:15:26,400
+and the marketplace begins to recast your business as having the potential
+
+164
+00:15:26,400 --> 00:15:32,080
+to become the recurring revenue business. So that 20% of Apple's revenues that is subscription
+
+165
+00:15:32,080 --> 00:15:37,760
+is driving the increase in its multiple. And as you can see if you find a company that stock
+
+166
+00:15:37,760 --> 00:15:44,000
+price is dramatically increased or outpaced its revenue growth it's usually on the backs of a
+
+167
+00:15:44,000 --> 00:15:50,880
+move to a recurring revenue business model. Apple's challenge is the same challenge as Amazon and that
+
+168
+00:15:50,880 --> 00:15:55,200
+is they're running into the law of big numbers. They need to add a quarter of a trillion dollars.
+
+169
+00:15:55,200 --> 00:15:59,920
+Where will they go? I thought last year I predicted that they were going to go into education but that
+
+170
+00:15:59,920 --> 00:16:03,840
+doesn't appear to be happening. Where do I think Apple is going to go? Apple is going to go into
+
+171
+00:16:03,840 --> 00:16:09,360
+a sector that previously was only a hundred billion dollar market capitalization sector
+
+172
+00:16:09,360 --> 00:16:15,200
+until about two years ago and then it exploded to a seven hundred billion dollar sector. And I believe
+
+173
+00:16:15,200 --> 00:16:21,200
+that pie is so big now that they can't ignore it. What is that sector? It is the automobile sector
+
+174
+00:16:21,200 --> 00:16:26,080
+and that is I believe there is going to be a quarter of a trillion dollar event in the next
+
+175
+00:16:26,080 --> 00:16:31,920
+12 months and that event will be Tim Cook on stage unveiling an automobile, an electric automobile
+
+176
+00:16:31,920 --> 00:16:37,920
+with an Apple logo on it. I think that day will set off a transition of a quarter or a transfer
+
+177
+00:16:37,920 --> 00:16:43,600
+of a quarter of a trillion dollars from Tesla to Apple. I think Apple is the strongest brand in the
+
+178
+00:16:43,600 --> 00:16:48,320
+world. It does an amazing job with hardware and I think a lot of people will be very interested in
+
+179
+00:16:48,320 --> 00:16:53,600
+trialing an Apple car if you will. Facebook and Google have only gotten stronger. They used to
+
+180
+00:16:53,600 --> 00:17:00,960
+control 60 cents on the digital dollar. We saw an incredible decline in advertising in the U.S. and
+
+181
+00:17:00,960 --> 00:17:06,880
+in Brazil during COVID. It's returned and of course Google and Facebook have consolidated the market
+
+182
+00:17:06,880 --> 00:17:13,200
+and they now have about 80 percent. TV, free TV still dominates in Brazil but we're seeing that the
+
+183
+00:17:13,200 --> 00:17:18,480
+big players specifically Google and Facebook are starting to garner share and consolidate the market
+
+184
+00:17:18,480 --> 00:17:24,560
+with incredible growth rates around programmatic and online advertising. In addition these companies
+
+185
+00:17:24,560 --> 00:17:30,240
+can play offense when everyone else is playing defense. They have so much cash on hand. Any one
+
+186
+00:17:30,240 --> 00:17:37,920
+of these companies could buy Boeing and Airbus just with the cash they have on hand. Now we're
+
+187
+00:17:38,000 --> 00:17:44,560
+seeing some incredible externalities here and that is there is government overrun and that is
+
+188
+00:17:44,560 --> 00:17:49,200
+these companies have become so powerful. In addition consumers love these products so much
+
+189
+00:17:49,200 --> 00:17:54,400
+that they're seen as innovators and our leaders, our political leaders are somewhat remiss to apply
+
+190
+00:17:54,400 --> 00:17:59,360
+the same standards to these companies as they've applied to other industries. The result is regulatory
+
+191
+00:17:59,360 --> 00:18:06,640
+overrun. Two-thirds of men who joined extremist groups were done so after that group was suggested
+
+192
+00:18:06,640 --> 00:18:13,440
+to them, actively suggested by Facebook or Google. I'd like to think that some immunities are kicking
+
+193
+00:18:13,440 --> 00:18:17,520
+in and we're seeing around the world that organizations are saying we've had enough. For
+
+194
+00:18:17,520 --> 00:18:22,240
+example in Brazil they implemented a top line tax because they decided that their tax lawyers
+
+195
+00:18:22,240 --> 00:18:26,480
+were more sophisticated than your tax officials and they were sick of the massive tax avoidance.
+
+196
+00:18:26,480 --> 00:18:32,480
+The same top line tax has been implemented in France. In the UK they decided that Uber can no
+
+197
+00:18:32,480 --> 00:18:38,080
+longer circumvent minimum wage laws and we have antitrust or an antitrust movement here in the US
+
+198
+00:18:38,080 --> 00:18:44,560
+and in Australia there's been regulation against Facebook. I'm going to switch gears to something
+
+199
+00:18:44,560 --> 00:18:49,520
+that I think is an existential threat across some of our western economies. I call it the virgin
+
+200
+00:18:49,520 --> 00:18:55,840
+homicides. What do I mean by that? Typically when an industry is digitized and that is there's a
+
+201
+00:18:55,840 --> 00:19:02,480
+massive amount of innovation, new digital platforms that attracts cheap capital. There is a consolidation,
+
+202
+00:19:02,480 --> 00:19:06,560
+there's a lot of innovation, a lot of new players and then there's actually a concentration of power
+
+203
+00:19:06,560 --> 00:19:11,840
+that goes to the winner. Sort of a winner take most or winner take all. We saw it happen in media
+
+204
+00:19:11,840 --> 00:19:18,080
+as we referenced Google and Facebook are now 80 cents on the digital dollar. We saw it in
+
+205
+00:19:18,720 --> 00:19:24,720
+e-commerce. Amazon now represents in many markets 50 cents on the on the e-commerce dollar. We're
+
+206
+00:19:24,720 --> 00:19:32,320
+now seeing it in mating and that is more and more people are meeting online. It's now the
+
+207
+00:19:32,320 --> 00:19:39,440
+primary way that people meet potential mates or spouses is online. It's more through work, more
+
+208
+00:19:39,440 --> 00:19:45,360
+through going out, more through school. Now what's wrong with that? The problem is with digitization
+
+209
+00:19:45,360 --> 00:19:52,000
+you end up with again a winner take all and that is the Gini coefficient or the concentration is
+
+210
+00:19:52,000 --> 00:19:57,040
+incredibly strong online. What do I mean by that? If there are 100 people on a dating app,
+
+211
+00:19:57,920 --> 00:20:06,240
+four men, four men will get the majority of the interest from 46 of the 50 women leaving 46 men
+
+212
+00:20:06,240 --> 00:20:12,480
+fighting over the attention of four women. Now what is the criteria for this? This is politically
+
+213
+00:20:12,480 --> 00:20:20,240
+incorrect but the the data suggests this is that if a man can signal wealth online he garners a
+
+214
+00:20:20,240 --> 00:20:25,840
+tremendous amount or a disproportionate amount of interest. So if you live in a higher income zip
+
+215
+00:20:25,840 --> 00:20:32,640
+code, if you're able to express certification or college degrees, if you are dressed in expensive
+
+216
+00:20:32,640 --> 00:20:38,160
+clothes you get dramatically more swipes than people who aren't able to communicate that type
+
+217
+00:20:38,160 --> 00:20:45,280
+or express that type of wealth. Why is this a bad thing? So in the U.S. there was a study looking at
+
+218
+00:20:45,280 --> 00:20:52,080
+in 2008 how many men under the age of under the age of 30 had never had sex and people hear the
+
+219
+00:20:52,080 --> 00:20:57,120
+word sex and they start thinking a lot of different things but let's just think of sex as a key step
+
+220
+00:20:57,120 --> 00:21:07,360
+to establishing a relationship. Only 8 percent, only 8 percent of men or had not had not had sex
+
+221
+00:21:07,360 --> 00:21:14,640
+before the age of 30 in 2008. It has jumped to 28 percent. Almost one in three men in the United
+
+222
+00:21:14,640 --> 00:21:20,480
+States have never been intimate with a woman under the age of 30. Now why is this bad? It's not based
+
+223
+00:21:20,480 --> 00:21:26,000
+on values. It's not because they don't want to take that step. The reason it is bad is because the
+
+224
+00:21:26,000 --> 00:21:32,000
+most dangerous person in the world is a young, broke, and lonely male. The most volatile, violent
+
+225
+00:21:32,000 --> 00:21:39,040
+societies in the world have too many of this cohort and that is young men with very little to lose that
+
+226
+00:21:39,040 --> 00:21:44,160
+have very few guardrails. They are not attaching to work, they are not attaching to school, and they
+
+227
+00:21:44,160 --> 00:21:50,000
+are not attaching to a mate. That's not to say that young women who are lonely and can't find a job,
+
+228
+00:21:50,000 --> 00:21:55,200
+that that isn't a problem, but they don't typically become violent or start revolutions.
+
+229
+00:21:55,920 --> 00:22:01,360
+This leads to a variety of risky behavior. I think the adoption of meme stocks and to a
+
+230
+00:22:01,360 --> 00:22:07,680
+certain extent crypto is based on young people who are pursuing volatility because for the first time
+
+231
+00:22:07,680 --> 00:22:13,840
+at least in the U.S. a person at the age of 30 is no longer doing as well as their parents.
+
+232
+00:22:13,840 --> 00:22:20,000
+This is the basis for revolution. The central compact of any society is that you will do better
+
+233
+00:22:20,000 --> 00:22:24,240
+than your parents. When the majority of people, young people, aren't doing as well as the majority
+
+234
+00:22:24,240 --> 00:22:30,720
+of their parents, it sets the stage for volatility and an incredible embrace of risk because they just
+
+235
+00:22:30,720 --> 00:22:38,080
+have less to lose. This type of behavior or pent-up frustration leads to much more volatility
+
+236
+00:22:38,720 --> 00:22:44,880
+even in the investment markets. Now we're seeing this across protests and that is not to say that
+
+237
+00:22:44,880 --> 00:22:49,680
+these protests aren't righteous or the underlying movements aren't justified, but we're seeing an
+
+238
+00:22:49,680 --> 00:22:55,520
+increase in participation. So for example, Vietnam protests, approximately 1% of the population in
+
+239
+00:22:55,520 --> 00:23:01,280
+the United States had participated. It's almost 6% of the U.S. population has now participated in
+
+240
+00:23:01,280 --> 00:23:05,520
+a protest in the U.S. The bottom line is if you have a job or you're in school you have less time
+
+241
+00:23:05,520 --> 00:23:12,160
+to protest. We also see this translating to violence and that is in the U.S. we've had an
+
+242
+00:23:12,160 --> 00:23:18,240
+epidemic of mass shootings and the profile of mass shooters is frighteningly similar. It's young men
+
+243
+00:23:18,240 --> 00:23:24,560
+who are very lonely and feel totally detached socially. Now are there solutions? There are. We
+
+244
+00:23:24,560 --> 00:23:30,080
+need more on-ramps to a middle-class life other than a traditional bachelor of arts and a lot of
+
+245
+00:23:30,080 --> 00:23:35,680
+societies are beginning to prioritize and invest in vocational programs to give people the
+
+246
+00:23:35,680 --> 00:23:42,400
+opportunity to have a middle-class life even if they're not able to get to college. So a prediction
+
+247
+00:23:42,400 --> 00:23:49,840
+here, will 2021 be the best or the worst year in decades? I don't think the answer has been written.
+
+248
+00:23:49,840 --> 00:23:54,560
+I think it's kind of up to us. You could see us coming out of this disaster stronger than ever.
+
+249
+00:23:55,120 --> 00:23:59,680
+The fires in London spawned an incredible era of architecture. The end of World War II
+
+250
+00:23:59,680 --> 00:24:04,880
+led us to make massive investments in Japan and Germany and turn them into tremendous allies
+
+251
+00:24:05,600 --> 00:24:11,040
+such that it really largely kept the peace for the next 70 years. There are certain plants,
+
+252
+00:24:11,680 --> 00:24:18,160
+pyrophilic plants that only germinate after a fire. At the same time this does appear to be
+
+253
+00:24:18,160 --> 00:24:23,280
+bringing out some of the worst attributes in our tribal nature as a species. We politicize everything
+
+254
+00:24:23,280 --> 00:24:28,880
+from masks and vaccines and we seem to have a lack of empathy around what's going on and we seem to be
+
+255
+00:24:28,880 --> 00:24:36,160
+ignoring science at the cost of tremendous human suffering. So the economy has largely bounced back
+
+256
+00:24:36,160 --> 00:24:42,560
+because of massive intervention and stimulus. We are seeing incredible GDP growth again. Even in Brazil
+
+257
+00:24:42,560 --> 00:24:48,240
+it's estimated that we're going to see real significant GDP growth. We're also unfortunately
+
+258
+00:24:48,240 --> 00:24:53,920
+seeing some of the same acceleration of current trends around income inequality. In the U.S. just
+
+259
+00:24:53,920 --> 00:25:00,880
+one percent of the population garnered 90 percent of the gains post-COVID. We also have two people
+
+260
+00:25:00,880 --> 00:25:05,760
+in the U.S. who are now wealthier than the bottom 40 percent and we see the same thing in Brazil
+
+261
+00:25:05,760 --> 00:25:12,800
+where just six people have more wealth than half the nation. We're also seeing incredible income
+
+262
+00:25:12,800 --> 00:25:18,160
+inequality within companies whereas the CEOs and top management have seen their salaries
+
+263
+00:25:18,160 --> 00:25:24,000
+go up 14-fold whereas the average worker hasn't really had a raise in about 30 years.
+
+264
+00:25:26,560 --> 00:25:32,560
+So wages have not caught up. We've seen incredible gains in productivity. There's always a tension
+
+265
+00:25:32,560 --> 00:25:36,960
+between capital and labor and over the last 30 years capital quite frankly has been kicking the
+
+266
+00:25:36,960 --> 00:25:44,080
+crap out of labor and that delta in that line between productivity and profits is trillions of
+
+267
+00:25:44,080 --> 00:25:48,480
+dollars in shareholder value. The majority of that has gone back to shareholders and the top
+
+268
+00:25:48,480 --> 00:25:54,160
+management. So if you think about a society loosely bucketed into three cohorts consumers,
+
+269
+00:25:54,880 --> 00:26:01,680
+shareholders, and workers consumers are king. We now have the processing power of the space shuttle
+
+270
+00:26:01,680 --> 00:26:08,880
+for free in our pockets. Shareholders have done well. The NASDAQ is up five-fold since 2008.
+
+271
+00:26:08,880 --> 00:26:14,640
+It's workers that have had the toughest time and that is they have not seen not really seen a wage
+
+272
+00:26:14,640 --> 00:26:21,520
+increase in over 30 years. There are some incredibly encouraging things around a decrease in the poverty
+
+273
+00:26:21,520 --> 00:26:26,480
+rate specifically in the U.S. because of massive stimulus. We've seen the number of children living
+
+274
+00:26:26,480 --> 00:26:33,920
+in poverty decline by 60 percent. The bottom quintile of households have seen their incomes
+
+275
+00:26:33,920 --> 00:26:39,680
+increase by 20 or 30 percent. We're seeing it was temporary though in Brazil while the poverty
+
+276
+00:26:39,680 --> 00:26:46,240
+rate declined dramatically during emergency aid. Now that some of that emergency aid has ended we're
+
+277
+00:26:46,240 --> 00:26:52,400
+again seeing poverty rates start to escalate again. Obviously vaccines have been incredibly
+
+278
+00:26:52,400 --> 00:26:56,560
+important and we're seeing certain nations do a better job of getting them out and others.
+
+279
+00:26:56,560 --> 00:27:01,520
+Unfortunately in the U.S. vaccines have been politicized and we've seen an incredible drop
+
+280
+00:27:01,520 --> 00:27:08,560
+off in the number of vaccines being administered in the U.S. and then the vaccine or excuse me the
+
+281
+00:27:08,560 --> 00:27:15,520
+pathogen took advantage of this had time to morph had time to find new hosts times time to evolve
+
+282
+00:27:15,520 --> 00:27:20,960
+to new variants and we now in the U.S. as we do in Brazil have a variant that is not only more
+
+283
+00:27:20,960 --> 00:27:26,880
+infectious but just as virulent and in my home state of Florida we now have more children in
+
+284
+00:27:26,960 --> 00:27:33,120
+pediatric ICU's than there are in many European countries. There's a narrative that always evolves
+
+285
+00:27:33,120 --> 00:27:37,680
+that gives us comfort and one of those narratives was that this was not going to impact children
+
+286
+00:27:37,680 --> 00:27:41,840
+and we're finding out in the U.S. that that's just not true. I have an 11 year old you're not allowed
+
+287
+00:27:41,840 --> 00:27:46,640
+to get people vaccinated under the age of 12 and one of the reasons we are not in Florida is I will
+
+288
+00:27:46,640 --> 00:27:52,080
+not take my 11 year old back to Florida who is unvaccinated because I believe our leadership has
+
+289
+00:27:52,080 --> 00:27:57,920
+done such a terrible job of creating misinformation around vaccines and because so many people have
+
+290
+00:27:57,920 --> 00:28:03,680
+decided not to get a vaccination. This flies in the face of everything we know about truth and
+
+291
+00:28:03,680 --> 00:28:08,080
+about science and the bottom line is you're less likely to contract and less likely to spread
+
+292
+00:28:08,880 --> 00:28:15,920
+COVID-19 with a vaccine and it's just incredibly discouraging. I'm a big fan of the Game of Thrones
+
+293
+00:28:15,920 --> 00:28:20,240
+series and it's as if we we finally found Dragonstone something that can kill White
+
+294
+00:28:20,240 --> 00:28:26,640
+Walkers but we decided not to use this Dragonstone. I think this presents a tremendous opportunity
+
+295
+00:28:26,640 --> 00:28:32,560
+for the United States and that is we have incredible supply chain and can produce tremendous
+
+296
+00:28:32,560 --> 00:28:39,040
+quantities of vaccine. If you think about World War II when tyranny reigned across Europe and
+
+297
+00:28:39,040 --> 00:28:44,080
+threatened everywhere and it was going to threaten Latin America if Hitler had taken control of Europe
+
+298
+00:28:44,080 --> 00:28:49,600
+he then probably would have landed in Latin America at some point. Our supply chain basically
+
+299
+00:28:49,600 --> 00:28:54,000
+saved the world and that was we were able to produce more armaments. I think the similar
+
+300
+00:28:54,000 --> 00:28:58,960
+opportunity is here and that is we have more opportunity to flood the world with vaccine
+
+301
+00:28:58,960 --> 00:29:04,720
+than any other nation and I'd like to think the same generosity we demonstrated towards Japan
+
+302
+00:29:05,440 --> 00:29:10,000
+and Germany we could demonstrate towards India and Brazil and that is to storm the shores of
+
+303
+00:29:10,000 --> 00:29:15,680
+India and Brazil with vaccine and to reach out and grab the hands of our brothers and sisters
+
+304
+00:29:15,680 --> 00:29:20,720
+and create new strong bonds and new allies that might stand the test of time over the next several
+
+305
+00:29:21,360 --> 00:29:26,960
+decades. I'm going to end with a question around what is the profound opportunity coming out of
+
+306
+00:29:26,960 --> 00:29:33,280
+the novel coronavirus. I don't think it's economic. There's a meaningful opportunity professionally
+
+307
+00:29:33,280 --> 00:29:38,000
+and that is most auto races aren't one on the track they're one in the pits and that is if you
+
+308
+00:29:38,000 --> 00:29:44,000
+can continue to run around the track while everyone else is in the pits you're going to
+
+309
+00:29:44,000 --> 00:29:49,120
+win the race. Right now if you work for a company that offers you the technology and that company is
+
+310
+00:29:49,120 --> 00:29:54,480
+financially doing well you are healthy you are emotionally fit and you are able to work at full
+
+311
+00:29:54,480 --> 00:30:00,480
+capacity I think you should be working all the time. Why? My colleague at NYU Stern one of the
+
+312
+00:30:00,480 --> 00:30:07,040
+brightest strategy professors in the world talks about the notion of variance and that is when
+
+313
+00:30:07,040 --> 00:30:13,120
+there's huge variance that's where you want to invest. So for example if everybody in your
+
+314
+00:30:13,120 --> 00:30:18,240
+industry has great branch networks that's not where you invest but if there's huge variance
+
+315
+00:30:18,240 --> 00:30:23,440
+in their ability to data mine that's where you want to invest. Right now there's huge variance
+
+316
+00:30:23,440 --> 00:30:27,920
+in corporate Brazil and corporate America and that is a lot of people are able to work at full
+
+317
+00:30:27,920 --> 00:30:32,000
+productivity but a lot of people are not for different reasons. That is when you want to
+
+318
+00:30:32,000 --> 00:30:36,880
+work really hard. I think there's an opportunity to lap the competition if you will right now if
+
+319
+00:30:36,880 --> 00:30:42,960
+your company is blessed with the resources and you are emotionally financially and professionally
+
+320
+00:30:43,360 --> 00:30:47,600
+fit if you will. I think this is a tremendous opportunity to make progress because a lot of the
+
+321
+00:30:47,600 --> 00:30:54,240
+competition is stuck in the pits if you will. That is a meaningful opportunity. However, however
+
+322
+00:30:54,800 --> 00:30:59,920
+the profound opportunity is for the repair and cementing of key relationships. I wrote a book
+
+323
+00:30:59,920 --> 00:31:05,760
+on happiness because I struggle with my own happiness. My blessings are here my happiness
+
+324
+00:31:05,760 --> 00:31:10,880
+is here and I wanted to bring this and more in line with this. So happiness is similar to any
+
+325
+00:31:10,880 --> 00:31:14,560
+sport. If you want to be great at soccer you have to practice and I think if you want to be great
+
+326
+00:31:14,560 --> 00:31:22,080
+at happiness you have to study the concept and practice it. The key to being happy across almost
+
+327
+00:31:22,080 --> 00:31:27,680
+every study every ethnicity and every geography is the number of deep and meaningful relationships
+
+328
+00:31:27,680 --> 00:31:31,840
+you have. At work do you feel respected and admired and do you respect and admire other people?
+
+329
+00:31:31,840 --> 00:31:36,640
+Amongst your friends you get a sense of joy and camaraderie and do you know they know that you
+
+330
+00:31:36,640 --> 00:31:41,360
+feel a sense of joy and camaraderie and also across your family do you feel an intense level
+
+331
+00:31:41,360 --> 00:31:46,720
+of love and support and just as importantly do you know they know that they are intensely loved and
+
+332
+00:31:46,720 --> 00:31:53,440
+supported by you. So the profound opportunity is during a crisis is the repair and cementing of
+
+333
+00:31:53,440 --> 00:31:59,600
+relationships and that is people remember how you behave during a crisis. We give medals and ribbons
+
+334
+00:31:59,600 --> 00:32:04,560
+to our young men and women in uniform based on their ability to show grace and courage and love
+
+335
+00:32:04,560 --> 00:32:11,280
+during a crisis. We are in a crisis. People remember how you behave in a crisis. So three
+
+336
+00:32:11,280 --> 00:32:18,000
+questions and I end every presentation I'm giving. I will present over 300,000 people this year and
+
+337
+00:32:18,000 --> 00:32:24,560
+I end every presentation with the same three questions. Question one is this an opportunity
+
+338
+00:32:24,560 --> 00:32:30,480
+to pivot to becoming a caregiver for someone older in your life? A parent, an uncle, someone who is
+
+339
+00:32:30,480 --> 00:32:36,800
+struggling mentally or physically with the novel coronavirus. It's easy for us to expect care from
+
+340
+00:32:36,800 --> 00:32:43,360
+our parents. Is this that moment to pivot to being their parent if you will too? Do you have the
+
+341
+00:32:43,360 --> 00:32:49,040
+relationship with your siblings that you want? If you had been one of the people that was forced to
+
+342
+00:32:49,040 --> 00:32:55,120
+say goodbye to your sibling who was in the emergency room over FaceTime is your relationship where you
+
+343
+00:32:55,120 --> 00:33:00,400
+want it to be? And then finally have you made the requisite investments in friendships to maintain
+
+344
+00:33:00,400 --> 00:33:05,920
+those friendships or have you let perceived slights or competitiveness or other bullshit get in the
+
+345
+00:33:05,920 --> 00:33:11,600
+way of those friendships? The key to our happiness is the number of deep and meaningful relationships
+
+346
+00:33:11,600 --> 00:33:16,160
+and the novel coronavirus presents us with a tremendous opportunity if you are blessed with
+
+347
+00:33:16,160 --> 00:33:21,840
+health, financial security, and grace to repair and cement those relationships. A meaningful
+
+348
+00:33:21,840 --> 00:33:28,800
+opportunity professionally, a profound opportunity for the repair and cementing of key relationships.
+
+349
+00:33:28,800 --> 00:33:34,800
+Let's summarize. We are experiencing decades and days. The novel coronavirus's enduring feature will
+
+350
+00:33:34,800 --> 00:33:39,680
+be seen as an accelerant more than a change agent whether it's the number of people living at home,
+
+351
+00:33:39,680 --> 00:33:44,320
+whether it's income inequality, whether it's telehealth, whether it's dispersion of financial
+
+352
+00:33:44,320 --> 00:33:49,600
+markets. All the existing trends are just accelerating. An interesting question to ask yourself
+
+353
+00:33:50,240 --> 00:33:55,440
+take every trend professionally and personally and take it out 10 years and ask yourself are
+
+354
+00:33:55,440 --> 00:34:00,080
+we here right now and if so how would you change your business strategy and how would you change
+
+355
+00:34:00,080 --> 00:34:06,160
+your own personal approach to your own relationships? Amazon, Apple, Facebook, and Google continue to
+
+356
+00:34:06,160 --> 00:34:11,360
+their march. I believe that they have overrun government and are a threat to our society and
+
+357
+00:34:11,360 --> 00:34:17,120
+they should be broken up. We have an emerging crisis among young men who are not attaching to
+
+358
+00:34:17,120 --> 00:34:21,920
+work, not attaching to school, and not attaching to relationships and I believe that we are on the
+
+359
+00:34:21,920 --> 00:34:27,040
+precipice of what could be the best or the worst year in the last several decades but I don't think
+
+360
+00:34:27,040 --> 00:34:33,120
+it's an organic decision. I think it's up to us and I think the profound opportunity is to demonstrate
+
+361
+00:34:33,120 --> 00:34:38,560
+grace, forgiveness, and generosity during a crisis and we are in a crisis. The profound opportunity
+
+362
+00:34:38,560 --> 00:34:44,880
+again is to invest in and repair and cement key relationships. My name is Scott Galloway. I teach
+
+363
+00:34:44,880 --> 00:34:48,560
+at NYU. I'll stop right there and I'll open it up for questions and answers.
+
+364
+00:34:51,280 --> 00:34:57,680
+Thank you Scott. That was amazing. Thanks for your presentation. This is Fernando here. If I may
+
+365
+00:34:57,680 --> 00:35:04,640
+start with the question, I'm an avid listener of your podcast, the Prof. G show. The few times that
+
+366
+00:35:04,640 --> 00:35:09,920
+I'm able to go to the gym I always listen to it and one of your earlier predictions regarding
+
+367
+00:35:10,480 --> 00:35:17,120
+the big tech firms was that they need to be broken up, right? They are too powerful and you talk about
+
+368
+00:35:17,120 --> 00:35:23,280
+that, that they need to be separated at some sorts or there needs to be more regulation
+
+369
+00:35:23,280 --> 00:35:29,840
+on those companies. We've seen China going through that route in recent weeks and months
+
+370
+00:35:29,840 --> 00:35:35,520
+so I just wanted to see what are your thoughts regarding what China is doing and what the US
+
+371
+00:35:36,160 --> 00:35:40,560
+can or will do in the future with regards to regulation of the big tech firms?
+
+372
+00:35:41,840 --> 00:35:45,680
+Thanks for the question. I've been thinking a lot about this. Americans are some of the most,
+
+373
+00:35:46,320 --> 00:35:51,920
+I think we are an exceptionally innovative, generous people. We're also, our comorbidity is
+
+374
+00:35:51,920 --> 00:35:57,120
+our arrogance and that is we believe that the American way is so far superior we don't even
+
+375
+00:35:57,120 --> 00:36:01,920
+like to learn from other nations and I think there's a lot to be learned from what is going
+
+376
+00:36:01,920 --> 00:36:06,160
+on in China right now. China over the last 30 years has brought three quarters of a billion
+
+377
+00:36:06,160 --> 00:36:11,600
+people out of poverty so I'm not a fan of China. You could argue they're engaged in kind of
+
+378
+00:36:12,480 --> 00:36:18,240
+genocide, autocracy, but there's just no getting around it. Bringing 750 million people out of
+
+379
+00:36:18,240 --> 00:36:24,400
+poverty is one of the greatest accomplishments in the history of mankind so to not learn from the
+
+380
+00:36:24,400 --> 00:36:29,840
+Chinese is to basically decide to put your head in the sand and what can we learn? The Chinese have
+
+381
+00:36:29,840 --> 00:36:36,000
+looked across the Pacific at the United States and said we are not going to subvert societal
+
+382
+00:36:36,000 --> 00:36:42,400
+interest economic interests and they decided to essentially take some of these iconic companies
+
+383
+00:36:42,400 --> 00:36:47,840
+that seem to be engaged in economic or government overrun and they have severely curtailed their
+
+384
+00:36:47,840 --> 00:36:52,960
+power and they're talking about breaking them up. They have taken online tutoring companies
+
+385
+00:36:52,960 --> 00:36:58,080
+that were helping the children of rich families get into the best colleges and they have said no
+
+386
+00:36:58,080 --> 00:37:02,080
+more of that. They are worried about income inequality. They are worried about companies
+
+387
+00:37:02,080 --> 00:37:07,440
+or families building dynasties. They have decided that they are going to force video game companies
+
+388
+00:37:07,440 --> 00:37:11,920
+to limit the amount of time the young people spend on video games and social networks.
+
+389
+00:37:12,480 --> 00:37:18,000
+So when you look at what they've done essentially they have looked at the U.S. and said that the U.S.
+
+390
+00:37:18,000 --> 00:37:22,960
+is heading down a dangerous path of too much corporate concentration, a lack of regard for
+
+391
+00:37:23,040 --> 00:37:28,000
+the mental well-being of young people, and the emergence of income inequality through dynastic
+
+392
+00:37:28,000 --> 00:37:33,600
+wealth through education that's only accessible to the children of rich people. I think that is very
+
+393
+00:37:33,600 --> 00:37:40,720
+interesting and I think we should not, I'm not suggesting we adopt their kind of hard-handed
+
+394
+00:37:41,360 --> 00:37:45,680
+tactics, but I think it's interesting to look at China which plays the long game
+
+395
+00:37:46,240 --> 00:37:50,480
+and has been more successful than any nation relatively speaking economically over the last
+
+396
+00:37:50,480 --> 00:37:57,040
+30 years and to understand or register what they see as being the biggest mistakes in the United
+
+397
+00:37:57,040 --> 00:38:02,160
+States. So I think there's a lot to learn there. I personally don't think that these companies,
+
+398
+00:38:02,160 --> 00:38:05,440
+I think they're going to wrap their knuckles but I don't think they're going to cut their fingers
+
+399
+00:38:05,440 --> 00:38:09,440
+off. I personally think that these internet companies are really good investments right now.
+
+400
+00:38:09,440 --> 00:38:16,000
+For example, Alibaba, which is the Amazon of Asia trades at a forward price earnings multiple of
+
+401
+00:38:16,000 --> 00:38:22,880
+about 17 versus Amazon trades at 60 despite the fact that Alibaba is growing faster than Amazon.
+
+402
+00:38:22,880 --> 00:38:27,440
+So basically when you buy Alibaba you're buying Amazon for a third of the price because there's
+
+403
+00:38:27,440 --> 00:38:32,640
+such a chill and there's such a concern that China is going to withdraw from the capital markets
+
+404
+00:38:33,280 --> 00:38:37,760
+and that any investment in these companies is going to be stranded. I don't think that's the
+
+405
+00:38:37,760 --> 00:38:43,920
+case. I think the Chinese are effectively sent a very strong signal of these companies but they're
+
+406
+00:38:43,920 --> 00:38:50,560
+not going to shut them down. So I think China offers an opportunity for us to learn by seeing
+
+407
+00:38:50,560 --> 00:38:57,280
+how they see the U.S. I do believe the U.S. is going to break up big tech. We have a tendency
+
+408
+00:38:57,280 --> 00:39:02,480
+to think that it's bad for capitalism. If you look at most breakups the shareholders win. So for
+
+409
+00:39:02,480 --> 00:39:08,480
+example, PayPal used to be part of eBay. It's now worth dramatically more than eBay. Spends typically
+
+410
+00:39:08,480 --> 00:39:13,120
+work. When AT&T, our biggest telco, was broken up in the 80s here in the U.S. each of the seven
+
+411
+00:39:13,120 --> 00:39:18,640
+companies the baby bells that was broken up into ended up being worth more than the original AT&T
+
+412
+00:39:18,640 --> 00:39:23,600
+with just 10 years. So I don't think we break up these companies necessarily because they're bad
+
+413
+00:39:23,600 --> 00:39:29,280
+people or some sort of punishment but because breaking them up is a key component of oxygenating
+
+414
+00:39:29,280 --> 00:39:34,720
+the economy. So I think the breakup is coming and I think it'll be good for the stock market,
+
+415
+00:39:34,720 --> 00:39:41,600
+good for investors, good for job growth, good for the planet. Thank you so much. Who wants to go next?
+
+416
+00:39:41,600 --> 00:39:48,720
+Okay sure. So thank you for your brilliant presentation professor. I guess I've also
+
+417
+00:39:48,720 --> 00:39:55,600
+become a fan of your podcast and I've heard on a couple of different occasions you mention a very
+
+418
+00:39:55,600 --> 00:40:02,080
+interesting a bit polemic view I would say for some especially at these times in terms of what
+
+419
+00:40:02,080 --> 00:40:08,480
+young people should focus when they think about what to do with their lives in career-wise I would
+
+420
+00:40:08,480 --> 00:40:15,600
+say and I say I quote here something that I heard in your podcast, find your talent, don't find your
+
+421
+00:40:15,600 --> 00:40:22,400
+passion. So I personally think this is an amazing view. I've been a fan of doing that. I've been
+
+422
+00:40:22,400 --> 00:40:28,240
+trying to do that for my whole life but most people say I'm a bit crazy so I was very happy
+
+423
+00:40:28,240 --> 00:40:32,960
+to hear someone as brilliant as you say something like that. I don't know could you could you say a
+
+424
+00:40:32,960 --> 00:40:40,400
+bit further and share your views on this? Thanks for being kind. So at the business school we're
+
+425
+00:40:40,400 --> 00:40:44,720
+very fortunate we get guest speakers almost every day and generally there's two types of speakers.
+
+426
+00:40:45,280 --> 00:40:49,360
+Someone who is very impressive and very accomplished or a billionaire. In the U.S. we've
+
+427
+00:40:49,360 --> 00:40:54,480
+decided anyone that reaches a billion dollars in wealth has insight into life and they always end
+
+428
+00:40:54,480 --> 00:41:00,080
+their speech with what I think is just terrible advice and they say follow your passion and it's
+
+429
+00:41:00,080 --> 00:41:04,240
+somewhat ironic because typically the person telling you to follow your passion made their
+
+430
+00:41:04,240 --> 00:41:10,240
+billions in iron ore smelting or health care maintenance. Typically I think as a young person
+
+431
+00:41:10,240 --> 00:41:16,640
+you should be wary that anyone who tells you to follow your passion is already rich and I wanted
+
+432
+00:41:16,640 --> 00:41:21,200
+to be an athlete, a professional athlete growing up and I learned very quickly that that was not
+
+433
+00:41:21,200 --> 00:41:26,160
+where my talent lied and so I tried to find something I was good at and I think your job
+
+434
+00:41:26,160 --> 00:41:32,000
+as a young person is to find something you're good at and then to invest the requisite grit,
+
+435
+00:41:32,560 --> 00:41:38,960
+thousands of hours enduring hardship, enduring failure, enduring frustration. That's called work
+
+436
+00:41:38,960 --> 00:41:43,440
+and then become great at it and when you become great at something the accoutrements of being
+
+437
+00:41:43,440 --> 00:41:51,120
+great at it money, economic security, prestige, camaraderie, self-worth, all of those things will
+
+438
+00:41:51,120 --> 00:41:56,960
+make you passionate about whatever it is. Nobody grows up passionate about tax law
+
+439
+00:41:57,680 --> 00:42:02,720
+but the best tax lawyers in the world fly private and have a much broader selection set of mates
+
+440
+00:42:02,720 --> 00:42:08,480
+than they deserve which makes them passionate about tax law. So do your passions on weekends,
+
+441
+00:42:08,480 --> 00:42:15,040
+be a DJ, play soccer on weekends but find something that you could be the best in the world at.
+
+442
+00:42:15,040 --> 00:42:24,560
+That's your job. That's your job. Arthur? Hi Scott. Going back to your sector which is education,
+
+443
+00:42:24,560 --> 00:42:31,680
+you showed the chart between profits and wages, right? Let's face it, the majority of the world
+
+444
+00:42:31,680 --> 00:42:38,160
+is going to be workers, right? I mean does it mean that we have had a massive failure of educational
+
+445
+00:42:38,160 --> 00:42:44,000
+systems that are not able to keep up with technology and can we change that going forward?
+
+446
+00:42:45,280 --> 00:42:51,040
+I do think there's been a failure amongst myself and my cohorts and that is we no longer see
+
+447
+00:42:51,040 --> 00:42:59,360
+ourselves as, Arthur, as public servants. We see ourselves as luxury brands and that is,
+
+448
+00:43:01,120 --> 00:43:07,200
+so when I went to UCLA the admittance rate was 70% meaning if 100 people applied 70 got in and I had
+
+449
+00:43:07,200 --> 00:43:12,640
+to apply twice to get in and the cost was approximately a thousand dollars a year. This
+
+450
+00:43:12,640 --> 00:43:20,320
+year the admittance rate will be 9% and the cost is $35,000 a year which means that I wouldn't be
+
+451
+00:43:20,320 --> 00:43:25,360
+here. I'm not a humble person. I think I'm exceptionally talented but the reason I'm here
+
+452
+00:43:25,360 --> 00:43:29,840
+speaking to you from Nantucket and getting to do wonderful things with my life and provide economic
+
+453
+00:43:29,840 --> 00:43:37,280
+security for my family is because back in the 80s we used to let in unremarkable kids into college
+
+454
+00:43:38,080 --> 00:43:43,120
+and they let in the sons of single immigrant mothers who lived and died as secretary which
+
+455
+00:43:43,120 --> 00:43:48,880
+was my mother. We never had a household income more than $35,000 a year. The U.S. education
+
+456
+00:43:48,880 --> 00:43:53,360
+system and to a certain extent the global education system used to be about finding good people and
+
+457
+00:43:53,360 --> 00:43:59,360
+giving them great opportunities. In the U.S. we've now become Hermes and that is we think our job
+
+458
+00:43:59,920 --> 00:44:04,480
+is not to find good kids and give them great opportunities but our job is to find the top 1%
+
+459
+00:44:05,440 --> 00:44:12,080
+and turn them into billionaires. That's not the purpose of an economy. The key to any economy
+
+460
+00:44:12,640 --> 00:44:17,200
+is to give unremarkable people remarkable opportunities so I think we need to fall
+
+461
+00:44:17,200 --> 00:44:22,640
+back in love with the unremarkables. Harvard got 55,000 applications this year and they let in
+
+462
+00:44:22,640 --> 00:44:29,040
+1,400 students. This despite the fact they sit on an endowment that's the GDP of El Salvador.
+
+463
+00:44:29,040 --> 00:44:33,600
+They could let in 14,000 people not sacrifice any quality and they'd have the resources so the
+
+464
+00:44:33,600 --> 00:44:38,880
+question is well why wouldn't they? And a lot of us brag I don't know if you've done this a lot of
+
+465
+00:44:38,880 --> 00:44:44,720
+us brag about we say I would never get into the college I went into I went to I would never be
+
+466
+00:44:44,720 --> 00:44:48,800
+admitted. Well don't brag about that because that means your daughter's not getting in.
+
+467
+00:44:49,360 --> 00:44:54,160
+So we in public education need to fall back in love with the unremarkables and stop thinking
+
+468
+00:44:54,160 --> 00:44:58,720
+of ourselves as Chanel and Hermes and go back to a world where we are public servants.
+
+469
+00:44:59,680 --> 00:45:04,560
+The children of rich people they're the ones that don't need college. They have a great education
+
+470
+00:45:04,560 --> 00:45:07,920
+up until that point. They have connections. They have money. They have a safety net. They have access
+
+471
+00:45:07,920 --> 00:45:13,040
+to capital. It's the people we're not letting in that need college the most so we need to fall back
+
+472
+00:45:13,040 --> 00:45:19,840
+in love with unremarkables. We need to go back to a viewpoint that education is not a luxury brand
+
+473
+00:45:19,840 --> 00:45:26,480
+that we're public servants and we need to massively massively increase enrollment rates and decrease
+
+474
+00:45:26,480 --> 00:45:31,840
+costs through a mix of small and big tech and me and my cohorts need to be recognized that we are
+
+475
+00:45:31,840 --> 00:45:37,440
+not luxury brands we are public servants we have totally lost the script. Higher education in the
+
+476
+00:45:37,440 --> 00:45:43,040
+U.S. has become the enforcer of the caste system. It used to be an incredible upward lubricant and
+
+477
+00:45:43,040 --> 00:45:50,800
+we need to return to those roots. Well unfortunately our timing is coming to an end so on the name of
+
+478
+00:45:50,800 --> 00:45:55,840
+XP I'd like to thank you very much Scott for being here with us for your fantastic presentation for
+
+479
+00:45:55,840 --> 00:46:02,560
+everything you do. Hopefully we can get you here on the ground next year when this event goes back
+
+480
+00:46:02,560 --> 00:46:09,680
+to being live hopefully knock on wood but thank you so much. Thank you best best of wishes greetings
+
+481
+00:46:09,680 --> 00:46:12,240
+everybody.
+
+482
+00:46:25,840 --> 00:46:31,280
+Thank you Raquel and for everyone who followed us in this conversation and don't miss the next
+
+483
+00:46:31,280 --> 00:46:34,240
+expert's lectures because the expert is just starting.
+
+484
+00:46:55,840 --> 00:46:56,400
+you
+

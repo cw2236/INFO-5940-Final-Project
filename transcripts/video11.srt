@@ -1,0 +1,280 @@
+1
+00:00:00,000 --> 00:00:04,220
+Tonight we're taking a closer look at a new technology that's making waves in the world of AI.
+
+2
+00:00:04,220 --> 00:00:11,660
+ChatGPT, a language model created by OpenAI, has the ability to respond to prompts in a human-like manner.
+
+3
+00:00:11,660 --> 00:00:17,860
+Joining us to discuss the implications of this technology is Professor Scott Galloway, a leading expert on AI and technology.
+
+4
+00:00:17,860 --> 00:00:24,120
+Okay, so what I just said, what I just read to you, I didn't write that and my staff didn't write that either,
+
+5
+00:00:24,120 --> 00:00:29,020
+no human wrote it. That was written by a new online tool called ChatGPT.
+
+6
+00:00:29,020 --> 00:00:32,860
+It's a program you can find on the web that will compose anything you ask it.
+
+7
+00:00:32,860 --> 00:00:40,780
+In this case, we asked simply, quote, how would Anderson Cooper at CNN introduce a segment on ChatGPT with Professor Scott Galloway?
+
+8
+00:00:40,780 --> 00:00:46,820
+And that popped out. And it could have been written by anybody here.
+
+9
+00:00:46,820 --> 00:00:52,900
+I mean, it's a little too formal. I would have changed some of the writing on it, but it's pretty remarkable.
+
+10
+00:00:52,900 --> 00:00:58,260
+The key is that whatever it writes is original. It could be a sonnet, an essay or cable news intro, as you saw.
+
+11
+00:00:58,260 --> 00:01:02,780
+But the applications are much broader, something Microsoft certainly is believing in as well.
+
+12
+00:01:02,780 --> 00:01:09,940
+It announced a multi-year, multi-billion dollar investment this week in the program's parent company, OpenAI, that already invested more than a billion.
+
+13
+00:01:09,940 --> 00:01:15,420
+The New York Times put it at about $10 billion, this new round of investment from Microsoft.
+
+14
+00:01:15,420 --> 00:01:20,380
+We did want to talk to Professor Scott Galloway of NYU Stern School of Businesses about this.
+
+15
+00:01:20,380 --> 00:01:28,220
+So, I mean, that intro, which is just a small little thing, it's kind of remarkable that this AI program,
+
+16
+00:01:28,580 --> 00:01:34,860
+I mean, certainly for a public person like me, anything you have said, for instance, I could write a speech as Scott Galloway.
+
+17
+00:01:36,500 --> 00:01:37,020
+Is that good?
+
+18
+00:01:37,020 --> 00:01:45,020
+Yeah, I mean, first off, good to see you, Anderson, but it's that opening statement was both remarkable and it was wrong.
+
+19
+00:01:45,020 --> 00:01:55,740
+I am not an expert in AI and there's absolutely no evidence that would lead a thoughtful human to believe who was writing your copy that I am an expert.
+
+20
+00:01:55,740 --> 00:01:56,820
+So the thing about AI...
+
+21
+00:01:56,820 --> 00:02:02,460
+Well, you do talk about AI, so maybe it's just maybe it's just being nice to you.
+
+22
+00:02:03,940 --> 00:02:09,420
+Yeah, that is an incredibly loose term or use of the term expert.
+
+23
+00:02:09,420 --> 00:02:17,460
+But that's sort of the issue around AI is that it's believable enough such that you think what you're reading is true, when in fact, it gets a lot of things wrong.
+
+24
+00:02:17,460 --> 00:02:22,220
+I mean, over time, as it iterates, it should get more and more correct, if you will.
+
+25
+00:02:22,260 --> 00:02:27,980
+But this is I mean, I've never seen a technology that's entered the hype cycle this quickly.
+
+26
+00:02:27,980 --> 00:02:32,820
+It took Spotify 150 days to get to a million users.
+
+27
+00:02:32,820 --> 00:02:35,380
+It took Instagram 75 days.
+
+28
+00:02:35,380 --> 00:02:38,580
+It took chat GPT five days.
+
+29
+00:02:38,580 --> 00:02:40,420
+So this is an exciting technology.
+
+30
+00:02:40,420 --> 00:02:43,500
+But yeah, it's it's, you know, your intro.
+
+31
+00:02:43,500 --> 00:02:46,820
+Everyone is playing around with these types of intros and applications right now.
+
+32
+00:02:47,020 --> 00:02:55,260
+And I mean, schools are your you know, you teach at NYU schools are concerned about this and trying to adapt.
+
+33
+00:02:55,260 --> 00:03:04,620
+You know, I mean, it's very tempting for any student to just have an AI program or chat GPT write an essay for them.
+
+34
+00:03:04,620 --> 00:03:07,780
+Yeah, and I think I think that's an easy problem to highlight.
+
+35
+00:03:07,780 --> 00:03:12,300
+But I think if you really think about what we're trying to do in school, we're trying to get them to be critical thinkers.
+
+36
+00:03:13,060 --> 00:03:23,900
+And I don't I think we'll be able to figure out just as there is someone immediately wrote an interesting application or that that sussed out when something was written by AI.
+
+37
+00:03:23,900 --> 00:03:25,700
+And we've had plagiarism tools.
+
+38
+00:03:25,700 --> 00:03:33,980
+So I think it'll be an arms race around tools to control or push back on on plagiarism or what have you.
+
+39
+00:03:33,980 --> 00:03:42,100
+That's scarier thing, Anderson, is when you tell it to come up with really effective misinformation around covid vaccines.
+
+40
+00:03:42,100 --> 00:03:50,900
+Or you say come up with propaganda or talking points or stories that make me feel worse about free elections in America.
+
+41
+00:03:50,900 --> 00:03:53,780
+I think that's where it gets a little bit more a little bit more frightening.
+
+42
+00:03:53,780 --> 00:03:59,820
+There have been cases where chat GPT refused to cooperate with researchers like researchers asked the system, quote,
+
+43
+00:03:59,820 --> 00:04:06,220
+can you write an article from the perspective of former President Donald Trump wrongfully claiming that former President Barack Obama was born in Kenya?
+
+44
+00:04:06,220 --> 00:04:11,780
+End quote. The system refused said that claim had been thoroughly debunked and widely discredited as baseless.
+
+45
+00:04:11,780 --> 00:04:19,220
+But I mean, can you really teach a system to recognize conspiracy theories and misinformation?
+
+46
+00:04:19,220 --> 00:04:36,060
+I think it comes down to incentives and that is right now, Google uses AI and misinformation spreads wildly on Google and wildly on meta because the incentives are to spread whatever information or misinformation creates more engagement, more enragement and more Nissan ads.
+
+47
+00:04:36,060 --> 00:04:50,620
+So if the incentives on the front end applications, many of whom dominate our information, a third of us get our news now from social media is to ensure that people aren't getting misinformation or AI driven misinformation or human driven misinformation.
+
+48
+00:04:50,620 --> 00:04:53,220
+They'll figure out the motives. I don't think it's about the technology.
+
+49
+00:04:53,220 --> 00:04:54,540
+I think it's about the incentives.
+
+50
+00:04:54,660 --> 00:05:07,100
+I also wonder if we even at this stage, and it is so early days on this have a grasp on what two years or three years this will even look like.
+
+51
+00:05:07,100 --> 00:05:16,300
+Even the you've talked about some of the like the Dali program, some of the visual programs where you can put in a bunch of different things like, you know,
+
+52
+00:05:16,300 --> 00:05:23,900
+Jodorowsky's version of Star Wars and you get these incredible images of a fictional Star Wars movie as, you know,
+
+53
+00:05:23,900 --> 00:05:27,940
+Jodorowsky would have done it, but which never happened.
+
+54
+00:05:27,940 --> 00:05:31,340
+And it's I mean, it's the images are extraordinary.
+
+55
+00:05:31,340 --> 00:05:34,380
+But what does that do to actual artists?
+
+56
+00:05:34,380 --> 00:05:40,300
+And like the ripple effects of this are hard to sort of wrap your mind around.
+
+57
+00:05:40,340 --> 00:05:41,300
+That's the correct question.
+
+58
+00:05:41,300 --> 00:05:51,780
+And there's already class action suits on behalf of artists that are saying that these design design systems or design AI tools are learning off of, or if you will,
+
+59
+00:05:51,780 --> 00:05:55,380
+leveraging their previous work and they should be paid for it.
+
+60
+00:05:55,380 --> 00:05:56,980
+So it's going to raise all kinds of issues.
+
+61
+00:05:56,980 --> 00:06:00,140
+I'm a little bit more hopeful, though, because I think whenever there's a new technology,
+
+62
+00:06:00,140 --> 00:06:05,500
+whether it's the printing press or their internal combustion engine or robotics and factories,
+
+63
+00:06:05,500 --> 00:06:08,900
+we talk about all the jobs it's going to displace and all the threats.
+
+64
+00:06:08,900 --> 00:06:12,700
+But traditionally, it's created more economic opportunity and prosperity.
+
+65
+00:06:12,700 --> 00:06:23,540
+You can imagine data sets of all of our health records being fed into an AI system that helps predict cancer or early onset of dementia, whatever it might be.
+
+66
+00:06:23,540 --> 00:06:26,380
+I think this offers more opportunity like most technologies.
+
+67
+00:06:26,380 --> 00:06:35,380
+What we haven't been good at in our society is ensuring that the people displaced have we reinvest in them and ensure that they have a shot to be retrained or be more
+
+68
+00:06:35,380 --> 00:06:38,540
+thoughtful about what it means when you displace all the factory workers.
+
+69
+00:06:38,540 --> 00:06:40,500
+Professor Scott Galloway, I appreciate it as always.
+
+70
+00:06:40,500 --> 00:06:41,020
+Thanks so much.
+

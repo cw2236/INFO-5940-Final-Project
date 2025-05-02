@@ -1,0 +1,1688 @@
+1
+00:00:00,000 --> 00:00:03,500
+My name is Scott Galloway, I teach at NYU, and I appreciate your time.
+
+2
+00:00:03,520 --> 00:00:05,540
+I have 44 slides in 720 seconds.
+
+3
+00:00:05,560 --> 00:00:07,000
+Let's light this candle.
+
+4
+00:00:07,020 --> 00:00:11,340
+Okay, so for those of you who don't know me,
+
+5
+00:00:11,360 --> 00:00:13,460
+I'm actually a global television story.
+
+6
+00:00:13,480 --> 00:00:16,540
+True story, I've had four TV series in the last three years,
+
+7
+00:00:16,560 --> 00:00:19,060
+two of them being canceled before they were launched,
+
+8
+00:00:19,080 --> 00:00:20,880
+and two were canceled within six weeks.
+
+9
+00:00:20,900 --> 00:00:22,140
+Let's recap.
+
+10
+00:00:22,160 --> 00:00:25,580
+If we want to juice this thing, if we want to put a cattle prod,
+
+11
+00:00:25,600 --> 00:00:27,340
+how about we put a pig in it?
+
+12
+00:00:27,340 --> 00:00:30,620
+Bloomberg, the most trusted name in financial news.
+
+13
+00:00:30,640 --> 00:00:32,440
+Not for long.
+
+14
+00:00:32,460 --> 00:00:35,240
+I'm going to do whatever I can for this country of ours, Scott.
+
+15
+00:00:35,260 --> 00:00:36,460
+Jesus Christ.
+
+16
+00:00:36,480 --> 00:00:37,680
+Jesus, come on, dude.
+
+17
+00:00:37,700 --> 00:00:38,960
+You're 0 for 2.
+
+18
+00:00:38,980 --> 00:00:40,280
+Are you used to it?
+
+19
+00:00:40,300 --> 00:00:41,160
+Face for podcasting.
+
+20
+00:00:41,180 --> 00:00:42,560
+So first inside of the day,
+
+21
+00:00:42,580 --> 00:00:46,220
+I'd like to be the first person to welcome you to the last test.
+
+22
+00:00:46,240 --> 00:00:48,240
+Okay.
+
+23
+00:00:48,260 --> 00:00:51,320
+By the way, it's clear that the first person to welcome you
+
+24
+00:00:51,340 --> 00:00:53,920
+to the last test is Scott Galloway.
+
+25
+00:00:54,400 --> 00:00:55,880
+Okay.
+
+26
+00:00:55,900 --> 00:00:58,200
+By the way, it's clear that what's it called?
+
+27
+00:00:58,220 --> 00:00:59,420
+What are we here for?
+
+28
+00:00:59,440 --> 00:01:00,860
+The brave and the brilliant.
+
+29
+00:01:00,880 --> 00:01:03,640
+It's clear that Chris is a frustrated soap opera producer.
+
+30
+00:01:03,660 --> 00:01:08,160
+Essentially, what we have here is a telenovela
+
+31
+00:01:08,180 --> 00:01:10,380
+where after a night of unbridled passion
+
+32
+00:01:10,400 --> 00:01:12,380
+between Bill Gates and Malcolm Gladwell,
+
+33
+00:01:12,400 --> 00:01:16,080
+they give birth to their bastard love child,
+
+34
+00:01:16,100 --> 00:01:17,300
+Simon Sinek.
+
+35
+00:01:17,320 --> 00:01:20,360
+(*Laughter*)
+
+36
+00:01:20,380 --> 00:01:21,800
+Okay.
+
+37
+00:01:21,820 --> 00:01:23,100
+I start us with a question.
+
+38
+00:01:23,100 --> 00:01:24,320
+Do we love our children?
+
+39
+00:01:24,340 --> 00:01:26,560
+Sounds like an illegitimate question, right?
+
+40
+00:01:26,580 --> 00:01:28,960
+Well, I'm going to try and convince you otherwise.
+
+41
+00:01:28,980 --> 00:01:31,460
+Essentially, as we go down generations,
+
+42
+00:01:31,480 --> 00:01:33,700
+we're seeing that for the last two generations,
+
+43
+00:01:33,720 --> 00:01:37,160
+people are making less money on an inflation-adjusted basis.
+
+44
+00:01:37,180 --> 00:01:39,380
+In addition, the cost of buying a home,
+
+45
+00:01:39,400 --> 00:01:41,320
+the cost of pursuing education,
+
+46
+00:01:41,340 --> 00:01:42,680
+continues to skyrocket.
+
+47
+00:01:42,700 --> 00:01:45,200
+So the purchasing power, the prosperity,
+
+48
+00:01:45,220 --> 00:01:48,700
+is inversely correlated to age.
+
+49
+00:01:48,720 --> 00:01:50,200
+Simply put, as we get younger,
+
+50
+00:01:50,200 --> 00:01:54,360
+we're taking away opportunity and prosperity from our youngest.
+
+51
+00:01:54,380 --> 00:01:57,080
+The social contract that is now no longer in place,
+
+52
+00:01:57,100 --> 00:01:59,120
+and for the first time in the US's history,
+
+53
+00:01:59,140 --> 00:02:01,100
+a 30-year-old is no longer doing as well
+
+54
+00:02:01,120 --> 00:02:02,840
+as his or her parents were at 30.
+
+55
+00:02:02,860 --> 00:02:06,700
+This is a breakdown in the fundamental agreement we have with any society,
+
+56
+00:02:06,720 --> 00:02:08,360
+and it creates rage and shame.
+
+57
+00:02:08,380 --> 00:02:09,820
+(*Applause*)
+
+58
+00:02:09,840 --> 00:02:13,220
+As a result, people over the age of 55 feel pretty good about America,
+
+59
+00:02:13,240 --> 00:02:15,940
+but less than one in five people under the age of 34
+
+60
+00:02:15,960 --> 00:02:17,980
+feel very good about America.
+
+61
+00:02:18,000 --> 00:02:19,980
+This creates an incendiary.
+
+62
+00:02:20,000 --> 00:02:22,100
+Righteous movements, cuts to our society,
+
+63
+00:02:22,120 --> 00:02:24,020
+end up becoming opportunistic infections,
+
+64
+00:02:24,040 --> 00:02:27,120
+because generally speaking, young people have a warranted envy,
+
+65
+00:02:27,140 --> 00:02:28,960
+they're pissed off, and they're angry
+
+66
+00:02:28,980 --> 00:02:31,800
+that they don't enjoy the same spoils and prosperity
+
+67
+00:02:31,820 --> 00:02:33,820
+that were provided to our generation.
+
+68
+00:02:34,540 --> 00:02:38,500
+A decent proxy for how much we value youth labor is minimum wage,
+
+69
+00:02:38,520 --> 00:02:40,420
+and we've kept it purposely pretty low.
+
+70
+00:02:40,440 --> 00:02:42,440
+If it had just kept pace with productivity,
+
+71
+00:02:42,460 --> 00:02:43,960
+it'd be about 23 bucks a share,
+
+72
+00:02:43,980 --> 00:02:47,080
+but we've decided to purposely keep it low.
+
+73
+00:02:47,100 --> 00:02:50,280
+Out of reach, median home price has skyrocketed
+
+74
+00:02:50,300 --> 00:02:52,640
+relative to median household income.
+
+75
+00:02:52,660 --> 00:02:56,540
+As a result, pre-pandemic, the average mortgage payment was $1,100.
+
+76
+00:02:56,560 --> 00:03:00,060
+It's now $2,300 because of acceleration in interest rates
+
+77
+00:03:00,080 --> 00:03:04,140
+and the fact that the average home has gone from 290,000 to 420.
+
+78
+00:03:04,160 --> 00:03:08,240
+By the way, the most expensive homes in the world,
+
+79
+00:03:08,260 --> 00:03:10,860
+based on this metric, are number three, Vancouver.
+
+80
+00:03:10,880 --> 00:03:14,420
+Why? Because 60 percent of the cost of building a home goes to permits,
+
+81
+00:03:14,420 --> 00:03:15,600
+because guess what?
+
+82
+00:03:15,620 --> 00:03:18,400
+The incumbents that own assets have weaponized government
+
+83
+00:03:18,420 --> 00:03:22,360
+to make it very difficult for new entrants to ever get their own assets,
+
+84
+00:03:22,380 --> 00:03:24,760
+thereby elevating their own net worth.
+
+85
+00:03:24,780 --> 00:03:27,400
+This is the transfer I'm going to be speaking about.
+
+86
+00:03:27,420 --> 00:03:30,040
+(*Applause*)
+
+87
+00:03:30,060 --> 00:03:33,400
+This has resulted in an enormous transfer of wealth,
+
+88
+00:03:33,420 --> 00:03:38,080
+where people over the age of 70 used to control 19 percent of household income
+
+89
+00:03:38,100 --> 00:03:41,440
+versus people under the age of 40 used to control 12.
+
+90
+00:03:41,460 --> 00:03:43,520
+Their wealth has been cut in half.
+
+91
+00:03:43,560 --> 00:03:46,060
+This isn't by accident, it's purposeful.
+
+92
+00:03:46,080 --> 00:03:48,100
+This is me at UCLA in 1987.
+
+93
+00:03:48,120 --> 00:03:50,900
+I know your first thought is, I haven't changed a bit.
+
+94
+00:03:50,920 --> 00:03:52,100
+(*Laughter*)
+
+95
+00:03:52,120 --> 00:03:53,620
+This is also Mia Severio,
+
+96
+00:03:53,640 --> 00:03:56,100
+who is the analyst who put together these slides.
+
+97
+00:03:56,120 --> 00:03:57,300
+By the way, Mia is 26.
+
+98
+00:03:57,320 --> 00:03:58,500
+I did the math.
+
+99
+00:03:58,520 --> 00:04:00,660
+Just by virtue of her being in this audience,
+
+100
+00:04:00,680 --> 00:04:03,860
+it brings the average age of the entire conference down 11 days.
+
+101
+00:04:03,880 --> 00:04:06,140
+(*Laughter*)
+
+102
+00:04:06,160 --> 00:04:09,640
+When I applied to UCLA, the admissions rate was 76 percent.
+
+103
+00:04:10,480 --> 00:04:12,340
+Today, it's nine percent.
+
+104
+00:04:12,340 --> 00:04:14,760
+I received a 2.23 GPA from UCLA.
+
+105
+00:04:14,780 --> 00:04:17,560
+I learned nothing but how to make bonds out of household items
+
+106
+00:04:17,580 --> 00:04:19,400
+and every line from planet to the apes.
+
+107
+00:04:19,420 --> 00:04:21,920
+And the greatest public school in the world, Berkeley,
+
+108
+00:04:21,940 --> 00:04:24,960
+decided to let me in with a 2.27 GPA.
+
+109
+00:04:24,980 --> 00:04:27,040
+And that's what higher ed is about.
+
+110
+00:04:27,060 --> 00:04:30,160
+Higher ed is about taking unremarkable kids
+
+111
+00:04:30,180 --> 00:04:32,440
+and giving them a shot at being remarkable.
+
+112
+00:04:32,460 --> 00:04:36,700
+(*Applause*)
+
+113
+00:04:36,740 --> 00:04:39,140
+And every year, it's gotten more expensive.
+
+114
+00:04:39,900 --> 00:04:42,280
+Higher ed and homes and the ability,
+
+115
+00:04:42,300 --> 00:04:44,920
+not only is higher ed incredibly expensive,
+
+116
+00:04:44,940 --> 00:04:46,520
+it's not accessible,
+
+117
+00:04:46,540 --> 00:04:48,720
+because me and my colleagues are drunk on luxury,
+
+118
+00:04:48,740 --> 00:04:50,120
+and I'll come back to that.
+
+119
+00:04:50,140 --> 00:04:52,200
+We've embraced the ultimate strategy.
+
+120
+00:04:52,220 --> 00:04:54,760
+Me and my colleagues in higher ed wake up every morning
+
+121
+00:04:54,780 --> 00:04:58,000
+and ask ourselves the same question when we look in the mirror.
+
+122
+00:04:58,020 --> 00:05:01,800
+How can I increase my compensation while reducing my accountability?
+
+123
+00:05:01,820 --> 00:05:03,280
+(*Laughter*)
+
+124
+00:05:03,300 --> 00:05:05,280
+And we have found the ultimate strategy.
+
+125
+00:05:05,300 --> 00:05:07,120
+It's called an LVMH strategy,
+
+126
+00:05:07,160 --> 00:05:11,660
+where we artificially constrain supply to create aspiration and scarcity,
+
+127
+00:05:11,680 --> 00:05:15,320
+such that we can raise tuition faster than inflation.
+
+128
+00:05:15,360 --> 00:05:19,020
+And old people and wealthy people have done the same thing with housing.
+
+129
+00:05:19,040 --> 00:05:22,900
+All of a sudden, once you own a home, you become very concerned with traffic,
+
+130
+00:05:22,920 --> 00:05:25,660
+and you make sure that there's no new housing permits.
+
+131
+00:05:25,680 --> 00:05:30,300
+And here is a memo to my colleagues in higher ed.
+
+132
+00:05:30,320 --> 00:05:33,340
+We're public servants, not fucking Chanel bags.
+
+133
+00:05:33,620 --> 00:05:37,900
+(*Applause*)
+
+134
+00:05:37,940 --> 00:05:39,640
+Harvard is the best example of this.
+
+135
+00:05:39,660 --> 00:05:42,320
+They've increased their endowment in the last 40 years
+
+136
+00:05:42,340 --> 00:05:46,880
+and have decided to expand their enrollment, their freshman class, by 4 percent.
+
+137
+00:05:46,900 --> 00:05:49,680
+Any university that doesn't grow their freshman class
+
+138
+00:05:49,700 --> 00:05:52,680
+faster than population that has over a billion dollars in endowment
+
+139
+00:05:52,700 --> 00:05:54,320
+should lose their tax-free status,
+
+140
+00:05:54,340 --> 00:05:56,520
+because they're no longer in higher education,
+
+141
+00:05:56,540 --> 00:05:58,480
+they're a hedge fund offering classes.
+
+142
+00:05:58,480 --> 00:06:05,000
+(*Applause*)
+
+143
+00:06:05,040 --> 00:06:06,740
+My first recommendation,
+
+144
+00:06:06,760 --> 00:06:09,460
+Biden should take some of that 750 billion earmarked
+
+145
+00:06:09,480 --> 00:06:12,260
+to bail out the one-third of people that got to go to college
+
+146
+00:06:12,280 --> 00:06:14,900
+on the backs of the two-thirds that didn't,
+
+147
+00:06:14,920 --> 00:06:18,100
+and give a billion dollars to our 500 greatest public institutions,
+
+148
+00:06:18,120 --> 00:06:20,140
+size-adjusted, in exchange for three things.
+
+149
+00:06:20,160 --> 00:06:25,100
+One, they use technology and scale to reduce tuition by 2 percent a year,
+
+150
+00:06:25,120 --> 00:06:27,140
+expand enrollments by 6 percent a year,
+
+151
+00:06:27,140 --> 00:06:29,720
+and increase the number of vocational certifications
+
+152
+00:06:29,740 --> 00:06:32,160
+and non-traditional four-year degrees by 20 percent.
+
+153
+00:06:32,180 --> 00:06:33,800
+Where does that get us?
+
+154
+00:06:33,820 --> 00:06:36,680
+In just 10 years,
+
+155
+00:06:36,700 --> 00:06:40,160
+that doubles the freshman seats and cuts the cost in half.
+
+156
+00:06:40,180 --> 00:06:44,400
+This isn't radical, this is called college in the 80s and 90s.
+
+157
+00:06:44,420 --> 00:06:46,080
+Another transfer of wealth.
+
+158
+00:06:46,100 --> 00:06:47,880
+Look at what's happened to wages.
+
+159
+00:06:47,900 --> 00:06:50,360
+Oh, they've gone up, not as much as corporate profits.
+
+160
+00:06:50,380 --> 00:06:52,920
+There's a healthy tension between capital and labor.
+
+161
+00:06:52,940 --> 00:06:56,720
+For the last 40 years, capital has been kicking the shit out of labor.
+
+162
+00:06:56,720 --> 00:06:59,020
+Well, you think, whoa, what about wages, right?
+
+163
+00:06:59,040 --> 00:07:00,140
+They've gone up.
+
+164
+00:07:00,160 --> 00:07:05,300
+Well, if you compare them to the S&P, they barely register.
+
+165
+00:07:05,320 --> 00:07:07,260
+It's been an amazing time to own assets,
+
+166
+00:07:07,280 --> 00:07:09,260
+but your attempt to get the certification
+
+167
+00:07:09,280 --> 00:07:11,460
+or the income such that you can acquire assets
+
+168
+00:07:11,480 --> 00:07:12,940
+has gotten harder and harder.
+
+169
+00:07:12,960 --> 00:07:16,100
+In my class of 300 kids, it's never been easier to be a billionaire,
+
+170
+00:07:16,120 --> 00:07:18,260
+it's never been harder to be a millionaire.
+
+171
+00:07:18,280 --> 00:07:19,580
+By the way, our job in higher ed
+
+172
+00:07:19,600 --> 00:07:24,020
+isn't to identify a top one percent of people who are freakishly remarkable
+
+173
+00:07:24,020 --> 00:07:27,320
+or have rich parents and turn them into a superclass of billionaires,
+
+174
+00:07:27,340 --> 00:07:30,760
+it's to give the bottom 90 a chance to be in the top 10.
+
+175
+00:07:30,780 --> 00:07:36,960
+You know who doesn't need me or higher education?
+
+176
+00:07:36,980 --> 00:07:38,680
+The top 10 percent.
+
+177
+00:07:38,700 --> 00:07:41,920
+The whole point of higher ed is to give the unremarkables,
+
+178
+00:07:41,940 --> 00:07:45,280
+I, yours truly, who was raised by a single immigrant mother,
+
+179
+00:07:45,300 --> 00:07:46,980
+a shot of being remarkable.
+
+180
+00:07:48,420 --> 00:07:50,400
+The transfer has been purposeful,
+
+181
+00:07:50,420 --> 00:07:53,560
+while the cohorts, corporations and the ultra-wealthy
+
+182
+00:07:53,560 --> 00:07:55,620
+continue to garner more and more of our wealth,
+
+183
+00:07:55,640 --> 00:07:57,780
+we have decided, I know, if they win the gold,
+
+184
+00:07:57,800 --> 00:08:01,140
+let's give them the silver and the bronze and let's lower their taxes.
+
+185
+00:08:01,160 --> 00:08:05,040
+This transfer is purposeful, it's not by accident.
+
+186
+00:08:05,080 --> 00:08:06,140
+And it works.
+
+187
+00:08:06,160 --> 00:08:08,820
+Senior poverty is way down, and we should celebrate that.
+
+188
+00:08:08,840 --> 00:08:11,320
+Meanwhile, child poverty is flat to up.
+
+189
+00:08:12,440 --> 00:08:15,420
+The third rail, I'm going to talk about social security.
+
+190
+00:08:15,440 --> 00:08:18,500
+It would cost 11 billion dollars to expand the child tax credit,
+
+191
+00:08:18,520 --> 00:08:20,940
+but that gets stripped out of the infrastructure bill.
+
+192
+00:08:20,940 --> 00:08:25,080
+But the additional 135 billion dollars a year to social security,
+
+193
+00:08:25,100 --> 00:08:26,840
+that flies right through Congress.
+
+194
+00:08:26,860 --> 00:08:31,480
+And every year, we transfer 1.4 trillion dollars
+
+195
+00:08:31,500 --> 00:08:35,080
+from a cohort that is increasingly doing less well
+
+196
+00:08:35,100 --> 00:08:40,380
+to the cohort that is the wealthiest cohort in the history of this planet.
+
+197
+00:08:41,380 --> 00:08:42,920
+I'm not against social security,
+
+198
+00:08:42,940 --> 00:08:45,040
+but the criteria should be if you need it,
+
+199
+00:08:45,060 --> 00:08:46,780
+not whether you have a catheter.
+
+200
+00:08:47,580 --> 00:08:49,520
+Eighty percent of you,
+
+201
+00:08:49,540 --> 00:08:54,440
+80 percent of you have absolutely no reason to ever take social security.
+
+202
+00:08:54,460 --> 00:08:56,120
+It is bankrupting our nation,
+
+203
+00:08:56,140 --> 00:08:57,920
+and we have fallen under this mythology
+
+204
+00:08:57,940 --> 00:09:00,280
+that somehow it's this great social program.
+
+205
+00:09:00,300 --> 00:09:03,620
+No, it's not, it's the great transfer of wealth from young to old.
+
+206
+00:09:04,980 --> 00:09:07,480
+(*Applause*)
+
+207
+00:09:07,500 --> 00:09:09,480
+How is this happening?
+
+208
+00:09:09,500 --> 00:09:12,680
+Because our representatives are in fact representative.
+
+209
+00:09:12,700 --> 00:09:13,880
+Old people vote.
+
+210
+00:09:13,900 --> 00:09:14,920
+(*Laughter*)
+
+211
+00:09:14,920 --> 00:09:17,780
+Washington has become a cross between the land of the dead
+
+212
+00:09:17,800 --> 00:09:19,180
+and the golden girls.
+
+213
+00:09:19,200 --> 00:09:21,960
+(*Laughter*)
+
+214
+00:09:22,000 --> 00:09:26,140
+Quite frankly, this is fucking ridiculous.
+
+215
+00:09:26,160 --> 00:09:29,360
+And if I sound ageist,
+
+216
+00:09:29,400 --> 00:09:31,300
+if I sound ageist, I am.
+
+217
+00:09:31,320 --> 00:09:32,940
+And you know who else is ageist?
+
+218
+00:09:32,960 --> 00:09:34,260
+Biology.
+
+219
+00:09:34,280 --> 00:09:36,620
+(*Laughter*)
+
+220
+00:09:36,640 --> 00:09:38,980
+When Speaker Pelosi had her first child,
+
+221
+00:09:39,000 --> 00:09:42,260
+get this, two-thirds of households didn't have color televisions,
+
+222
+00:09:42,280 --> 00:09:44,660
+and Castro had just declared martial law.
+
+223
+00:09:44,660 --> 00:09:47,360
+But she's supposed to understand the challenges
+
+224
+00:09:47,380 --> 00:09:50,680
+of a 17-year-old girl who's 5'9", 95 pounds,
+
+225
+00:09:50,700 --> 00:09:54,640
+getting tips on dieting and extreme dieting from Facebook.
+
+226
+00:09:54,660 --> 00:09:57,040
+She's supposed to understand the challenges
+
+227
+00:09:57,060 --> 00:09:59,940
+that a 27-year-old single mother face.
+
+228
+00:10:00,780 --> 00:10:02,520
+By the way, young and dreamy.
+
+229
+00:10:02,540 --> 00:10:03,800
+(*Laughter*)
+
+230
+00:10:03,820 --> 00:10:05,080
+Young and dreamy.
+
+231
+00:10:05,100 --> 00:10:10,260
+(*Applause*)
+
+232
+00:10:10,300 --> 00:10:14,480
+The great intergenerational theft took place under the auspices of a virus.
+
+233
+00:10:14,480 --> 00:10:15,500
+I know.
+
+234
+00:10:15,520 --> 00:10:18,020
+Let's use the greatest health crisis in the century
+
+235
+00:10:18,040 --> 00:10:19,740
+to really speedball the transfer.
+
+236
+00:10:19,760 --> 00:10:23,940
+This is the NASDAQ from 2008 to 2012.
+
+237
+00:10:23,960 --> 00:10:25,980
+We let the markets crash.
+
+238
+00:10:26,000 --> 00:10:28,540
+And by the way, you need churn, you need disruption,
+
+239
+00:10:28,560 --> 00:10:31,220
+because it seeds and recalibrates advantage and wealth
+
+240
+00:10:31,240 --> 00:10:33,140
+from the incumbents to the entrants.
+
+241
+00:10:33,160 --> 00:10:35,260
+It's a natural part of the cycle.
+
+242
+00:10:35,280 --> 00:10:40,100
+But wait, lately, no, a million people dying would be bad,
+
+243
+00:10:40,120 --> 00:10:42,740
+but what would be tragic is if we let the NASDAQ go down
+
+244
+00:10:42,740 --> 00:10:44,680
+and guys like me lost wealth.
+
+245
+00:10:44,700 --> 00:10:46,200
+So we pumped the economy,
+
+246
+00:10:46,220 --> 00:10:49,560
+which again, increased the massive transfer of wealth.
+
+247
+00:10:49,580 --> 00:10:51,960
+The best two years of my life, COVID.
+
+248
+00:10:51,980 --> 00:10:54,360
+More time with my kids, more time with Netflix,
+
+249
+00:10:54,380 --> 00:10:58,800
+and the value of my stocks absolutely exploded.
+
+250
+00:10:58,820 --> 00:11:01,240
+And who has to pay for my prosperity?
+
+251
+00:11:01,260 --> 00:11:02,560
+Not me.
+
+252
+00:11:02,580 --> 00:11:07,700
+Future generations who will have to deal with an unprecedented level of debt.
+
+253
+00:11:07,740 --> 00:11:10,760
+Why am I here and why do I get the prosperity I enjoy?
+
+254
+00:11:10,800 --> 00:11:12,980
+Because in 2008, we bailed out the banks,
+
+255
+00:11:13,000 --> 00:11:14,740
+but we didn't bail out the economy.
+
+256
+00:11:14,760 --> 00:11:16,380
+We let the markets fall.
+
+257
+00:11:16,400 --> 00:11:19,500
+So as I was coming into my prime income earning years,
+
+258
+00:11:19,520 --> 00:11:23,140
+I got to buy, no joke, these stocks at these prices.
+
+259
+00:11:23,160 --> 00:11:25,700
+This is where those stocks are now.
+
+260
+00:11:25,720 --> 00:11:28,460
+Where does a young person find disruption?
+
+261
+00:11:28,480 --> 00:11:31,020
+When you bail out the baby boomer owner of a restaurant,
+
+262
+00:11:31,040 --> 00:11:32,980
+all you're doing is robbing opportunity
+
+263
+00:11:33,000 --> 00:11:36,020
+from the 26-year-old graduate of a culinary academy
+
+264
+00:11:36,040 --> 00:11:37,220
+that wants her shot.
+
+265
+00:11:37,240 --> 00:11:38,560
+We need disruption.
+
+266
+00:11:40,760 --> 00:11:55,660
+I just like this slide.
+
+267
+00:11:55,680 --> 00:11:57,220
+It has no context or relevance.
+
+268
+00:11:57,220 --> 00:12:00,280
+We're economically attacking the young, but I know.
+
+269
+00:12:00,300 --> 00:12:02,800
+Let's attack their emotional and mental well-being.
+
+270
+00:12:02,820 --> 00:12:05,760
+Let's take advantage of the fact of the flaws in our species
+
+271
+00:12:05,780 --> 00:12:07,720
+with medieval institutions,
+
+272
+00:12:07,740 --> 00:12:10,840
+paleolithic instincts and godlike technology.
+
+273
+00:12:10,860 --> 00:12:13,760
+I'm just going to say, I think Mark Zuckerberg has done more damage
+
+274
+00:12:13,780 --> 00:12:15,960
+to young people in our nation while making movies.
+
+275
+00:12:15,980 --> 00:12:19,200
+I think that's a good example of how we can take advantage of the fact
+
+276
+00:12:19,220 --> 00:12:22,000
+that we have a lot of people who are not as good as we are.
+
+277
+00:12:22,020 --> 00:12:24,960
+And I think that's a good example of how we can take advantage
+
+278
+00:12:24,960 --> 00:12:28,220
+of the fact that Mark Zuckerberg has done more damage to young people
+
+279
+00:12:28,240 --> 00:12:30,780
+while making more money than any person in history.
+
+280
+00:12:30,800 --> 00:12:32,700
+Oh, but wait, what would get you worse?
+
+281
+00:12:32,720 --> 00:12:36,060
+It's as if we let an adversary implant a neural jack into our youth
+
+282
+00:12:36,080 --> 00:12:39,220
+to raise a generation of civic, military and business leaders
+
+283
+00:12:39,240 --> 00:12:40,400
+that hate America.
+
+284
+00:12:41,560 --> 00:12:43,120
+How can we be this stupid?
+
+285
+00:12:43,160 --> 00:12:47,620
+All right, this all adds up to a bunch of graphs,
+
+286
+00:12:47,640 --> 00:12:49,420
+all headed up and to the right.
+
+287
+00:12:49,440 --> 00:12:50,660
+And what are they?
+
+288
+00:12:50,680 --> 00:12:51,820
+What's the first one?
+
+289
+00:12:51,840 --> 00:12:54,140
+Oh, that's self-harm rates, which have exploded,
+
+290
+00:12:54,140 --> 00:12:57,880
+and it's been a month, girls, since my colleague Jonathan Haidt pointed out,
+
+291
+00:12:57,900 --> 00:13:00,520
+it's really gone crazy since social went on mobile.
+
+292
+00:13:00,540 --> 00:13:01,680
+What's the next one?
+
+293
+00:13:01,700 --> 00:13:03,400
+Teens with depression.
+
+294
+00:13:03,420 --> 00:13:05,740
+The next one, men and women not having sex.
+
+295
+00:13:06,740 --> 00:13:10,360
+Biggest fear of my parents was that I was going to get into too much trouble.
+
+296
+00:13:10,380 --> 00:13:14,320
+My biggest fear, honestly, is that my kids aren't going to get into enough trouble.
+
+297
+00:13:14,340 --> 00:13:17,400
+By the way, my advice to every young person watching this program
+
+298
+00:13:17,420 --> 00:13:21,000
+is go out, drink more and make a series of bad decisions that might pay off.
+
+299
+00:13:21,000 --> 00:13:23,260
+Next graph, human or gun deaths.
+
+300
+00:13:23,280 --> 00:13:25,540
+You're more likely to be shot in the United States
+
+301
+00:13:25,560 --> 00:13:27,660
+if you're a toddler or an infant than a cop.
+
+302
+00:13:27,680 --> 00:13:29,420
+Next graph, obesity.
+
+303
+00:13:29,440 --> 00:13:30,580
+Way up.
+
+304
+00:13:30,600 --> 00:13:34,020
+By the way, the industrial food complex wants to addict you to shitty fatty food
+
+305
+00:13:34,040 --> 00:13:37,260
+so they can hand you over to the industrial diabetes complex.
+
+306
+00:13:37,280 --> 00:13:38,980
+We should not romanticize obesity.
+
+307
+00:13:39,000 --> 00:13:41,980
+You're not finding your fucking truth, you're finding diabetes.
+
+308
+00:13:42,000 --> 00:13:43,020
+Overdose deaths.
+
+309
+00:13:43,040 --> 00:13:44,020
+Way up.
+
+310
+00:13:44,040 --> 00:13:45,220
+Deaths of despair.
+
+311
+00:13:45,240 --> 00:13:46,980
+When I was in high school, it was true.
+
+312
+00:13:47,000 --> 00:13:48,980
+I was a kid, I was a kid, I was a kid.
+
+313
+00:13:48,980 --> 00:13:50,080
+Deaths of despair.
+
+314
+00:13:50,100 --> 00:13:52,240
+When I was in high school, it was drunk driving,
+
+315
+00:13:52,260 --> 00:13:53,960
+now it's kids killing themselves.
+
+316
+00:13:53,980 --> 00:13:56,240
+Young people don't want to have kids anymore.
+
+317
+00:13:56,260 --> 00:13:58,560
+Two-thirds of people aged 30 to 34, able-bodied,
+
+318
+00:13:58,580 --> 00:14:00,520
+used to decide to have at least one child.
+
+319
+00:14:00,540 --> 00:14:01,720
+It's been cut in half.
+
+320
+00:14:01,740 --> 00:14:04,760
+It's now less than a third, 27 percent.
+
+321
+00:14:04,780 --> 00:14:08,040
+As a result, people over the age of 60 in the US, pretty happy.
+
+322
+00:14:08,060 --> 00:14:10,200
+People under the age of 30, not so much.
+
+323
+00:14:10,220 --> 00:14:12,440
+Some of the lowest in the free world.
+
+324
+00:14:12,460 --> 00:14:13,640
+What can we do?
+
+325
+00:14:13,660 --> 00:14:16,960
+Nothing wrong with America that can't be fixed with what's right with it.
+
+326
+00:14:16,980 --> 00:14:18,640
+We got the hard stuff figured out.
+
+327
+00:14:18,640 --> 00:14:21,100
+We got the problems to address all of these issues,
+
+328
+00:14:21,120 --> 00:14:23,420
+they cost a lot of money, that's the hard part.
+
+329
+00:14:23,440 --> 00:14:24,980
+And we have figured this out.
+
+330
+00:14:25,000 --> 00:14:27,060
+In just five minutes, post an earnings call,
+
+331
+00:14:27,080 --> 00:14:29,900
+we can add a quarter of a trillion dollars to the economy.
+
+332
+00:14:29,920 --> 00:14:32,600
+We've got the hard part figured out, the resources.
+
+333
+00:14:33,240 --> 00:14:35,580
+We have the money, but we decide not to do it.
+
+334
+00:14:35,600 --> 00:14:38,620
+This is per capita spending on childcare in the United States
+
+335
+00:14:38,640 --> 00:14:40,060
+relative to other nations.
+
+336
+00:14:40,080 --> 00:14:42,140
+This is housing permanence.
+
+337
+00:14:42,160 --> 00:14:43,380
+Things are doable.
+
+338
+00:14:43,400 --> 00:14:45,940
+We increased minimum wage to 25 bucks an hour.
+
+339
+00:14:45,960 --> 00:14:47,620
+It goes into the economy.
+
+340
+00:14:47,620 --> 00:14:50,600
+The wonderful things about low- and middle-income households
+
+341
+00:14:50,620 --> 00:14:52,080
+is they spend all their money.
+
+342
+00:14:52,100 --> 00:14:55,440
+We have to have a restore or a progressive tax structure
+
+343
+00:14:55,460 --> 00:14:58,760
+with alternative minimum tax on corporations and wealthy individuals.
+
+344
+00:14:58,780 --> 00:15:00,080
+We need to refund the IRS.
+
+345
+00:15:00,100 --> 00:15:01,880
+We need to reform Social Security.
+
+346
+00:15:01,900 --> 00:15:05,360
+It should be based on whether you need the money, not on how old you are.
+
+347
+00:15:05,380 --> 00:15:06,880
+We need a negative income tax.
+
+348
+00:15:06,900 --> 00:15:09,120
+My friend Andrew Yang screwed up a great idea,
+
+349
+00:15:09,140 --> 00:15:10,680
+but he branded it incorrectly.
+
+350
+00:15:10,700 --> 00:15:13,760
+Instead of calling it UBI, he should have got Republicans on board
+
+351
+00:15:13,780 --> 00:15:15,600
+by calling it a negative income tax.
+
+352
+00:15:15,600 --> 00:15:18,180
+We need to eliminate the capital gains tax deduction.
+
+353
+00:15:18,200 --> 00:15:20,940
+When did we decide that the money the capital earns
+
+354
+00:15:20,960 --> 00:15:23,420
+is more noble than the money that sweat earns?
+
+355
+00:15:23,440 --> 00:15:24,660
+Shouldn't it be flipped?
+
+356
+00:15:24,680 --> 00:15:26,740
+(*Applause*)
+
+357
+00:15:26,760 --> 00:15:31,140
+We need to remove 230 protection for algorithmically elevated content.
+
+358
+00:15:31,160 --> 00:15:32,940
+We need identity verification.
+
+359
+00:15:32,960 --> 00:15:37,840
+The reason we can have identity verification is because we have a First Amendment.
+
+360
+00:15:38,600 --> 00:15:39,820
+Break up big tech.
+
+361
+00:15:39,840 --> 00:15:42,620
+We have monopolies that are incurring greater and greater costs
+
+362
+00:15:42,640 --> 00:15:43,860
+on every small business,
+
+363
+00:15:43,860 --> 00:15:47,680
+because again, see above, our representatives don't understand these technologies.
+
+364
+00:15:47,700 --> 00:15:49,280
+We need to age-gate social media.
+
+365
+00:15:49,300 --> 00:15:51,920
+There's absolutely no reason anyone under the age of 16
+
+366
+00:15:51,940 --> 00:15:53,680
+should ever be on social media.
+
+367
+00:15:53,700 --> 00:15:56,240
+(*Applause*)
+
+368
+00:15:56,260 --> 00:15:57,920
+We need universal pre-K.
+
+369
+00:15:57,940 --> 00:16:00,920
+We need to reinstate the expanded child tax credit.
+
+370
+00:16:00,940 --> 00:16:03,400
+We need term limits, see above, Andrew Yang.
+
+371
+00:16:03,420 --> 00:16:05,280
+We need income-based affirmative action.
+
+372
+00:16:05,300 --> 00:16:08,840
+Any visible signs of affirmative action make no sense at all.
+
+373
+00:16:08,860 --> 00:16:11,200
+You would rather be born gay or non-white,
+
+374
+00:16:11,760 --> 00:16:14,460
+and that's a sign of our progress and our need to recalibrate
+
+375
+00:16:14,480 --> 00:16:15,980
+who we give advantage to.
+
+376
+00:16:16,000 --> 00:16:18,580
+Affirmative action, of which I'm a beneficiary,
+
+377
+00:16:18,600 --> 00:16:21,700
+I got Pell grants, I got unfair advantage,
+
+378
+00:16:21,720 --> 00:16:25,100
+affirmative action is a wonderful thing, and it should be based on color.
+
+379
+00:16:25,120 --> 00:16:28,940
+It should be based on green, how much money you have or don't have.
+
+380
+00:16:28,960 --> 00:16:31,980
+Expand college enrollment and vocational programs,
+
+381
+00:16:32,000 --> 00:16:34,260
+mental health, band phones in schools,
+
+382
+00:16:34,280 --> 00:16:37,180
+invest in third places, big brothers and sisters programs,
+
+383
+00:16:37,200 --> 00:16:38,300
+and more.
+
+384
+00:16:38,300 --> 00:16:40,960
+We need to tell people in the United States and Canada
+
+385
+00:16:40,980 --> 00:16:43,360
+that they live in the greatest countries in the world,
+
+386
+00:16:43,380 --> 00:16:45,680
+and we need to remind them of that every day
+
+387
+00:16:45,700 --> 00:16:49,520
+by exposing them to other great Americans where they feel connected to you.
+
+388
+00:16:49,540 --> 00:16:51,560
+We can do all of this.
+
+389
+00:16:51,580 --> 00:16:52,800
+We can do all of it.
+
+390
+00:16:52,820 --> 00:16:55,560
+We have the resources, the question is, do we have the will?
+
+391
+00:16:55,580 --> 00:16:56,960
+This is my last slide.
+
+392
+00:16:56,980 --> 00:17:00,280
+It is an emotionally manipulative slide to try and get you to like me more.
+
+393
+00:17:00,300 --> 00:17:02,300
+(*Laughter*)
+
+394
+00:17:02,340 --> 00:17:04,640
+And I'm going to try to get you to like me more.
+
+395
+00:17:04,640 --> 00:17:06,620
+But it does have a message.
+
+396
+00:17:06,640 --> 00:17:08,820
+This is the whole shooting match.
+
+397
+00:17:08,840 --> 00:17:12,020
+Anybody here without kids, ask someone with kids.
+
+398
+00:17:12,040 --> 00:17:14,700
+You have your will to work, you have your will to friends,
+
+399
+00:17:14,720 --> 00:17:16,060
+you have your will to kids.
+
+400
+00:17:16,080 --> 00:17:20,080
+Something happens here, your whole world shrinks to this.
+
+401
+00:17:23,320 --> 00:17:28,320
+(*Applause*)
+
+402
+00:17:28,880 --> 00:17:33,880
+(*Applause*)
+
+403
+00:17:35,440 --> 00:17:38,900
+So I present as I wrap here, which is a few questions.
+
+404
+00:17:38,920 --> 00:17:43,180
+One, if you acknowledge that our kids are the most important thing in our lives,
+
+405
+00:17:43,200 --> 00:17:45,380
+that everything else we do here is meaningful,
+
+406
+00:17:45,400 --> 00:17:48,180
+but our kids' well-being and prosperity is profound.
+
+407
+00:17:48,200 --> 00:17:53,620
+If you acknowledge that they're doing more poorly than previous generations,
+
+408
+00:17:53,640 --> 00:17:56,980
+if you believe there's a chance that the illusion of complexity
+
+409
+00:17:57,060 --> 00:17:59,000
+has done nothing but provide cloud cover
+
+410
+00:17:59,020 --> 00:18:01,720
+for the unbelievable transfer of goodwill,
+
+411
+00:18:01,740 --> 00:18:05,280
+of well-being and of prosperity from young to old,
+
+412
+00:18:05,300 --> 00:18:07,960
+and if you believe we can actually fix these problems
+
+413
+00:18:07,980 --> 00:18:09,640
+and we have the resources,
+
+414
+00:18:09,660 --> 00:18:11,320
+then I present to you,
+
+415
+00:18:11,340 --> 00:18:16,320
+I posit, I augur the question that I hope has more veracity than it did
+
+416
+00:18:16,340 --> 00:18:19,320
+17 minutes and 24 seconds ago.
+
+417
+00:18:19,340 --> 00:18:21,180
+And that's the following question.
+
+418
+00:18:24,060 --> 00:18:25,500
+Do we love our children?
+
+419
+00:18:27,140 --> 00:18:30,600
+My name is Scott Gallo, I teach at NYU, and I appreciate your time.
+
+420
+00:18:30,620 --> 00:18:33,620
+(*Applause*)
+
+421
+00:18:33,660 --> 00:18:34,880
+Thank you.
+
+422
+00:18:34,900 --> 00:18:36,100
+Thank you.
+

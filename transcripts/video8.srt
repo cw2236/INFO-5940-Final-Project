@@ -1,0 +1,472 @@
+1
+00:00:00,000 --> 00:00:04,080
+Scott Galloway is professor of marketing at NYU School of Business.
+
+2
+00:00:04,760 --> 00:00:09,320
+He writes of 2021 the year of the bubble 2022 maybe year of the pop.
+
+3
+00:00:09,640 --> 00:00:12,280
+He's with me from New York.
+
+4
+00:00:12,280 --> 00:00:14,800
+Everybody wants to know.
+
+5
+00:00:15,160 --> 00:00:19,680
+And I realize that at five o'clock your your predictions for this year,
+
+6
+00:00:19,680 --> 00:00:25,560
+you will be releasing them and you'll be releasing them in a stream, a live stream.
+
+7
+00:00:25,560 --> 00:00:29,760
+And we'll be showing the where people can watch those those predictions.
+
+8
+00:00:30,080 --> 00:00:32,360
+If you had to get before we get to next year,
+
+9
+00:00:32,360 --> 00:00:36,600
+if you had to gauge your successes from last year on your predictions, what do you think?
+
+10
+00:00:39,520 --> 00:00:42,280
+Better to be lucky than good. This year, things worked out.
+
+11
+00:00:42,280 --> 00:00:46,360
+We predicted that Bitcoin would hit fifty thousand dollars.
+
+12
+00:00:46,640 --> 00:00:48,400
+We predicted that there would be
+
+13
+00:00:49,920 --> 00:00:55,360
+that AT&T would divest assets, that CNN would go behind a paywall
+
+14
+00:00:55,360 --> 00:00:58,360
+and that Jack Dorsey would be ousted from Twitter.
+
+15
+00:00:59,120 --> 00:01:02,200
+What we didn't get right, we thought Peloton would be acquired.
+
+16
+00:01:02,200 --> 00:01:04,680
+But I think we got about seven of the ten correct.
+
+17
+00:01:04,680 --> 00:01:07,120
+So last year, last year we did all right, Richard.
+
+18
+00:01:07,560 --> 00:01:10,520
+All right. Now then, what about this year?
+
+19
+00:01:10,760 --> 00:01:13,880
+I see that your real real main predictions are coming out shortly.
+
+20
+00:01:14,200 --> 00:01:17,880
+But you're basically saying that I'm reading from the Zuckerverse
+
+21
+00:01:17,880 --> 00:01:20,440
+is the biggest tech fallout that is going to be.
+
+22
+00:01:22,400 --> 00:01:26,080
+Yeah, I think that so there are already several metaverses,
+
+23
+00:01:26,080 --> 00:01:29,680
+whether it's Twitter or Fortnite or FIFA.
+
+24
+00:01:29,720 --> 00:01:31,840
+We have a lot of metaverses that already exist.
+
+25
+00:01:31,840 --> 00:01:34,280
+But one of the keys to a metaverse, if you think about a metaverse,
+
+26
+00:01:34,280 --> 00:01:36,720
+is a series of Internet services connected together
+
+27
+00:01:37,160 --> 00:01:42,080
+by one operating system that kind of permeates geographic boundaries.
+
+28
+00:01:42,880 --> 00:01:47,320
+The key to it is a portal, and that is entry into a different universe.
+
+29
+00:01:47,320 --> 00:01:50,240
+And the App Store is entry into a bunch of different metaverses.
+
+30
+00:01:50,840 --> 00:01:54,640
+And I think the reason the Facebook metaverse or the Zuckerverse, if you will,
+
+31
+00:01:54,640 --> 00:01:58,480
+is going to fail is that the Oculus is selling somewhere between three
+
+32
+00:01:58,480 --> 00:02:01,840
+and five million units. There were 60 million pairs of Crocs sold last year.
+
+33
+00:02:01,840 --> 00:02:04,760
+There were one hundred and thirty million AirPods sold.
+
+34
+00:02:04,760 --> 00:02:08,440
+It's it's this thing, the central server and then the AirPods
+
+35
+00:02:08,440 --> 00:02:11,720
+that are going to be your portal to other universes.
+
+36
+00:02:11,720 --> 00:02:13,560
+So I think the metaverse will be a big deal,
+
+37
+00:02:13,560 --> 00:02:15,880
+but I think it's going to be the Appleverse, not the Zuckerverse.
+
+38
+00:02:15,880 --> 00:02:18,320
+I think the Oculus is more prophylactic, Richard,
+
+39
+00:02:18,320 --> 00:02:20,720
+ensuring no one will get near you. Right.
+
+40
+00:02:21,560 --> 00:02:24,200
+But the reality is that
+
+41
+00:02:25,120 --> 00:02:27,920
+we if one looks at the market overall,
+
+42
+00:02:28,120 --> 00:02:31,800
+and I've got a dozen people now on this program, all who are saying
+
+43
+00:02:32,000 --> 00:02:35,640
+there's something smelly and it's going to go wrong next year.
+
+44
+00:02:36,560 --> 00:02:38,760
+You talk about the bubble and the pop.
+
+45
+00:02:38,760 --> 00:02:43,880
+But what does that mean in reality for ordinary people?
+
+46
+00:02:43,880 --> 00:02:45,960
+What does that mean?
+
+47
+00:02:47,240 --> 00:02:49,000
+That's a correct question. I want to be clear.
+
+48
+00:02:49,120 --> 00:02:53,040
+It's it's it's you know, economists have predicted nine of the last three
+
+49
+00:02:53,040 --> 00:02:55,760
+recessions and seven of the last three corrections.
+
+50
+00:02:55,760 --> 00:02:57,360
+And the bottom line is, I don't know.
+
+51
+00:02:57,360 --> 00:03:00,360
+We know that 2000 is coming or we're fairly confident.
+
+52
+00:03:00,920 --> 00:03:05,600
+2000 is coming. The question is, is it 1997 right now or 1999?
+
+53
+00:03:06,000 --> 00:03:09,240
+I do think you're seeing a reattachment to fundamentals,
+
+54
+00:03:09,600 --> 00:03:12,760
+especially among meme stocks, where people are deciding that
+
+55
+00:03:13,240 --> 00:03:16,360
+a theater chain is probably not worth more
+
+56
+00:03:16,800 --> 00:03:20,160
+than many media companies that have much more robust businesses.
+
+57
+00:03:20,520 --> 00:03:24,280
+That GameStop probably isn't worth more than a lot of very profitable,
+
+58
+00:03:24,280 --> 00:03:25,840
+growing retailers.
+
+59
+00:03:25,840 --> 00:03:28,880
+So I think you're probably going to see a reattachment to fundamentals,
+
+60
+00:03:28,880 --> 00:03:33,440
+which over the long haul or even the medium term seem to rear that ugly head.
+
+61
+00:03:33,440 --> 00:03:36,040
+Now, whether that happens this quarter or in three quarters,
+
+62
+00:03:36,520 --> 00:03:38,360
+you could argue it's already happening, Richard.
+
+63
+00:03:38,360 --> 00:03:40,960
+Most SPACs are well off their 50 week highs.
+
+64
+00:03:40,960 --> 00:03:44,560
+I think over half of them are more than 50 percent off their 52 week highs.
+
+65
+00:03:45,000 --> 00:03:49,080
+But it does feel like we're in the midst of a reattachment to fundamentals.
+
+66
+00:03:49,360 --> 00:03:50,880
+You see, I don't know.
+
+67
+00:03:50,880 --> 00:03:54,480
+One could argue and just I mean, never mind that the Dow is at the record today.
+
+68
+00:03:54,640 --> 00:03:58,040
+If you look at the components and you look at the Nvidia's,
+
+69
+00:03:58,040 --> 00:04:03,840
+you look at Microsoft, you look at snaps and Twitter's, they are down 30, 40, 50, 40 percent.
+
+70
+00:04:04,080 --> 00:04:09,120
+So there's a strong argument for saying, if this isn't the pop,
+
+71
+00:04:09,440 --> 00:04:11,600
+I don't think I want to see it when it happens.
+
+72
+00:04:12,600 --> 00:04:15,840
+Oh, yeah. But I mean, and I get a lot of grief for this.
+
+73
+00:04:15,840 --> 00:04:19,400
+But Richard, keep in mind, Tesla could drop 80 percent
+
+74
+00:04:19,400 --> 00:04:22,640
+and it would still be worth more than General Motors and Ford combined.
+
+75
+00:04:23,640 --> 00:04:29,040
+The the electric vehicle market, if you take Tesla, Rivian and Lucid
+
+76
+00:04:29,040 --> 00:04:32,840
+are worth more than I think the top eight automobile manufacturers
+
+77
+00:04:32,840 --> 00:04:34,640
+and throwing Boeing and Airbus.
+
+78
+00:04:35,080 --> 00:04:38,400
+So there's a lot of air that could still be let out of this balloon.
+
+79
+00:04:38,400 --> 00:04:45,520
+How do you how do you then properly value these stocks
+
+80
+00:04:45,520 --> 00:04:52,440
+other than the old fashioned way, earnings per share, future earnings stream,
+
+81
+00:04:52,440 --> 00:04:54,840
+all the things that are very unfashionable?
+
+82
+00:04:57,000 --> 00:05:01,360
+Well, again, this is going to sound like a boomer, a boomer comment, Richard.
+
+83
+00:05:01,360 --> 00:05:03,080
+And I think you and I are about the same age.
+
+84
+00:05:03,640 --> 00:05:06,040
+I think fundamentals over the long term,
+
+85
+00:05:06,520 --> 00:05:11,400
+I think fundamentals over the long term are going to rear their rear their heads again.
+
+86
+00:05:11,400 --> 00:05:15,480
+What's typically happened is that throughout the history of the Dow,
+
+87
+00:05:15,480 --> 00:05:20,080
+most of the time, there's a difference between pricing and valuation.
+
+88
+00:05:20,080 --> 00:05:25,600
+And the pricing recently has been more a function of kind of 80 percent story
+
+89
+00:05:25,600 --> 00:05:28,960
+and 20 percent fundamentals for most of these stocks.
+
+90
+00:05:28,960 --> 00:05:33,880
+And typically throughout history, most companies have a set of peers that
+
+91
+00:05:33,920 --> 00:05:38,640
+and they trade within a certain range based on the kind of vision of the CEO.
+
+92
+00:05:38,640 --> 00:05:39,800
+And it's somewhat flipped.
+
+93
+00:05:39,800 --> 00:05:43,040
+Now there's literally story stocks where it's almost impossible.
+
+94
+00:05:43,640 --> 00:05:48,960
+I mean, Rivian hasn't delivered a car yet and it has about the value of General Motors.
+
+95
+00:05:48,960 --> 00:05:51,040
+So it's become all about story.
+
+96
+00:05:51,040 --> 00:05:55,080
+So I wonder if we're going to flip back to less about the story
+
+97
+00:05:55,080 --> 00:05:56,480
+and more about the fundamentals.
+
+98
+00:05:56,480 --> 00:06:00,640
+And also, stocks tend to trade the most vulnerable stocks, I believe.
+
+99
+00:06:00,680 --> 00:06:05,280
+They usually trade on fundamentals or technicals or short squeeze, what have you.
+
+100
+00:06:05,280 --> 00:06:10,160
+But we have this new phenomena of kind of a mob squeeze or they trade on movement.
+
+101
+00:06:10,160 --> 00:06:16,520
+I wonder if the stocks driven by movements, if you will, or so-called movements in 2021
+
+102
+00:06:16,520 --> 00:06:18,840
+are going to are going to register the greatest pain.
+
+103
+00:06:20,200 --> 00:06:21,920
+We'll be watching closely.
+
+104
+00:06:22,840 --> 00:06:25,760
+WWW ProfGalloway.com.
+
+105
+00:06:25,760 --> 00:06:27,880
+Five o'clock, you'll have the predictions.
+
+106
+00:06:27,880 --> 00:06:29,240
+I do like the way you have the predictions.
+
+107
+00:06:29,240 --> 00:06:32,560
+And also, you're quite open about how well or badly you did.
+
+108
+00:06:32,560 --> 00:06:34,880
+And by the way, the beauty of Google.
+
+109
+00:06:35,840 --> 00:06:37,640
+No, I'm older than you, Scott.
+
+110
+00:06:37,640 --> 00:06:40,200
+I've got two years on you.
+
+111
+00:06:40,200 --> 00:06:42,000
+I'll be 60 this year.
+
+112
+00:06:42,000 --> 00:06:46,440
+You will merely be a young 58.
+
+113
+00:06:47,600 --> 00:06:49,080
+There you go. There you go.
+
+114
+00:06:49,080 --> 00:06:50,560
+I can learn a lot from you, Richard.
+
+115
+00:06:50,560 --> 00:06:51,440
+Happy birthday.
+
+116
+00:06:51,440 --> 00:06:54,800
+On the. I think it's the other way around.
+
+117
+00:06:54,800 --> 00:06:57,120
+I'm into no illusions about that, Scott.
+
+118
+00:06:57,120 --> 00:06:58,680
+Thank you, Professor. Good to have you with us.
+

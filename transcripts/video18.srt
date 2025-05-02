@@ -1,0 +1,132 @@
+1
+00:00:00,000 --> 00:00:05,180
+What's super interesting here, and it kind of chills down my spine thinking about it,
+
+2
+00:00:05,180 --> 00:00:10,200
+is that essentially it's going to become more human-like.
+
+3
+00:00:10,200 --> 00:00:13,600
+When you think about why you go to the media, you go for news, right?
+
+4
+00:00:13,600 --> 00:00:18,200
+But almost everyone has access to the same news, unless you're spreading misinformation
+
+5
+00:00:18,200 --> 00:00:21,680
+or disinformation, which is kind of their new go-to so they can pretend it's news and
+
+6
+00:00:21,680 --> 00:00:25,200
+act like they've discovered something new and they haven't, they just made up something.
+
+7
+00:00:25,200 --> 00:00:28,000
+Oh, Dominion voting machines are linked to Hugo Chavez.
+
+8
+00:00:28,000 --> 00:00:30,640
+No, that's not news, that's a lie.
+
+9
+00:00:30,640 --> 00:00:34,520
+But real news is very hard to find, and it's very difficult to differentiate a media product
+
+10
+00:00:34,520 --> 00:00:35,520
+on news, right?
+
+11
+00:00:35,520 --> 00:00:36,920
+We don't differentiate on news.
+
+12
+00:00:36,920 --> 00:00:40,880
+We take other people's news and try and provide some insight or perspective, which is really
+
+13
+00:00:40,880 --> 00:00:42,360
+just Latin for voice.
+
+14
+00:00:42,360 --> 00:00:48,680
+Most people go to a media outlet for voice, and that is a take on things or insight or
+
+15
+00:00:48,680 --> 00:00:50,280
+humor or no voice.
+
+16
+00:00:50,280 --> 00:00:55,560
+I really like Reuters because I find Reuters is kind of just the facts, ma'am, right?
+
+17
+00:00:55,600 --> 00:00:59,320
+I also like The Economist because I find it very dry and looks at stuff through sort of
+
+18
+00:00:59,320 --> 00:01:01,240
+a capitalist lens.
+
+19
+00:01:01,240 --> 00:01:07,800
+Anyways, what it got me thinking about is the voice, if you will have chat GPT for Omni
+
+20
+00:01:07,800 --> 00:01:15,320
+or O, every morning I could just say, hey, give me today's business news in the voice
+
+21
+00:01:15,320 --> 00:01:21,460
+of Reuters, and I'll be able to say it just similar to what I used to do with Alexa.
+
+22
+00:01:21,460 --> 00:01:25,120
+And what this does is it's going to fulfill the dream of these big tech firms that are
+
+23
+00:01:25,120 --> 00:01:30,920
+increasingly consolidated, and that is what Google hated was that you left Google.
+
+24
+00:01:30,920 --> 00:01:35,720
+You type in lowest airfare from New York to St. Barts, right?
+
+25
+00:01:35,720 --> 00:01:40,940
+And it would bring up a bunch of paid for sites, including United, including JetBlue,
+
+26
+00:01:40,940 --> 00:01:42,520
+and then you would leave and go to JetBlue.
+
+27
+00:01:42,520 --> 00:01:44,900
+And then I said, no, no, no, we don't want anyone leaving.
+
+28
+00:01:44,900 --> 00:01:50,000
+So they started sending you to other components of Google, and Google has Google Flight or
+
+29
+00:01:50,000 --> 00:01:52,440
+Google Travel so they could further monetize it.
+
+30
+00:01:53,400 --> 00:01:58,400
+I think this could be really bad news for media organizations because at some point
+
+31
+00:01:58,400 --> 00:02:04,680
+it just might be easier for me to go, give me a view on campus protests in the voice
+
+32
+00:02:04,680 --> 00:02:08,840
+of Anderson Cooper, and I won't need to go to the CNN site.
+
+33
+00:02:08,840 --> 00:02:10,280
+It'll just keep me right there.
+

@@ -16,6 +16,7 @@ lib64/
 parts/
 sdist/
 var/
+wheels/
 *.egg-info/
 .installed.cfg
 *.egg
@@ -30,12 +31,20 @@ ENV/
 *.swp
 *.swo
 
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
 # Project specific
 videos/
-transcripts/
-predictions/
-validated_predictions/
+predictions.json
 .env
+*.log
 
 # Docker
 .docker/ 

@@ -23,4 +23,20 @@ services:
 
     # Overrides default command so things don't shut down after the process ends.
     command: sleep infinity
+
+  info-5940-devcontainer:
+    build:
+      context: ..
+      dockerfile: .devcontainer/Dockerfile
+    volumes:
+      - ..:/workspaces/RAG project:cached
+    command: sleep infinity
+    environment:
+      - TZ=America/New_York
+      - OPENAI_API_KEY=
+    cap_add:
+      - SYS_PTRACE
+    security_opt:
+      - seccomp:unconfined
+    network_mode: host
  

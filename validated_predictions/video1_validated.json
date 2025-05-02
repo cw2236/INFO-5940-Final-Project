@@ -1,0 +1,20 @@
+[
+  {
+    "original": "The next headquarters will be DC",
+    "summary": "Amazon's next headquarters will be in DC",
+    "subject": "Amazon's next headquarters",
+    "target": "DC",
+    "deadline": "Not specified",
+    "is_accurate": "accurate",
+    "reason": "Amazon announced in November 2018 that it had selected Arlington, Virginia, a suburb of Washington, D.C., as one of the locations for its next headquarters. This information can be verified from Amazon's official blog post (https://blog.aboutamazon.com/company-news/amazon-selects-new-york-city-and-northern-virginia-for-new-headquarters)."
+  },
+  {
+    "original": "No one is going to regulate the gentleman showing throwing out the first pitch of the 2019 Washington National Seasons Which will be Jeffrey Bezos",
+    "summary": "Jeffrey Bezos will throw the first pitch of the 2019 Washington National Seasons",
+    "subject": "Jeffrey Bezos",
+    "target": "Throwing first pitch of the 2019 Washington National Seasons",
+    "deadline": "2019",
+    "is_accurate": "inaccurate",
+    "reason": "Based on a web search, there is no evidence that Jeffrey Bezos threw the first pitch of the 2019 Washington National Seasons. The first pitch of the 2019 season was thrown by Chef José Andrés, as reported by the Washington Post (source: https://www.washingtonpost.com/sports/2019/03/28/chef-jose-andres-throw-out-first-pitch-nationals-home-opener/)."
+  }
+]
