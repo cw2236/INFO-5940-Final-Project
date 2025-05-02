@@ -42,7 +42,6 @@ Thumbs.db
 
 # Project specific
 videos/
-predictions.json
 .env
 *.log
 
