@@ -9,85 +9,91 @@ def load_predictions(file_path: str) -> List[Dict[str, Any]]:
     with open(file_path, 'r', encoding='utf-8') as f:
         return json.load(f)
 
-def validate_prediction(prediction: Dict[str, Any]) -> Dict[str, Any]:
-    """Use GPT API to validate prediction accuracy"""
-    prompt = f"""
-    Please evaluate the accuracy of the following prediction. Use web search to find relevant information to verify if this prediction came true.
-
-    Prediction content: {prediction['original']}
-    Prediction summary: {prediction['summary']}
-    Prediction subject: {prediction['subject']}
-    Prediction target: {prediction['target']}
-    Deadline: {prediction['deadline']}
-
-    Please follow these steps:
-    1. Use web search to find information related to this prediction
-    2. Pay special attention to events after the deadline
-    3. Based on search results, determine if the prediction was accurate
-    4. Provide detailed verification process and evidence
-
-    Please return in strict JSON format as follows:
-    {{
-        "is_accurate": "accurate",
-        "reason": "detailed judgment based on web search, including specific events, dates and sources"
-    }}
-    or
-    {{
-        "is_accurate": "inaccurate",
-        "reason": "detailed judgment based on web search, including specific events, dates and sources"
-    }}
-    or
-    {{
-        "is_accurate": "unclear",
-        "reason": "detailed judgment based on web search, explaining why it cannot be determined"
-    }}
-
-    Note:
-    1. Return only the JSON object, no other text
-    2. is_accurate value can only be "accurate", "inaccurate" or "unclear"
-    3. reason must include specific search evidence and sources
+def validate_prediction(prediction: Dict, video_id: str) -> Dict:
     """
-    
+    Validate a single prediction using GPT-4
+    """
     try:
-        client = OpenAI()
-        response = client.chat.completions.create(
+        # Construct the prompt
+        prompt = f"""You are an expert at validating predictions. Analyze this prediction and determine if it has come true.
+
+Prediction Details:
+- Time: {prediction['time']}
+- Event: {prediction['event']}
+- Prediction: {prediction['prediction']}
+- Made at: {prediction['made_at']}
+
+Please provide a detailed analysis in the following JSON format:
+{{
+    "is_valid": true/false,
+    "confidence": 0-1,
+    "reasoning": "Detailed explanation of why the prediction is considered valid or invalid",
+    "evidence": [
+        {{
+            "source": "Source of evidence",
+            "description": "Description of the evidence",
+            "url": "URL of the evidence (if available)"
+        }}
+    ],
+    "notes": "Additional observations or caveats"
+}}
+
+Important:
+1. Be thorough in your analysis
+2. Search for concrete evidence
+3. Consider the timeframe specified in the prediction
+4. If the prediction is about a future event, mark it as not yet validated
+5. Provide specific examples and sources when possible
+6. Consider both direct and indirect evidence
+7. If the prediction is vague or unclear, explain why it's difficult to validate
+
+Please respond with ONLY the JSON object, no additional text."""
+
+        # Get validation from GPT-4
+        response = OpenAI().chat.completions.create(
             model="gpt-4",
             messages=[
-                {"role": "system", "content": "You are a professional prediction evaluation expert. Use web search to verify prediction accuracy. Your evaluation should be based on the latest web information and provide specific evidence and sources. Return results strictly in the specified JSON format, with no additional text."},
-                {"role": "user", "content": prompt}
+                {
+                    "role": "system",
+                    "content": "You are an expert at validating predictions. Provide detailed analysis with evidence."
+                },
+                {
+                    "role": "user",
+                    "content": prompt
+                }
             ],
-            temperature=0.3
+            temperature=0.3,
+            max_tokens=1000
         )
+
+        # Parse the response
+        validation = json.loads(response.choices[0].message.content)
         
-        result = response.choices[0].message.content.strip()
-        print(f"API response: {result}")  # Debug output
+        # Add original prediction details
+        validation['original_prediction'] = {
+            'time': prediction['time'],
+            'event': prediction['event'],
+            'prediction': prediction['prediction'],
+            'made_at': prediction['made_at']
+        }
         
-        try:
-            validation = json.loads(result)
-            # Verify if returned JSON contains required fields
-            if "is_accurate" not in validation or "reason" not in validation:
-                raise ValueError("Returned JSON missing required fields")
-            
-            # Verify if is_accurate value is valid
-            if validation["is_accurate"] not in ["accurate", "inaccurate", "unclear"]:
-                raise ValueError("Invalid is_accurate value")
-            
-            # Add validation results to original prediction
-            prediction.update(validation)
-            return prediction
-            
-        except json.JSONDecodeError as e:
-            print(f"JSON parsing error: {str(e)}")
-            raise ValueError(f"Unable to parse API response JSON: {result}")
-            
+        return validation
+
     except Exception as e:
         print(f"Error validating prediction: {str(e)}")
-        # If validation fails, add error marker
-        prediction.update({
-            "is_accurate": "validation failed",
-            "reason": f"Error during validation: {str(e)}"
-        })
-        return prediction
+        return {
+            'is_valid': False,
+            'confidence': 0,
+            'reasoning': f"Error during validation: {str(e)}",
+            'evidence': [],
+            'notes': "Validation failed due to an error",
+            'original_prediction': {
+                'time': prediction['time'],
+                'event': prediction['event'],
+                'prediction': prediction['prediction'],
+                'made_at': prediction['made_at']
+            }
+        }
 
 def save_validated_predictions(predictions: List[Dict[str, Any]], output_path: str):
     """Save validated predictions to file"""
@@ -117,7 +123,7 @@ if __name__ == "__main__":
         validated_predictions = []
         for i, prediction in enumerate(predictions, 1):
             print(f"Validating prediction {i}/{len(predictions)}...")
-            validated_prediction = validate_prediction(prediction)
+            validated_prediction = validate_prediction(prediction, "video1")
             validated_predictions.append(validated_prediction)
             
             # Avoid rate limit
