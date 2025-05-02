@@ -1,180 +1,114 @@
-# Video Prediction Analysis System
+# Video Prediction Extraction and Validation
 
-This project is a comprehensive system for analyzing predictions in videos. It includes tools for downloading videos, transcribing them, extracting predictions, and validating those predictions using AI.
+This project provides tools for downloading videos, extracting predictions from video transcripts, and validating these predictions using GPT-4.
 
-## 🛠️ Prerequisites
+## Features
 
-Before starting, ensure you have the following installed on your system:
+- **Video Download**: Download videos from various platforms (YouTube, TikTok, etc.) using `yt-dlp`
+- **Video Transcription**: Extract English subtitles from videos using OpenAI's Whisper model
+- **Prediction Extraction**: Extract predictions from video transcripts using GPT-4
+- **Prediction Validation**: Validate predictions using GPT-4 with web search capabilities
 
-- Python 3.8 or higher
-- Docker (Ensure Docker Desktop is running)
-- VS Code
-- VS Code Remote - Containers Extension
-- Git
-- OpenAI API Key
-- FFmpeg (required for audio processing)
+## Prerequisites
 
-## 📦 Dependencies
+- Python 3.8+
+- OpenAI API key
+- Docker (optional, for containerized environment)
 
-Install the required Python packages:
+## Installation
 
+1. Clone the repository:
 ```bash
-pip install openai
-pip install yt-dlp
-pip install openai-whisper
+git clone https://github.com/cw2236/INFO-5940-Final-Project.git
+cd INFO-5940-Final-Project
 ```
 
-## 📂 Project Structure
-
-```
-.
-├── videos/              # Directory for downloaded videos
-├── transcripts/         # Directory for video transcripts
-├── predictions/         # Directory for extracted predictions
-└── validated_predictions/  # Directory for validated predictions
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
 ```
 
-## 🚀 Setup Guide
-
-### 1️⃣ Configure OpenAI API Key
-
-Since `docker-compose.yml` expects environment variables, follow these steps:
-
-#### ➤ Option 1: Set the API Key in `.env` (Recommended)
-
-Inside the project folder, create a `.env` file:
-
-```sh
-touch .env
+3. Create a `.env` file in the project root and add your OpenAI API key:
+```
+OPENAI_API_KEY=your_api_key_here
 ```
 
-Edit your API key and base URL in docker-compose.yml:
+## Usage
 
-```plaintext
-OPENAI_API_KEY=your-api-key-here
-OPENAI_BASE_URL=https://api.ai.it.cornell.edu/
-TZ=America/New_York
-```
+### 1. Download Videos
 
-Make sure the `docker-compose.yml` include this `.env` file:
-
-```yaml
-version: '3.8'
-services:
-  devcontainer:
-    container_name: info-5940-devcontainer
-    build:
-      dockerfile: Dockerfile
-      target: devcontainer
-    environment:
-      - OPENAI_API_KEY=${OPENAI_API_KEY}
-      - OPENAI_BASE_URL=${OPENAI_BASE_URL}
-      - TZ=${TZ}
-    volumes:
-      - '$HOME/.aws:/root/.aws'
-      - '.:/workspace'
-    env_file:
-      - .env
-```
-
-Compose the container:
-
-```sh
-docker-compose up --build
-```
-
-Now, your API key will be automatically loaded inside the container.
-
-### 2️⃣ Open in VS Code with Docker
-
-1. Open Docker dashboard and run the image you just created (It should be called 5940)
-
-2. Open VS Code and navigate to the project folder.
-
-3. Open the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P` on Mac) and search for:
-   ```
-   Remote-Containers: Rebuild and Reopen in Container"
-   ```
-4. Select From 'docker-compose.yml', then don't select any choice and click OK directly
-
-5. Select this option. VS Code will build and open the project inside the container.
-
-📌 **Note:** If you don't see this option, ensure that the Remote - Containers extension is installed.
-
-
-## 🚀 Usage Guide
-
-### 1. Download Video
-
-Use `download_video.py` to download videos from YouTube or TikTok:
-
+Create a `video_links.csv` file with video URLs in the first column, then run:
 ```bash
 python download_video.py
 ```
 
 The script will:
-- Download the video in highest quality
-- Save it to the `videos` directory
-- Skip if the video already exists
+- Download videos from the URLs in `video_links.csv`
+- Save videos in the `./videos` directory
+- Use multithreading for faster downloads
+- Skip existing videos
 
-### 2. Transcribe Video
+### 2. Transcribe Videos
 
-Use `transcribe_video.py` to extract English subtitles from the video:
-
+Run the transcription script:
 ```bash
 python transcribe_video.py
 ```
 
 The script will:
-- Use OpenAI's Whisper model to transcribe the video
-- Generate both SRT and TXT files
-- Save them to the `transcripts` directory
-- Skip if files already exist
+- Process all videos in the `./videos` directory
+- Extract English subtitles using Whisper
+- Save transcripts in both SRT and TXT formats in `./transcripts`
+- Skip already transcribed videos
 
 ### 3. Extract Predictions
 
-Use `extract_predictions.py` to identify predictions in the transcript:
-
+Run the prediction extraction script:
 ```bash
 python extract_predictions.py
 ```
 
 The script will:
-- Use GPT-4 to analyze the transcript
-- Extract clear predictions about future events
-- Save predictions to the `predictions` directory
-- Format predictions with original text, summary, subject, target, and deadline
+- Process all transcript files in `./transcripts`
+- Extract predictions using GPT-4
+- Save results in `predictions.json`
+- Include video publish dates for each prediction
+- Handle rate limits with automatic retries
 
 ### 4. Validate Predictions
 
-Use `validate_predictions.py` to verify the accuracy of predictions:
-
+Run the validation script:
 ```bash
 python validate_predictions.py
 ```
 
 The script will:
-- Use GPT-4 to validate each prediction
-- Search for evidence to verify if predictions came true
-- Save validation results to the `validated_predictions` directory
-- Include detailed reasoning and evidence for each validation
+- Read predictions from `predictions.json`
+- Validate each prediction using GPT-4
+- Perform web searches to verify predictions
+- Save validation results in `validated_predictions.json`
 
-## 📌 Features
+## Project Structure
 
-- Download videos from YouTube/TikTok
-- Extract English subtitles using Whisper
-- Identify and extract predictions from transcripts
-- Validate predictions using AI and web search
-- Automatic file organization and management
-- Skip processing for existing files
+```
+.
+├── videos/                  # Downloaded videos
+├── transcripts/            # Video transcripts (SRT and TXT)
+├── predictions.json        # Extracted predictions
+├── validated_predictions/  # Validation results
+├── download_video.py      # Video download script
+├── transcribe_video.py    # Transcription script
+├── extract_predictions.py # Prediction extraction script
+└── validate_predictions.py # Prediction validation script
+```
 
-## 📝 Notes
+## Notes
 
-- The system uses OpenAI's GPT-4 for prediction extraction and validation
-- Whisper model "medium" is used for transcription
-- All scripts include error handling and logging
-- Files are organized in separate directories for better management
+- The project uses rate limiting and retry mechanisms to handle API limits
+- All scripts include progress bars and detailed logging
+- Results are saved in JSON format for easy analysis
+- The project is containerized using Docker for easy deployment
 
-## 🙏 Acknowledgement
+## License
 
-This project is developed as part of INFO-5940 at Cornell University.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
