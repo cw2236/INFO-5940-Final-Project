@@ -1,0 +1,88 @@
+{
+  "total_predictions": 97,
+  "accuracy": 0.29896907216494845,
+  "high_confidence_accuracy": 0.3625,
+  "validation_date": "2025-05-08",
+  "predictions_by_confidence": {
+    "high": 80,
+    "medium": 3,
+    "low": 14
+  },
+  "accuracy_by_video": {
+    "video8": {
+      "total": 4,
+      "valid": 4,
+      "accuracy": 1.0
+    },
+    "video9": {
+      "total": 8,
+      "valid": 3,
+      "accuracy": 0.375
+    },
+    "video19": {
+      "total": 1,
+      "valid": 0,
+      "accuracy": 0.0
+    },
+    "video23": {
+      "total": 3,
+      "valid": 0,
+      "accuracy": 0.0
+    },
+    "video20": {
+      "total": 1,
+      "valid": 0,
+      "accuracy": 0.0
+    },
+    "video21": {
+      "total": 1,
+      "valid": 0,
+      "accuracy": 0.0
+    },
+    "video10": {
+      "total": 19,
+      "valid": 7,
+      "accuracy": 0.3684210526315789
+    },
+    "video12": {
+      "total": 1,
+      "valid": 0,
+      "accuracy": 0.0
+    },
+    "video16": {
+      "total": 1,
+      "valid": 0,
+      "accuracy": 0.0
+    },
+    "video15": {
+      "total": 6,
+      "valid": 0,
+      "accuracy": 0.0
+    },
+    "video4": {
+      "total": 1,
+      "valid": 1,
+      "accuracy": 1.0
+    },
+    "video5": {
+      "total": 35,
+      "valid": 9,
+      "accuracy": 0.2571428571428571
+    },
+    "video7": {
+      "total": 11,
+      "valid": 3,
+      "accuracy": 0.2727272727272727
+    },
+    "video6": {
+      "total": 4,
+      "valid": 1,
+      "accuracy": 0.25
+    },
+    "video1": {
+      "total": 1,
+      "valid": 1,
+      "accuracy": 1.0
+    }
+  }
+}
