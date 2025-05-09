@@ -31,6 +31,7 @@ pip install -r requirements.txt
 3. Create a `.env` file in the project root and add your OpenAI API key:
 ```
 OPENAI_API_KEY=your_api_key_here
+OPENAI_API_BASE=https://api.ai.it.cornell.edu  # For Cornell IT API
 ```
 
 ## Usage
@@ -84,9 +85,27 @@ python validate_predictions.py
 
 The script will:
 - Read predictions from `predictions.json`
-- Validate each prediction using GPT-4
-- Perform web searches to verify predictions
-- Save validation results in `validated_predictions.json`
+- Validate each prediction using GPT-4.1
+- Save validation results in `validated_predictions/` directory:
+  - `all_validations.json`: Detailed validation results for each prediction
+  - `validation_metrics.json`: Summary metrics and statistics
+
+## Latest Results
+
+### Validation Metrics
+- Total predictions analyzed: 97
+- Overall accuracy: 29.90%
+- High confidence accuracy: 36.25%
+
+### Confidence Distribution
+- High confidence (>=0.8): 80 predictions
+- Medium confidence (0.5-0.8): 3 predictions
+- Low confidence (<0.5): 14 predictions
+
+### Video-wise Accuracy
+- 100% accuracy: video1, video4, video8
+- 25-40% accuracy: video5, video6, video7, video9, video10
+- 0% accuracy: video12, video15, video16, video19, video20, video21, video23
 
 ## Project Structure
 
@@ -96,6 +115,8 @@ The script will:
 ├── transcripts/            # Video transcripts (SRT and TXT)
 ├── predictions.json        # Extracted predictions
 ├── validated_predictions/  # Validation results
+│   ├── all_validations.json  # Detailed validation results
+│   └── validation_metrics.json  # Summary metrics
 ├── download_video.py      # Video download script
 ├── transcribe_video.py    # Transcription script
 ├── extract_predictions.py # Prediction extraction script
@@ -108,7 +129,4 @@ The script will:
 - All scripts include progress bars and detailed logging
 - Results are saved in JSON format for easy analysis
 - The project is containerized using Docker for easy deployment
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- API configuration supports Cornell IT API endpoints
